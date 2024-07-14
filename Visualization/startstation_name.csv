@@ -1,0 +1,2996 @@
+start_station_name,member_casual,rides_total,avg_trip_duration,max_trip_duration,min_trip_duration
+,member,525816,11.948040759505213,481,1
+,casual,305569,13.336689912916551,480,1
+Streeter Dr & Grand Ave,casual,44939,35.003716148556919,1382,1
+DuSable Lake Shore Dr & Monroe St,casual,29794,35.145197019534152,1439,1
+Kingsbury St & Kinzie St,member,25609,8.6833925573040709,1342,1
+Clinton St & Washington Blvd,member,25587,10.782663071090795,1397,1
+Clark St & Elm St,member,24492,10.956148946594807,1317,1
+Michigan Ave & Oak St,casual,22159,35.9337063946929,1408,1
+Wells St & Concord Ln,member,20975,10.868843861740164,1314,1
+Wells St & Elm St,member,20040,9.6662175648702586,1252,1
+Clinton St & Madison St,member,20023,10.474404434899865,1401,1
+DuSable Lake Shore Dr & North Blvd,casual,19885,26.908071410611015,1314,1
+Millennium Park,casual,19689,38.034638630707505,1409,1
+University Ave & 57th St,member,19581,7.3117818293243424,1429,1
+Broadway & Barry Ave,member,18599,12.166514328727352,1329,1
+Loomis St & Lexington St,member,18363,8.87017371889125,1370,1
+Ellis Ave & 60th St,member,17838,6.5196770938446011,1160,1
+State St & Chicago Ave,member,17798,11.355714125182603,1411,1
+Shedd Aquarium,casual,17389,30.228765311403752,1385,1
+Canal St & Adams St,member,17109,11.655795195511136,1069,1
+Streeter Dr & Grand Ave,member,16803,18.938344343272028,1023,1
+Larrabee St & Kingsbury St,member,16640,9.4038461538461551,1420,1
+Clinton St & Jackson Blvd,member,16612,10.945581507344089,1256,1
+Wells St & Huron St,member,16602,9.5969762679195245,1411,1
+Morgan St & Polk St,member,16523,8.2173334140289267,1330,1
+Wilton Ave & Belmont Ave,member,16455,10.160498328775448,1093,1
+Sheffield Ave & Fullerton Ave,member,16442,9.0473178445444535,1439,1
+Dearborn St & Erie St,member,16358,11.033317031421934,1016,1
+State St & 33rd St,member,16233,7.7019035298466072,1012,1
+Theater on the Lake,casual,15995,29.500343857455462,1384,1
+Desplaines St & Kinzie St,member,15754,8.9669925098387733,1084,1
+Wells St & Hubbard St,member,15614,9.8332265915204342,969,1
+DuSable Lake Shore Dr & North Blvd,member,15190,16.8560236998025,784,1
+Dusable Harbor,casual,15139,35.168373076160911,1439,1
+Wabash Ave & Grand Ave,member,15130,12.328354263053534,1237,1
+Clark St & Armitage Ave,member,15066,12.074405947165802,707,1
+St. Clair St & Erie St,member,14988,12.886909527622105,1439,1
+Broadway & Waveland Ave,member,14972,10.757413839166443,1401,1
+Kingsbury St & Erie St,member,14954,8.23150996388926,1067,1
+Clark St & Wrightwood Ave,member,14788,10.756153638084934,1170,1
+Halsted St & Polk St,member,14607,8.7382761689600912,1348,1
+Halsted St & Clybourn Ave,member,14479,11.551143034739965,1300,1
+Ashland Ave & Division St,member,14431,12.072344258887121,1140,1
+Michigan Ave & Oak St,member,14353,19.535219117954433,1431,1
+Dearborn Pkwy & Delaware Pl,member,14306,11.518593597092122,902,1
+Green St & Madison St,member,14271,10.941559806600802,947,1
+Ellis Ave & 55th St,member,14239,6.6961163003019859,1343,1
+Lincoln Ave & Fullerton Ave,member,14233,11.229466732241969,1439,1
+Clark St & Lincoln Ave,member,14201,12.066192521653402,1220,1
+Indiana Ave & Roosevelt Rd,member,14156,14.368465668267875,1439,1
+Pine Grove Ave & Waveland Ave,member,13943,13.214229362404074,1064,1
+Orleans St & Merchandise Mart Plaza,member,13720,10.065597667638482,1393,1
+Dearborn St & Monroe St,member,13656,11.638181019332162,1073,1
+Canal St & Madison St,member,13643,11.050135600674338,1133,1
+Clark St & Drummond Pl,member,13626,11.820710406575664,1257,1
+MLK Jr Dr & 29th St,member,13597,10.062955063616974,973,1
+LaSalle St & Illinois St,member,13547,12.455229940208168,1191,1
+Wabash Ave & Roosevelt Rd,member,13508,11.038865857269764,1353,1
+Theater on the Lake,member,13412,19.900909633164332,1429,1
+Michigan Ave & Washington St,member,13176,12.857847601700056,1374,1
+Broadway & Cornelia Ave,member,13093,11.396013136790652,1116,1
+Southport Ave & Waveland Ave,member,13023,10.727174998080319,1270,1
+Sheridan Rd & Irving Park Rd,member,13021,9.8338069272713327,1337,1
+Clinton St & Lake St,member,12970,9.4541249036237467,1065,1
+Peoria St & Jackson Blvd,member,12931,10.074549532132085,1308,1
+Damen Ave & Pierce Ave,member,12899,12.484611210171332,1190,1
+Columbus Dr & Randolph St,member,12774,12.395021136683889,951,1
+Daley Center Plaza,member,12763,12.89156154509128,935,1
+Michigan Ave & Lake St,member,12681,12.101096128065606,858,1
+Halsted St & Roscoe St,member,12630,11.400950118764841,1196,1
+Clark St & Schiller St,member,12456,11.698458574181117,1337,1
+McClurg Ct & Ohio St,member,12388,13.988214401033263,1421,1
+Larrabee St & Webster Ave,member,12269,10.875784497514056,1233,1
+Ravenswood Ave & Lawrence Ave,member,12261,10.440013049506565,1431,1
+Halsted St & Wrightwood Ave,member,12163,10.573378278385269,1126,1
+Franklin St & Monroe St,member,12132,10.857237059017477,957,1
+DuSable Lake Shore Dr & Diversey Pkwy,member,12127,15.881339160550837,1332,1
+Southport Ave & Roscoe St,member,12125,11.078185567010312,1143,1
+Federal St & Polk St,member,12051,11.159903742428011,924,1
+Clark St & Newport St,member,12016,11.105276298268976,1248,1
+Wells St & Concord Ln,casual,11963,16.496447379419873,1412,1
+Sheffield Ave & Webster Ave,member,11874,10.025686373589348,1037,1
+LaSalle St & Jackson Blvd,member,11818,10.589355220849553,1432,1
+Canal St & Monroe St,member,11775,10.527303609341823,900,1
+Lakeview Ave & Fullerton Pkwy,member,11704,12.768028024606968,1358,1
+Adler Planetarium,casual,11648,33.641397664835161,1375,1
+Racine Ave & Fullerton Ave,member,11623,10.956895810031835,1013,1
+Montrose Harbor,casual,11575,34.072570194384454,1390,1
+DuSable Lake Shore Dr & Belmont Ave,member,11565,15.89390402075227,1032,1
+Sheffield Ave & Waveland Ave,member,11543,11.117040630685263,1265,1
+Calumet Ave & 33rd St,member,11454,7.5435655666142836,1356,1
+Wilton Ave & Diversey Pkwy,member,11438,9.7063297779332025,1124,1
+Indiana Ave & Roosevelt Rd,casual,11401,31.32277870362249,1436,1
+New St & Illinois St,member,11313,13.694952709272517,993,1
+Franklin St & Lake St,member,11124,10.539374325782088,547,1
+Pine Grove Ave & Irving Park Rd,member,11087,10.459457021737169,993,1
+Kimbark Ave & 53rd St,member,11073,10.026189831120744,1115,1
+Franklin St & Jackson Blvd,member,11017,10.50213306707815,676,1
+Wells St & Evergreen Ave,member,11000,10.738909090909091,1416,1
+May St & Taylor St,member,10963,9.5686399708109118,1432,1
+Clark St & Armitage Ave,casual,10916,22.055606449248806,1418,1
+Aberdeen St & Jackson Blvd,member,10908,10.057572423909061,1392,1
+Sheffield Ave & Wellington Ave,member,10808,10.932179866765361,1439,1
+Broadway & Sheridan Rd,member,10685,10.435938231165187,1175,1
+Clark St & Lincoln Ave,casual,10676,21.966466841513672,1282,1
+Fairbanks Ct & Grand Ave,member,10652,12.099981224183251,946,1
+Michigan Ave & 8th St,casual,10638,32.481575484113556,1439,1
+Clark St & Elm St,casual,10623,17.75524804669114,1356,1
+Clark St & Lake St,member,10622,11.563359066089244,1097,1
+Sedgwick St & Huron St,member,10616,9.1884890730972124,1179,1
+Clark St & Wellington Ave,member,10549,11.122760451227602,1246,1
+Sheridan Rd & Montrose Ave,member,10546,11.159396927745121,1330,1
+Broadway & Belmont Ave,member,10509,11.841278903796745,939,1
+Clarendon Ave & Gordon Ter,member,10497,13.184052586453273,1185,1
+Wilton Ave & Belmont Ave,casual,10454,16.674765639946433,1393,1
+Sheffield Ave & Wrightwood Ave,member,10391,10.211336733711864,1330,1
+State St & Randolph St,member,10353,12.711388003477255,1250,1
+Desplaines St & Jackson Blvd,member,10303,10.028632437154226,1238,1
+McClurg Ct & Erie St,member,10302,13.935255290234906,1122,1
+Rush St & Cedar St,member,10299,12.531605010195165,986,1
+Canal St & Jackson Blvd,member,10212,11.184195064629849,1283,1
+Milwaukee Ave & Grand Ave,member,10157,9.9639657379147355,818,1
+Clark St & Winnemac Ave,member,10044,11.057148546395858,1085,1
+Rush St & Superior St,member,9997,12.121336400920274,1263,1
+DuSable Lake Shore Dr & Wellington Ave,member,9933,17.604953186348531,1259,1
+Halsted St & Dickens Ave,member,9892,11.537909421754954,1423,1
+Wells St & Elm St,casual,9848,14.695674248578394,1247,1
+Sheffield Ave & Kingsbury St,member,9848,10.835093419983751,1078,1
+Stockton Dr & Wrightwood Ave,member,9826,14.365153673926317,813,1
+Sedgwick St & Webster Ave,member,9814,11.17475035663338,972,1
+State St & Kinzie St,member,9777,11.82325866830316,1419,1
+Clark St & Randolph St,member,9690,13.193808049535608,1125,1
+Franklin St & Chicago Ave,member,9675,9.4126098191214442,967,1
+Millennium Park,member,9663,17.638000620925183,536,1
+Sedgwick St & North Ave,member,9589,10.519345082907495,970,1
+Wabash Ave & Grand Ave,casual,9557,30.22057130898818,1360,1
+Halsted St & Fulton St,member,9543,12.134863250550143,1103,1
+DuSable Lake Shore Dr & Monroe St,member,9527,22.726671565025715,1298,1
+Clark St & Newport St,casual,9510,16.712092534174555,1330,1
+Burling St & Diversey Pkwy,member,9372,11.373026034997869,746,1
+Broadway & Barry Ave,casual,9359,18.252697937813867,1374,1
+900 W Harrison St,member,9286,9.08108981262115,1399,1
+Mies van der Rohe Way & Chicago Ave,member,9197,12.727411112319233,266,1
+Franklin St & Illinois St,member,9189,9.659048862770705,912,1
+Southport Ave & Wellington Ave,member,9163,10.635490559860306,1357,1
+Lincoln Ave & Diversey Pkwy,member,9129,10.540584949063419,1081,1
+Michigan Ave & Washington St,casual,9101,32.536864080870231,1351,1
+DuSable Lake Shore Dr & Diversey Pkwy,casual,9030,25.657142857142858,1302,1
+New St & Illinois St,casual,8959,31.057707333407741,1365,1
+Wood St & Milwaukee Ave,member,8898,13.67779276241852,1292,1
+DuSable Lake Shore Dr & Belmont Ave,casual,8897,26.733280881195913,1435,1
+LaSalle St & Illinois St,casual,8840,22.114479638009048,1396,1
+Wabash Ave & 9th St,member,8774,11.921016640072938,1233,1
+Ogden Ave & Chicago Ave,member,8719,10.651909622663149,532,1
+McClurg Ct & Ohio St,casual,8667,32.274143302180683,1307,1
+Kingsbury St & Kinzie St,casual,8650,14.769710982658962,1197,1
+Sangamon St & Lake St,member,8495,11.061212477928196,525,1
+Milwaukee Ave & Wabansia Ave,member,8487,12.585365853658537,1439,1
+Clark St & Wrightwood Ave,casual,8412,15.926890156918688,1423,1
+Honore St & Division St,member,8407,13.713096229332699,1215,1
+Michigan Ave & Lake St,casual,8366,30.255797274683243,1324,1
+Sheffield Ave & Fullerton Ave,casual,8281,13.224489795918366,1064,1
+Sheffield Ave & Waveland Ave,casual,8218,20.196154782185445,1245,1
+Wolcott Ave & Polk St,member,8202,10.785662033650331,1132,1
+Field Museum,casual,8173,29.748929401688486,1343,1
+Larrabee St & Webster Ave,casual,8170,16.371236230110163,1316,1
+Southport Ave & Belmont Ave,member,8061,10.519042302443866,1379,1
+Wells St & Walton St,member,8045,8.95873213175886,461,1
+Lakeview Ave & Fullerton Pkwy,casual,8041,22.528541226215641,1244,1
+Michigan Ave & 14th St,member,7990,12.884355444305383,1019,1
+Dayton St & North Ave,member,7989,11.957316309926155,1302,1
+Mies van der Rohe Way & Chestnut St,member,7987,13.45824464755227,856,1
+Rhodes Ave & 32nd St,member,7971,10.294693263078656,1439,1
+Racine Ave & Belmont Ave,member,7890,10.995690747782001,1012,1
+Clark St & Berwyn Ave,member,7880,12.350888324873095,1272,1
+Wacker Dr & Washington St,member,7875,8.94615873015873,503,1
+Larrabee St & Division St,member,7867,9.58243294775645,950,1
+Montrose Harbor,member,7858,20.741282769152452,1367,1
+Wells St & Huron St,casual,7826,14.783158701763355,1197,1
+Sheridan Rd & Buena Ave,member,7810,12.245966709346991,1191,1
+Halsted St & Roscoe St,casual,7796,16.373524884556179,1062,1
+Carpenter St & Huron St,member,7757,10.087147092948301,451,1
+DuSable Lake Shore Dr & Wellington Ave,casual,7714,26.581799325900963,1323,1
+Wells St & Evergreen Ave,casual,7701,14.963121672510063,929,1
+Financial Pl & Ida B Wells Dr,member,7685,11.200390370852311,1199,1
+Broadway & Wilson Ave,member,7676,11.127540385617507,964,1
+Lincoln Ave & Fullerton Ave,casual,7663,15.168080386271695,1030,1
+Broadway & Cornelia Ave,casual,7648,19.875523012552303,1356,1
+Halsted St & Maxwell St,member,7564,9.6529613960867255,1335,1
+Greenview Ave & Fullerton Ave,member,7551,11.37690372136141,1439,1
+Aberdeen St & Randolph St,member,7547,10.505498873724662,1032,1
+Clark St & Grace St,member,7538,11.132130538604409,914,1
+Racine Ave & Congress Pkwy,member,7517,9.2668617799654136,437,1
+Clarendon Ave & Junior Ter,member,7439,13.094233095846214,1172,1
+Kedzie Ave & Milwaukee Ave,member,7416,14.834681769147791,1439,1
+Southport Ave & Wrightwood Ave,member,7411,10.450681419511536,896,1
+Wells St & Hubbard St,casual,7404,17.19097784981091,1340,1
+Halsted St & Willow St,member,7368,11.227877307274703,1321,1
+Dearborn St & Erie St,casual,7337,21.842442415156061,1317,1
+Columbus Dr & Randolph St,casual,7292,31.520707624794298,1436,1
+Halsted St & Roosevelt Rd,member,7252,9.3921676778819645,1186,1
+LaSalle Dr & Huron St,member,7196,11.078237909949969,1084,1
+State St & Chicago Ave,casual,7189,18.104604256502988,1308,1
+Stetson Ave & South Water St,member,7168,11.052036830357146,874,1
+Clark St & Chicago Ave,member,7151,10.708712068242207,1361,1
+Clifton Ave & Armitage Ave,member,7137,12.133669609079444,1317,1
+Aberdeen St & Monroe St,member,7123,10.337919415976415,952,1
+Desplaines St & Randolph St,member,7106,10.713903743315511,1198,1
+Southport Ave & Roscoe St,casual,7105,16.785503166783954,1332,1
+Woodlawn Ave & 55th St,member,7092,9.33981951494642,1434,1
+Desplaines St & Kinzie St,casual,7078,14.024441932749367,1099,1
+Ellis Ave & 58th St,member,7076,7.6440079140757495,1047,1
+Ashland Ave & Division St,casual,7054,17.478593705698895,1385,1
+Jefferson St & Monroe St,member,7045,10.258623136976579,762,1
+Cityfront Plaza Dr & Pioneer Ct,member,7034,13.096673301108899,1229,1
+Lincoln Park Conservatory,casual,7018,32.089626674266178,1376,1
+Pine Grove Ave & Waveland Ave,casual,7003,21.945166357275451,1415,1
+Franklin St & Adams St (Temp),member,6998,9.946699056873392,531,1
+Clark St & Drummond Pl,casual,6995,18.147962830593283,1401,1
+Ritchie Ct & Banks St,member,6989,12.802546859350405,1126,1
+Wells St & Polk St,member,6976,10.179615825688071,1241,1
+Paulina St & Flournoy St,member,6960,11.911206896551725,969,1
+Halsted St & Wrightwood Ave,casual,6960,13.710775862068964,1431,1
+Ellis Ave & 60th St,casual,6911,12.184488496599627,1417,1
+Damen Ave & Chicago Ave,member,6900,11.733623188405799,969,1
+Damen Ave & Pierce Ave,casual,6880,17.5156976744186,1376,1
+Clark St & North Ave,member,6863,13.614308611394437,709,1
+Larrabee St & Oak St,member,6860,9.9524781341107857,969,1
+California Ave & Milwaukee Ave,member,6834,11.243927421714952,296,1
+Field Blvd & South Water St,member,6832,15.90456674473068,947,1
+Damen Ave & Cortland St,member,6800,12.54544117647059,465,1
+Broadway & Waveland Ave,casual,6786,17.101827291482461,1430,1
+Wabash Ave & Roosevelt Rd,casual,6756,24.072972172883365,1265,1
+Sheffield Ave & Willow St,member,6749,10.147873759075418,389,1
+Sheffield Ave & Wrightwood Ave,casual,6701,15.672884644082979,1439,1
+Rush St & Hubbard St,member,6697,11.247573540391222,1320,1
+Clark St & Leland Ave,member,6682,12.221789883268483,1196,1
+Wabash Ave & Wacker Pl,member,6673,13.714970777761122,1394,1
+Michigan Ave & Jackson Blvd,casual,6659,35.0175702057366,1430,1
+Michigan Ave & 8th St,member,6614,13.997883277895371,1439,1
+Southport Ave & Waveland Ave,casual,6608,17.042524213075069,1358,1
+Dearborn Pkwy & Delaware Pl,casual,6545,18.564858670741021,1328,1
+Sheffield Ave & Webster Ave,casual,6486,16.008325624421833,1315,1
+Lakefront Trail & Bryn Mawr Ave,member,6486,22.58587727412889,1374,1
+University Ave & 57th St,casual,6482,14.543042270904042,1376,1
+Western Ave & Winnebago Ave,member,6470,12.097372488408038,811,1
+Wabash Ave & Adams St,member,6460,11.505727554179565,959,1
+Halsted St & Clybourn Ave,casual,6420,14.871651090342677,1390,1
+Dearborn St & Adams St,member,6382,10.894860545283612,816,1
+Clinton St & Washington Blvd,casual,6380,16.350783699059559,1347,1
+Fairbanks Ct & Grand Ave,casual,6368,27.512248743718597,1185,1
+Elston Ave & Cortland St,member,6362,11.075447972335745,270,1
+Lake Park Ave & 56th St,member,6341,11.417757451506072,1266,1
+Clark St & Bryn Mawr Ave,member,6293,12.13062132528206,563,1
+Orleans St & Hubbard St,member,6291,9.1190589731362266,1439,1
+Ogden Ave & Race Ave,member,6282,11.512893982808025,976,1
+State St & Van Buren St,member,6241,12.085723441756132,914,1
+State St & Randolph St,casual,6236,24.088357921744709,1329,1
+St. Clair St & Erie St,casual,6191,28.74737522209659,1407,1
+Orleans St & Chestnut St (NEXT Apts),member,6182,8.6260109996764776,327,1
+State St & Pearson St,member,6173,12.185323181597282,712,1
+Wilton Ave & Diversey Pkwy,casual,6144,14.127604166666666,1193,1
+Clinton St & Madison St,casual,6114,16.701504743212304,1376,1
+Michigan Ave & 18th St,member,6077,12.831660358729637,595,1
+Broadway & Argyle St,member,6064,13.425791556728232,1204,1
+Wabash Ave & 16th St,member,6046,12.662917631491899,1089,1
+Stockton Dr & Wrightwood Ave,casual,6043,22.878702631143469,1425,1
+Bissell St & Armitage Ave*,member,6032,10.878978779840851,1336,1
+Eckhart Park,member,5985,11.175104427736008,462,1
+LaSalle St & Washington St,member,5959,11.77882194999161,1422,1
+Shore Dr & 55th St,member,5937,17.683510190331813,1140,1
+Sheffield Ave & Wellington Ave,casual,5922,16.534954407294833,1439,1
+Clark St & Schiller St,casual,5901,19.346551431960687,1415,1
+Throop St & Taylor St,member,5856,9.1448087431694,1439,1
+Larrabee St & Armitage Ave,member,5840,10.950000000000001,813,1
+Clark St & Wellington Ave,casual,5819,15.939680357449735,1360,1
+State St & 35th St,member,5818,9.9176693021656916,959,1
+Dusable Harbor,member,5816,20.932599724896836,435,1
+Clark St & Grace St,casual,5775,18.135238095238094,1440,1
+Sheridan Rd & Irving Park Rd,casual,5767,16.025836656840646,1430,1
+Wabash Ave & Wacker Pl,casual,5753,29.940205110377203,1439,1
+Broadway & Belmont Ave,casual,5747,19.315990951800938,1224,1
+Morgan St & Lake St*,member,5744,10.602019498607243,662,1
+Clark St & Ida B Wells Dr,member,5705,10.902892199824718,641,1
+Michigan Ave & Madison St,member,5678,12.871081366678405,922,1
+Ashland Ave & Blackhawk St,member,5672,12.776622002820876,591,1
+Damen Ave & Thomas St (Augusta Blvd),member,5665,12.334686672550749,655,1
+Southport Ave & Clybourn Ave,member,5654,12.180226388397593,536,1
+Western Ave & Leland Ave,member,5637,11.690438176334929,591,1
+Cityfront Plaza Dr & Pioneer Ct,casual,5605,32.608028545941124,1313,1
+Southport Ave & Irving Park Rd,member,5592,9.3841201716738212,1050,1
+Mies van der Rohe Way & Chestnut St,casual,5587,29.590298908179705,1287,1
+Wood St & Chicago Ave,member,5586,11.434300035803796,425,1
+Orleans St & Merchandise Mart Plaza,casual,5571,17.45180398492192,1180,1
+Wood St & Taylor St (Temp),member,5569,11.011312623451246,475,1
+Halsted St & Dickens Ave,casual,5552,16.279538904899137,1007,1
+Racine Ave & Belmont Ave,casual,5551,15.787425689065035,1420,1
+Green St & Madison St,casual,5540,16.491696750902523,817,1
+Canal St & Adams St,casual,5516,18.467186366932562,1408,1
+Daley Center Plaza,casual,5504,21.396438953488378,1427,1
+Milwaukee Ave & Grand Ave,casual,5503,14.944212247864801,1344,1
+Elizabeth St & Randolph St,member,5499,9.52482269503546,883,1
+Lincoln Park Conservatory,member,5495,15.462056414922657,344,1
+Sangamon St & Washington Blvd,member,5491,10.481515206701875,1314,1
+Franklin St & Jackson Blvd,casual,5481,24.546068235723407,1368,1
+Clinton St & Jackson Blvd,casual,5470,17.448446069469838,1262,1
+Broadway & Berwyn Ave,member,5457,11.973978376397287,739,1
+Racine Ave & Wrightwood Ave,member,5425,10.21585253456221,709,1
+Clark St & Winnemac Ave,casual,5422,14.983032091479158,1387,1
+Green St & Washington Blvd,member,5418,11.664267257290513,816,1
+Lakefront Trail & Bryn Mawr Ave,casual,5389,36.418444980515865,1310,1
+Kedzie Ave & Milwaukee Ave,casual,5373,19.523171412618645,1216,1
+Michigan Ave & Jackson Blvd,member,5363,13.723102741003171,779,1
+Burnham Harbor,member,5333,25.008438027376712,449,1
+Pine Grove Ave & Irving Park Rd,casual,5329,20.957027584912744,1356,1
+Rush St & Cedar St,casual,5304,22.775263951734544,1147,1
+Michigan Ave & Pearson St,member,5293,14.466276213867371,1426,1
+Ashland Ave & Augusta Blvd,member,5293,12.483657661061779,477,1
+Federal St & Polk St,casual,5285,20.097824030274364,875,1
+Halsted St & Fulton St,casual,5278,16.848048503220916,1127,1
+Larrabee St & North Ave,member,5278,10.78249336870026,806,1
+Damen Ave & Division St,member,5271,11.769493454752418,587,1
+Canal St & Madison St,casual,5260,18.573574144486692,1261,1
+Clybourn Ave & Division St,member,5217,10.144719187272377,816,1
+Ravenswood Ave & Lawrence Ave,casual,5215,15.218600191754554,1331,1
+Emerald Ave & 31st St,member,5182,10.548822848321112,384,1
+Ellis Ave & 55th St,casual,5163,10.764090644973848,1029,1
+Sedgwick St & North Ave,casual,5159,17.8241907346385,1414,1
+Fairbanks St & Superior St,member,5142,13.346168805912098,960,1
+Ashland Ave & Wellington Ave,member,5131,10.648411615669458,699,1
+Hermitage Ave & Polk St,member,5109,11.173027989821881,1391,1
+Dearborn St & Monroe St,casual,5102,21.938847510780089,1328,1
+Clinton St & Roosevelt Rd,member,5100,11.304509803921569,769,1
+Broadway & Sheridan Rd,casual,5091,16.750933019053232,882,1
+Field Blvd & South Water St,casual,5090,29.808644400785859,1260,1
+State St & Kinzie St,casual,5077,27.056923379948788,1392,1
+Clark St & North Ave,casual,5055,26.504648862512369,1243,1
+Ashland Ave & Grace St,member,5037,11.518562636489975,1389,1
+Clark St & Lake St,casual,5021,27.144194383588925,1418,1
+State St & Harrison St,member,5010,12.17624750499002,925,1
+Sedgwick St & Webster Ave,casual,4986,16.956478138788608,1281,1
+Wabash Ave & 9th St,casual,4955,23.413118062563065,1314,1
+Kimbark Ave & 53rd St,casual,4944,16.083333333333332,1310,1
+Clark St & Montrose Ave,member,4939,10.626645069852197,746,1
+Leavitt St & North Ave,member,4935,11.712664640324215,994,1
+California Ave & Milwaukee Ave,casual,4926,15.095412099066179,1202,1
+Wood St & Augusta Blvd,member,4911,12.286092445530443,270,1
+McCormick Place,casual,4902,32.714606283149728,1389,1
+Shedd Aquarium,member,4863,18.468435122352453,998,1
+Adler Planetarium,member,4857,21.109326744904273,381,1
+Elizabeth St & Fulton St,member,4854,10.337659662134323,930,1
+Clinton St & Lake St,casual,4841,14.580665151828134,1165,1
+Walsh Park,member,4827,13.385125336648022,407,1
+Loomis St & Jackson Blvd,member,4823,10.980510055981751,401,1
+Southport Ave & Wellington Ave,casual,4818,14.595267745952681,1416,1
+Cornell Ave & Hyde Park Blvd,member,4813,15.02659463951797,631,1
+Broadway & Thorndale Ave,member,4773,14.358684265661006,699,1
+Larrabee St & Kingsbury St,casual,4711,12.993419656123965,1297,1
+Ada St & Washington Blvd,member,4709,10.315141218942452,1331,1
+Lincoln Ave & Roscoe St*,member,4709,12.058186451475896,918,1
+Kingsbury St & Erie St,casual,4689,12.769886969503091,1158,1
+Lincoln Ave & Diversey Pkwy,casual,4686,13.345283824157065,1322,1
+Sheridan Rd & Argyle St,member,4665,12.668381564844587,335,1
+Michigan Ave & Pearson St,casual,4601,34.170397739621826,1335,1
+Shore Dr & 55th St,casual,4578,37.455002184359984,1428,1
+Calumet Ave & 18th St,member,4578,15.403014416775884,972,1
+Indiana Ave & 31st St,member,4564,9.8187992988606485,1138,1
+Rush St & Superior St,casual,4559,24.831980697521388,1261,1
+Paulina Ave & North Ave,member,4559,12.634568984426407,233,1
+Winthrop Ave & Lawrence Ave,member,4542,11.592250110083667,1167,1
+McClurg Ct & Erie St,casual,4541,32.192028187623869,1240,1
+Sheridan Rd & Montrose Ave,casual,4529,17.372488408037093,1231,1
+Shields Ave & 31st St,member,4525,8.8786740331491725,1115,1
+Wells St & Institute Pl,member,4521,9.5686794956867924,1322,1
+Delano Ct & Roosevelt Rd,member,4493,12.136657022034274,1155,1
+Franklin St & Illinois St,casual,4493,15.235032272423769,1386,1
+Sheridan Rd & Lawrence Ave,member,4486,10.717565760142664,1157,1
+Lakefront Trail & Wilson Ave,casual,4484,37.799509366636933,1422,1
+Western Ave & Fillmore St,member,4482,11.218206157965195,138,1
+Damen Ave & Leland Ave,member,4456,10.338644524236983,902,1
+Larrabee St & Menomonee St,member,4455,11.614814814814816,1006,1
+Greenview Ave & Diversey Pkwy,member,4454,11.587561742254156,767,1
+Lake Park Ave & 53rd St,member,4450,17.900449438202255,1370,1
+Orleans St & Elm St,member,4426,11.682557614098508,1422,1
+Ashland Ave & Chicago Ave,member,4423,10.727334388424145,463,1
+Franklin St & Lake St,casual,4420,17.650000000000002,1317,1
+Broadway & Ridge Ave,member,4382,14.116613418530353,688,1
+Wood St & Milwaukee Ave,casual,4359,17.647625602202339,1233,1
+Racine Ave & Fullerton Ave,casual,4345,15.115535097813579,1279,1
+Broadway & Granville Ave,member,4331,15.265989378896327,644,1
+Damen Ave & Cortland St,casual,4328,17.417282809611827,884,1
+Michigan Ave & Madison St,casual,4324,29.043940795559671,1416,1
+Western Ave & Walton St,member,4315,13.620393974507532,1309,1
+N Green St & W Lake St,member,4303,10.479897745758771,127,1
+Clarendon Ave & Gordon Ter,casual,4301,17.568704952336667,1281,1
+Marine Dr & Ainslie St,member,4299,15.941149104442895,1295,1
+Canal St & Taylor St,member,4290,9.5032634032634036,389,1
+Ellis Ave & 53rd St,member,4273,8.73110227006787,485,1
+Mies van der Rohe Way & Chicago Ave,casual,4262,29.458939465039887,977,1
+Leavitt St & Armitage Ave,member,4252,11.416274694261523,353,1
+Burling St & Diversey Pkwy,casual,4252,16.14628410159925,1176,1
+Ogden Ave & Chicago Ave,casual,4246,14.646726330664157,930,1
+Clarendon Ave & Leland Ave,member,4243,12.988922931887815,1208,1
+Clark St & Randolph St,casual,4211,24.237235810971264,1183,1
+Honore St & Division St,casual,4188,16.346704871060165,1157,1
+Michigan Ave & Ida B Wells Dr,casual,4185,32.865710872162495,1431,1
+Clark St & Berwyn Ave,casual,4179,19.863843024647043,1357,1
+Southport Ave & Wrightwood Ave,casual,4173,12.858614905343874,916,1
+Logan Blvd & Elston Ave,member,4164,13.709894332372718,889,1
+Ritchie Ct & Banks St,casual,4163,21.954359836656259,1364,1
+Peoria St & Jackson Blvd,casual,4154,17.229658160808857,1197,1
+LaSalle Dr & Huron St,casual,4081,22.571918647390348,1358,1
+Franklin St & Chicago Ave,casual,4066,16.323167732415154,1088,1
+Ravenswood Ave & Irving Park Rd,member,4065,11.615744157441577,373,1
+Dayton St & North Ave,casual,4063,15.171301993600785,1160,1
+Southport Ave & Belmont Ave,casual,4052,15.633761105626849,1197,1
+Milwaukee Ave & Wabansia Ave,casual,4049,17.99975302543838,1342,1
+Burnham Harbor,casual,4029,33.513775130305291,1399,1
+Lincoln Ave & Sunnyside Ave,member,4018,12.0669487307118,1254,1
+Wolcott (Ravenswood) Ave & Montrose Ave,member,4016,10.317729083665343,837,1
+Greenview Ave & Fullerton Ave,casual,4014,13.659940209267562,969,1
+Seeley Ave & Roscoe St,member,4006,13.920619071392911,459,1
+Sedgwick St & Huron St,casual,3999,15.164041010252562,1439,1
+Western Ave & Division St,member,3988,13.914493480441324,257,1
+Sheffield Ave & Kingsbury St,casual,3971,14.541928985142281,817,1
+Michigan Ave & 14th St,casual,3959,25.251326092447584,1222,1
+Racine Ave & 18th St,member,3951,11.891672994178689,1350,1
+Damen Ave & Grand Ave,member,3945,12.670975918884665,1197,1
+Campbell Ave & North Ave,member,3944,13.190669371196753,479,1
+Broadway & Wilson Ave,casual,3937,18.170434340868677,1289,1
+Paulina St & Montrose Ave,member,3908,10.624360286591607,621,1
+Lakefront Trail & Wilson Ave,member,3864,21.330486542443065,1337,1
+Clarendon Ave & Junior Ter,casual,3848,23.367463617463613,1327,1
+Damen Ave & Charleston St,member,3811,12.548674888480713,230,1
+Dearborn St & Van Buren St,member,3801,11.30307813733228,644,1
+Canal St & Jackson Blvd,casual,3787,17.889622392395037,1322,1
+Ashland Ave & Grand Ave,member,3770,12.037400530503978,923,1
+Aberdeen St & Jackson Blvd,casual,3752,17.370469083155648,1289,1
+Leavitt St & Chicago Ave,member,3741,12.69339748730286,157,1
+Sheridan Rd & Noyes St (NU),member,3723,11.852269674993284,1439,1
+Lincoln Ave & Melrose St,member,3720,11.127419354838709,859,1
+Clark St & Chicago Ave,casual,3707,17.464526571351488,1278,1
+Harper Ave & 59th St,member,3699,10.050013517166803,727,1
+Racine Ave & Washington Blvd,member,3699,9.8821303054879728,1178,1
+Stetson Ave & South Water St,casual,3695,28.101759133964812,1107,1
+Canal St & Monroe St,casual,3669,17.361133823930221,1311,1
+LaSalle St & Jackson Blvd,casual,3668,22.684023991275897,1354,1
+Wells St & Walton St,casual,3665,15.487312414733973,1426,1
+Clark St & 9th St (AMLI),member,3650,10.759726027397262,594,1
+Ashland Ave & Lake St,member,3641,9.7344136226311431,327,1
+Western Ave & Winnebago Ave,casual,3628,17.307883131201763,940,1
+Blue Island Ave & 18th St,member,3608,12.557372505543238,1079,1
+Sangamon St & Lake St,casual,3607,19.294427502079287,1338,1
+Spaulding Ave & Armitage Ave,member,3607,15.209869697809811,695,1
+Leavitt St & Division St,member,3602,11.13964464186563,389,1
+Noble St & Milwaukee Ave,member,3600,11.683888888888887,279,1
+Cannon Dr & Fullerton Ave,casual,3586,35.572504182933621,1376,1
+Michigan Ave & Ida B Wells Dr,member,3582,12.266331658291458,1247,1
+Lincoln Ave & Belle Plaine Ave,member,3551,12.027879470571671,311,1
+Carpenter St & Huron St,casual,3526,14.211003970504821,990,1
+Clinton St & Tilden St,member,3522,8.1987507098239654,130,1
+Calumet Ave & 18th St,casual,3512,31.632403189066057,1438,1
+Artesian Ave & Hubbard St,member,3500,11.125428571428568,607,1
+California Ave & Cortez St,member,3460,13.729479768786126,1368,1
+Woodlawn Ave & 55th St,casual,3458,15.977443609022554,1406,1
+Clifton Ave & Armitage Ave,casual,3455,16.786107091172209,1437,1
+Wabash Ave & Adams St,casual,3441,28.403952339436216,1202,1
+Green St & Randolph St*,member,3441,13.143272304562627,1018,1
+Racine Ave & Randolph St,member,3439,10.533294562372783,815,1
+Clark St & Leland Ave,casual,3408,15.482100938967136,874,1
+State St & Harrison St,casual,3399,26.851426890261841,1294,1
+State St & Van Buren St,casual,3395,24.755817378497788,875,1
+Albany Ave & Bloomingdale Ave,member,3390,14.039528023598818,620,1
+Larrabee St & Division St,casual,3384,13.386820330969268,431,1
+Calumet Ave & 35th St,member,3380,10.684911242603549,1159,1
+Aberdeen St & Randolph St,casual,3372,18.177046263345197,1116,1
+Stave St & Armitage Ave,member,3363,13.307760927743088,496,1
+LaSalle St & Adams St,member,3353,12.110348941246643,799,1
+Morgan Ave & 14th Pl,member,3337,10.776745579862149,480,1
+Humboldt Blvd & Armitage Ave,member,3332,14.060624249699883,913,1
+Benson Ave & Church St,member,3327,12.183047790802524,293,1
+Elston Ave & Cortland St,casual,3327,15.934174932371507,1434,1
+Wells St & Polk St,casual,3324,16.244584837545123,575,1
+Rush St & Hubbard St,casual,3310,25.035045317220536,1340,1
+Desplaines St & Randolph St,casual,3299,19.110942709912102,1372,1
+Franklin St & Monroe St,casual,3295,17.374810318664643,1093,1
+Desplaines St & Jackson Blvd,casual,3280,17.547256097560975,921,1
+Museum of Science and Industry,casual,3270,45.675840978593264,1316,1
+Ashland Ave & Wrightwood Ave,member,3266,10.954072259644823,912,1
+Buckingham Fountain,casual,3263,35.74164878945755,1330,1
+Blackstone Ave & Hyde Park Blvd,member,3241,17.054612773835238,987,1
+Damen Ave & Wellington Ave,member,3235,12.579598145285937,1264,1
+Sheridan Rd & Buena Ave,casual,3214,14.20192906036092,1079,1
+900 W Harrison St,casual,3173,15.560668137409392,1343,1
+Sedgwick St & Schiller St,member,3152,11.228743654822335,1232,1
+Ogden Ave & Congress Pkwy,member,3150,13.474603174603176,1123,1
+Lincoln Ave & Waveland Ave,member,3147,12.797267238639973,144,1
+Glenwood Ave & Morse Ave,member,3145,14.62511923688394,1205,1
+Halsted St & Willow St,casual,3134,16.744416081684751,1343,1
+Ravenswood Ave & Berteau Ave,member,3126,10.36084452975048,761,1
+Morgan St & 18th St,member,3085,10.718638573743922,471,1
+Michigan Ave & 18th St,casual,3083,27.627635420045419,1201,1
+Damen Ave & Foster Ave,member,3072,13.123372395833332,938,1
+Damen Ave & Chicago Ave,casual,3067,15.151613955004892,1278,1
+Halsted St & Maxwell St,casual,3065,14.135073409461665,1137,1
+Bissell St & Armitage Ave*,casual,3043,14.491948734801184,980,1
+Paulina St & 18th St,member,3029,13.471112578408716,256,1
+Wentworth Ave & 33rd St,member,2974,9.79119031607263,1352,1
+Wabash Ave & 16th St,casual,2973,23.414059872182985,1363,1
+Sheffield Ave & Willow St,casual,2961,15.570415400202636,1115,1
+Ashland Ave & 13th St,member,2948,11.262550881953866,132,1
+Orleans St & Chestnut St (NEXT Apts),casual,2939,12.082000680503569,1070,1
+Franklin St & Adams St (Temp),casual,2922,21.648186173853524,1356,1
+Morgan St & 31st St,member,2921,12.24443683669976,267,1
+Sheridan Rd & Noyes St (NU),casual,2921,17.3440602533379,1002,1
+Southport Ave & Clybourn Ave,casual,2920,16.905479452054795,1321,1
+Southport Ave & Irving Park Rd,casual,2912,15.538118131868131,1144,1
+Green St & Washington Blvd,casual,2910,21.347422680412379,1317,1
+Delano Ct & Roosevelt Rd,casual,2874,22.321155184411975,1385,1
+Ogden Ave & Race Ave,casual,2860,14.237062937062937,880,1
+Damen Ave & Clybourn Ave,member,2857,14.611830591529575,884,1
+Clark St & Bryn Mawr Ave,casual,2845,19.207732864674867,1092,1
+Loomis St & Lexington St,casual,2845,13.06256590509666,880,1
+California Ave & Francis Pl,member,2824,14.024787535410765,346,1
+Aberdeen St & Monroe St,casual,2813,24.438677568432279,1439,1
+Western Ave & Congress Pkwy,member,2812,12.15682788051209,345,1
+Sheridan Rd & Argyle St,casual,2809,22.050551797792803,1369,1
+Dearborn St & Adams St,casual,2805,24.90802139037433,1105,1
+Larrabee St & Armitage Ave,casual,2802,15.933261955745895,1016,1
+State St & Pearson St,casual,2801,24.139235987147448,1161,1
+Wood St & Hubbard St,member,2775,12.415855855855856,479,1
+Halsted St & 18th St,member,2774,11.716294160057675,254,1
+Clark St & Montrose Ave,casual,2769,15.647165041531238,1381,1
+Halsted St & Polk St,casual,2764,11.572358900144717,321,1
+Eckhart Park,casual,2750,16.02,790,1
+Ashland Ave & Blackhawk St,casual,2750,17.585454545454539,979,1
+Ashland Ave & Grace St,casual,2721,15.743109151047404,1240,1
+Marine Dr & Ainslie St,casual,2721,31.166482910694594,845,1
+Clark St & Lunt Ave,member,2717,10.440559440559442,552,1
+Buckingham Fountain (Temp),casual,2712,30.869100294985252,1055,1
+Paulina Ave & North Ave,casual,2698,17.529651593773167,1272,1
+Financial Pl & Ida B Wells Dr,casual,2697,20.899517982944008,1348,1
+Morgan St & Polk St,casual,2689,12.268873187058386,1279,1
+Damen Ave & Thomas St (Augusta Blvd),casual,2682,16.131245339299035,1165,1
+California Ave & North Ave,member,2678,12.261389096340551,103,1
+Blackstone Ave & 59th St,member,2671,8.1213028828154261,479,1
+Shields Ave & 28th Pl,member,2666,11.107651912978247,788,1
+Sheridan Rd & Loyola Ave,member,2646,13.6832955404384,1166,1
+Leavitt St & North Ave,casual,2638,15.272554965883245,1065,1
+Jefferson St & Monroe St,casual,2635,15.934724857685008,1291,1
+Broadway & Argyle St,casual,2634,20.419514047076685,1423,1
+Hampden Ct & Diversey Ave,member,2633,10.255981769844286,117,1
+Racine Ave & Wrightwood Ave,casual,2633,14.685909608811242,1310,1
+Fort Dearborn Dr & 31st St,member,2630,23.863117870722434,1029,1
+Wentworth Ave & Cermak Rd,member,2604,14.021889400921658,1253,1
+Broadway & Granville Ave,casual,2600,31.902307692307691,1011,1
+Ashland Ave & Lake St,casual,2586,13.510827532869298,1405,1
+Damen Ave & Division St,casual,2586,15.658932714617167,1171,1
+Lake Park Ave & 56th St,casual,2572,19.831648522550552,1076,1
+Orleans St & Hubbard St,casual,2572,14.627527216174181,518,1
+Indiana Ave & 26th St,member,2561,12.030066380320189,115,1
+Morgan St & Lake St*,casual,2541,17.333726879181423,958,1
+Benson Ave & Church St,casual,2538,26.566587864460207,1408,1
+California Ave & Altgeld St,member,2534,14.185082872928181,203,1
+Elizabeth St & Randolph St,casual,2519,13.780468439857088,1364,1
+McCormick Place,member,2510,14.652191235059762,1103,1
+Leavitt St & Belmont Ave,member,2510,14.010358565737054,97,1
+Greenview Ave & Diversey Pkwy,casual,2497,14.115738886663994,1398,1
+Wacker Dr & Washington St,casual,2495,18.438877755511019,1147,1
+Walsh Park,casual,2494,25.735765838011226,1396,1
+Sangamon St & Washington Blvd,casual,2489,16.738047408597833,1317,1
+Damen Ave & Sunnyside Ave,member,2481,12.513502619911325,781,1
+Winchester Ave & Elston Ave,member,2479,14.405405405405403,775,1
+Broadway & Thorndale Ave,casual,2478,31.140839386602103,1364,1
+California Ave & Cortez St,casual,2471,16.6685552407932,1423,1
+Rockwell St & Eastwood Ave,member,2469,13.300121506682867,574,1
+Seeley Ave & Roscoe St,casual,2463,16.77425903369874,532,1
+Lincoln Ave & Addison St,member,2462,13.558895207148661,1330,1
+Damen Ave & Melrose Ave,member,2451,13.164014687882494,1194,1
+Western Ave & Walton St,casual,2441,15.836132732486687,957,1
+Lincoln Ave & Belmont Ave (Temp),member,2430,12.215226337448559,831,1
+Larrabee St & North Ave,casual,2422,14.709331131296448,981,1
+Wentworth Ave & Cermak Rd,casual,2402,32.054537885095755,1316,1
+Western Ave & Leland Ave,casual,2398,19.121351125938283,1230,1
+California Ave & Division St,member,2395,14.703966597077244,938,1
+LaSalle St & Washington St,casual,2394,20.15831244778613,1106,1
+Lake Park Ave & 35th St,member,2390,18.517991631799163,1155,1
+Cannon Dr & Fullerton Ave,member,2376,16.458333333333325,575,1
+Clark St & Ida B Wells Dr,casual,2368,24.712837837837832,1098,1
+Emerald Ave & 28th St,member,2366,13.230769230769232,778,1
+Chicago Ave & Sheridan Rd,member,2364,10.356598984771578,1252,1
+Cornell Ave & Hyde Park Blvd,casual,2361,32.001694197373993,1318,1
+Western Ave & Division St,casual,2356,17.01740237691002,1377,1
+Western Ave & Roscoe St,member,2351,13.224159931943854,217,1
+Milwaukee Ave & Rockwell St,member,2344,13.646757679180887,282,1
+Damen Ave & Leland Ave,casual,2318,15.419327006039691,1436,1
+Halsted St & 35th St,member,2311,11.785807009952402,278,1
+Damen Ave & Charleston St,casual,2307,15.779367143476376,1031,1
+Southport Ave & Clark St,member,2299,10.775554588951717,388,1
+Humboldt Blvd & Armitage Ave,casual,2297,18.05398345668263,1186,1
+Lake Park Ave & 53rd St,casual,2290,31.878602620087332,1162,1
+Clinton St & Roosevelt Rd,casual,2273,17.532336119665647,927,1
+Dearborn St & Van Buren St,casual,2267,27.004852227613586,1371,1
+Talman Ave & Addison St,member,2266,15.907325684024713,1115,1
+Lincoln Ave & Byron St,member,2251,13.457574411372722,78,1
+Broadway & Berwyn Ave,casual,2246,19.366874443455028,1109,1
+Winthrop Ave & Lawrence Ave,casual,2245,17.771937639198224,988,1
+Fort Dearborn Dr & 31st St,casual,2243,46.8372715113687,1399,1
+Clark St & Elmdale Ave,member,2237,14.190433616450601,1357,1
+Wolcott (Ravenswood) Ave & Montrose Ave,casual,2225,14.710561797752806,1439,1
+Calumet Ave & 21st St,casual,2218,37.383228133453557,1365,1
+Wells St & Institute Pl,casual,2208,14.181159420289857,644,1
+Canal St & Harrison St,member,2205,8.9501133786848079,886,1
+Clark St & Schreiber Ave,member,2200,13.828636363636367,1187,1
+Kedzie Ave & Palmer Ct,member,2196,13.94808743169399,479,1
+Claremont Ave & Hirsch St,member,2194,11.44211485870556,1364,1
+Clark St & 9th St (AMLI),casual,2183,21.422812643151627,1289,1
+Clarendon Ave & Leland Ave,casual,2181,23.415405777166438,1238,1
+Campbell Ave & Montrose Ave,member,2181,12.157267308574049,280,1
+Field Museum,member,2180,19.28119266055046,1174,1
+May St & Taylor St,casual,2178,15.924701561065197,742,1
+Racine Ave & 18th St,casual,2177,16.507119889756549,694,1
+Ashland Ave & Wellington Ave,casual,2177,15.587046394120346,1429,1
+Chicago Ave & Sheridan Rd,casual,2172,27.323664825046041,1261,1
+Racine Ave & 15th St,member,2168,11.998616236162361,96,1
+N Green St & W Lake St,casual,2158,12.993512511584802,120,1
+Campbell Ave & North Ave,casual,2152,16.244888475836433,1124,1
+Richmond St & Diversey Ave,member,2147,15.252911038658594,1225,1
+Green St & Randolph St*,casual,2143,18.071861875874937,748,1
+Greenview Ave & Jarvis Ave,member,2117,12.644307982994805,245,1
+California Ave & Montrose Ave,member,2115,18.223167848699759,1390,1
+Ellis Ave & 58th St,casual,2113,16.736393752957881,1204,1
+Sheridan Rd & Columbia Ave,member,2108,15.623814041745732,895,1
+Wood St & Webster Ave,member,2100,12.838571428571429,560,1
+Fairbanks St & Superior St,casual,2088,29.545498084291189,1127,1
+Broadway & Ridge Ave,casual,2087,24.686631528509821,1301,1
+St. Louis Ave & Fullerton Ave,member,2081,12.408938010571843,293,1
+Canal St & Taylor St,casual,2077,17.76697159364468,1409,1
+Damen Ave & Wellington Ave,casual,2059,16.266634288489559,1436,1
+Lincoln Ave & Sunnyside Ave,casual,2042,16.42556317335945,649,1
+Ashland Ave & Wrightwood Ave,casual,2041,15.856932876041157,1064,1
+Sheridan Rd & Loyola Ave,casual,2037,31.428080510554739,1041,1
+Ogden Ave & Roosevelt Rd,member,2027,13.173655648741983,129,1
+Sheridan Rd & Lawrence Ave,casual,2024,21.359683794466406,1425,1
+W Armitage Ave & N Sheffield Ave,member,2016,8.8740079365079367,347,1
+Milwaukee Ave & Fullerton Ave,member,2013,11.326875310481869,117,1
+Wentworth Ave & Cermak Rd*,member,2003,14.322516225661509,323,1
+Clinton St & 18th St,member,2001,14.205897051474262,422,1
+Calumet Ave & 21st St,member,2000,14.692,224,1
+Spaulding Ave & Armitage Ave,casual,1994,19.516048144433295,1419,1
+Leavitt St & Lawrence Ave,member,1987,11.641670860593859,133,1
+Morgan St & 18th St,casual,1978,17.189585439838226,1268,1
+Leavitt St & Chicago Ave,casual,1972,16.642494929006091,1099,1
+Wabash Ave & Cermak Rd,member,1970,12.848730964467006,713,1
+Wood St & Chicago Ave,casual,1968,15.139227642276424,311,1
+Halsted St & Roosevelt Rd,casual,1952,15.423668032786885,913,1
+Kimball Ave & Belmont Ave,member,1950,12.915897435897437,185,1
+Ada St & Washington Blvd,casual,1947,15.361581920903953,973,1
+N Carpenter St & W Lake St,member,1937,10.068662880743418,150,1
+Leavitt St & Belmont Ave,casual,1933,17.833419555095713,1296,1
+Sedgwick St & Schiller St,casual,1929,15.649559357179887,446,1
+Museum of Science and Industry,member,1926,23.050363447559704,1220,1
+Albany Ave & Bloomingdale Ave,casual,1925,21.682077922077919,1229,1
+Leavitt St & Armitage Ave,casual,1921,18.347214992191567,1304,1
+Halsted St & Archer Ave,member,1918,9.5125130344108442,313,1
+Ashland Ave & Chicago Ave,casual,1913,16.336644014636697,728,1
+Greenwood Ave & 47th St,member,1907,16.626114315679072,479,1
+Logan Blvd & Elston Ave,casual,1906,14.802203567681007,1427,1
+W Oakdale Ave & N Broadway,member,1903,10.583289542827115,136,1
+Ashland Ave & Belle Plaine Ave,member,1895,11.985751978891821,126,1
+Ashland Ave & Augusta Blvd,casual,1891,17.140666314119514,1430,1
+Leavitt St & Addison St,member,1886,14.243372216330856,356,1
+Larrabee St & Oak St,casual,1884,13.368365180467093,439,1
+Wood St & Augusta Blvd,casual,1878,14.94462193823216,212,1
+Woodlawn Ave & 58th St,member,1871,9.518439337252806,708,1
+Damen Ave & Foster Ave,casual,1866,15.028938906752412,1249,1
+Western Ave & Monroe St,member,1861,13.334228909188607,755,1
+Milwaukee Ave & Rockwell St,casual,1859,14.679397525551373,554,1
+Lincoln Ave & Roscoe St*,casual,1858,15.086114101184066,878,1
+Fort Dearborn Dr & 31st St*,member,1855,22.403773584905657,1090,1
+Halsted St & 21st St,member,1831,13.645002730748228,1200,1
+Blue Island Ave & 18th St,casual,1830,17.802732240437159,951,1
+Campbell Ave & Fullerton Ave,member,1820,14.005494505494507,336,1
+Hoyne Ave & Balmoral Ave,member,1817,10.656576774903685,153,1
+Lincoln Ave & Belle Plaine Ave,casual,1813,15.800882515168228,1375,1
+University Ave & 59th St,member,1802,6.4517203107658156,479,1
+Damen Ave & Madison St,member,1801,14.159911160466409,500,1
+Laflin St & Cullerton St,member,1798,14.052836484983313,212,1
+Damen Ave & Clybourn Ave,casual,1797,17.132999443516972,1411,1
+Damen Ave & Grand Ave,casual,1793,17.1154489682097,1097,1
+Kedzie Ave & Palmer Ct,casual,1786,20.395856662933934,1436,1
+Washtenaw Ave & Lawrence Ave,member,1777,13.686550365785033,93,1
+California Ave & Fletcher St,member,1754,15.089509692132273,791,1
+Orleans St & Elm St,casual,1752,17.740296803652971,918,1
+University Library (NU),member,1748,13.263729977116705,1083,1
+Leavitt St & Division St,casual,1748,15.994279176201371,1290,1
+State St & 19th St,member,1743,14.074584050487664,202,1
+Oakley Ave & Irving Park Rd,member,1739,12.03450258769408,292,1
+Central Park Ave & Elbridge Ave,member,1739,15.993674525589419,161,1
+Clark St & Columbia Ave,member,1731,9.7712305025996535,99,1
+California Ave & Francis Pl,casual,1730,18.724855491329478,1429,1
+Elston Ave & Wabansia Ave,member,1728,15.487268518518519,258,1
+Noble St & Milwaukee Ave,casual,1723,15.674405107370864,1081,1
+Buckingham Fountain (Temp),member,1722,14.6602787456446,401,1
+Damen Ave & Wabansia Ave,member,1720,11.44186046511628,74,1
+Damen Ave & Walnut (Lake) St,member,1715,15.184256559766766,1160,1
+Ashland Ave & Grand Ave,casual,1704,16.183098591549292,672,1
+LaSalle St & Adams St,casual,1677,26.68932617769827,1231,1
+Elizabeth St & Fulton St,casual,1672,16.142942583732054,1417,1
+Clinton St & Tilden St,casual,1667,18.4751049790042,1007,1
+Milwaukee Ave & Fullerton Ave,casual,1663,12.024052916416116,141,1
+California Ave & Division St,casual,1662,18.508423586040912,597,1
+Ellis Ave & 53rd St,casual,1661,14.865743527995182,1123,1
+Ravenswood Ave & Irving Park Rd,casual,1658,14.951749095295538,436,1
+Stave St & Armitage Ave,casual,1657,18.325890162945079,811,1
+Clark St & Lunt Ave,casual,1635,12.996941896024463,1095,1
+Wentworth Ave & Cermak Rd*,casual,1618,24.398022249690978,232,1
+Paulina St & Howard St,member,1613,11.414135151890886,329,1
+Troy St & Elston Ave,member,1605,15.504049844236762,1052,1
+Lincoln Ave & Winona St,member,1593,13.456999372253611,965,1
+Southport Ave & Clark St,casual,1593,15.801004394224735,746,1
+Artesian Ave & Hubbard St,casual,1593,13.495291902071562,1025,1
+MLK Jr Dr & 29th St,casual,1592,23.841080402010057,1153,1
+May St & Cullerton St,member,1583,12.85344283006949,881,1
+California Ave & North Ave,casual,1580,16.69240506329114,874,1
+Wood St & Hubbard St,casual,1569,17.117272147864885,972,1
+Clybourn Ave & Division St,casual,1563,14.423544465770952,778,1
+Halsted St & North Branch St,member,1561,12.80269058295964,1037,1
+Racine Ave & Randolph St,casual,1549,17.14783731439638,1113,1
+Blackstone Ave & Hyde Park Blvd,casual,1546,29.258085381630007,1192,1
+California Ave & Byron St,member,1543,17.15230071289696,227,1
+Racine Ave & Washington Blvd,casual,1539,14.914879792072776,894,1
+Chicago Ave & Washington St,member,1529,15.358404185742316,195,1
+Racine Ave & 35th St,member,1521,13.809993425378039,77,1
+Damen Ave & Cullerton St,member,1521,13.641025641025639,137,1
+Wilton Ave & Diversey Pkwy*,member,1515,9.2653465346534656,1173,1
+Wentworth Ave & 35th St,member,1507,10.392169873921699,352,1
+Wabash Ave & Cermak Rd,casual,1504,24.496010638297875,1245,1
+Wallace St & 35th St,member,1501,9.7981345769487,610,1
+Kosciuszko Park,member,1497,14.728790915163659,149,1
+Racine Ave & Congress Pkwy,casual,1494,16.35542168674699,1411,1
+Fort Dearborn Dr & 31st St*,casual,1493,40.227729403884794,1422,1
+Avondale Ave & Irving Park Rd,member,1488,14.938844086021506,885,1
+Larrabee St & Menomonee St,casual,1487,17.56960322797579,1124,1
+Troy St & North Ave,member,1481,17.7812288993923,872,1
+Hampden Ct & Diversey Ave,casual,1476,11.939024390243903,120,1
+Damen Ave & Melrose Ave,casual,1470,19.072789115646263,907,1
+Lincoln Ave & Addison St,casual,1466,18.334924965893592,1295,1
+Paulina St & Montrose Ave,casual,1464,19.342896174863384,1145,1
+Manor Ave & Leland Ave,member,1452,14.993801652892561,1319,1
+Central Park Ave & Bloomingdale Ave,member,1443,19.969507969507969,180,1
+State St & 33rd St,casual,1442,18.771151178918171,1237,1
+Halsted St & 18th St,casual,1431,21.097134870719778,1174,1
+Bernard St & Elston Ave,member,1431,15.794549266247383,97,1
+Loomis St & Jackson Blvd,casual,1431,19.039832285115306,869,1
+California Ave & Altgeld St,casual,1427,17.444288717589348,599,1
+Throop St & Taylor St,casual,1425,15.908070175438594,425,1
+Avers Ave & Belmont Ave,member,1424,16.7001404494382,755,1
+Lincoln Ave & Waveland Ave,casual,1415,16.180918727915195,717,1
+Troy St & North Ave,casual,1404,20.337606837606838,1190,1
+Damen Ave & Sunnyside Ave,casual,1393,18.094759511844938,1227,1
+Lincoln Ave & Melrose St,casual,1386,15.222943722943725,479,1
+Glenwood Ave & Morse Ave,casual,1377,21.426289034132175,1243,1
+Kedzie Ave & Leland Ave,member,1376,14.494912790697677,1020,1
+Albany Ave & Montrose Ave,member,1376,16.367732558139537,486,1
+Francisco Ave & Foster Ave,member,1374,15.20014556040757,1075,1
+Clark St & Elmdale Ave,casual,1364,21.043988269794724,1075,1
+Noble St & Milwaukee Ave (Temp),member,1361,12.382072005878033,1239,1
+Chicago Ave & Washington St,casual,1342,28.58792846497764,1255,1
+W Oakdale Ave & N Broadway,casual,1340,11.85820895522388,113,1
+Wolcott Ave & Polk St,casual,1337,14.338818249813013,373,1
+Greenview Ave & Jarvis Ave,casual,1335,15.423970037453184,608,1
+Damen Ave & Madison St,casual,1333,20.551387846961742,1201,1
+Richmond St & Diversey Ave,casual,1328,16.821536144578314,263,1
+Paulina St & 18th St,casual,1325,18.897358490566042,1182,1
+Campbell Ave & Fullerton Ave,casual,1321,19.188493565480695,1094,1
+Lincoln Ave & Belmont Ave (Temp),casual,1320,17.775757575757577,930,1
+Malcolm X College,member,1307,14.886763580719203,77,1
+Smith Park,member,1305,14.898084291187736,147,1
+Paulina St & Flournoy St,casual,1301,15.113758647194464,158,1
+N Paulina St & Lincoln Ave,member,1297,9.6268311488049338,64,1
+St. Louis Ave & Fullerton Ave,casual,1292,19.839009287925691,1120,1
+Ashland Ave & Belle Plaine Ave,casual,1286,15.261275272161742,649,1
+Wood St & Webster Ave,casual,1279,15.69429241594996,272,1
+Cherry Ave & Blackhawk St,member,1275,10.88,121,1
+N Sheffield Ave & W Wellington Ave,member,1274,9.2488226059654632,61,1
+Glenwood Ave & Touhy Ave,member,1273,15.934799685781616,1423,1
+Leavitt St & Addison St,casual,1269,20.750197005516149,1343,1
+Drexel Ave & 60th St,member,1256,8.2117834394904463,109,1
+Kimball Ave & Belmont Ave,casual,1253,18.594573024740619,1085,1
+Lake Park Ave & 35th St,casual,1237,44.704931285367806,1347,1
+Sheridan Rd & Greenleaf Ave,member,1237,15.755052546483427,269,1
+Talman Ave & Addison St,casual,1229,18.5720097640358,1203,1
+California Ave & Montrose Ave,casual,1223,25.979558462796398,1106,1
+MTV Hubbard St,member,1215,11.230452674897119,69,1
+Clark St & Schreiber Ave,casual,1213,19.325638911788946,1189,1
+California Ave & Fletcher St,casual,1200,21.855833333333333,1433,1
+State St & 19th St,casual,1192,25.614093959731537,688,1
+Monticello Ave & Irving Park Rd,member,1172,14.661262798634812,194,1
+Lincoln Ave & Byron St,casual,1159,16.403796376186367,1227,1
+Lake Park Ave & 47th St,member,1157,19.41659464131374,459,1
+Winchester (Ravenswood) Ave & Balmoral Ave,member,1157,13.841832324978393,95,1
+Wells St & 19th St,casual,1151,27.981754995655955,1379,1
+Western Ave & Lunt Ave,member,1147,15.078465562336532,904,1
+Drake Ave & Addison St,member,1144,16.509615384615387,112,1
+Rockwell St & Fletcher St,member,1139,12.905179982440737,68,1
+Central Park Ave & Elbridge Ave,casual,1138,17.809314586994727,820,1
+Claremont Ave & Hirsch St,casual,1124,15.237544483985765,995,1
+Central Park Ave & Bloomingdale Ave,casual,1121,30.682426404995539,850,1
+Western Ave & 21st St,member,1117,15.142345568487018,73,1
+Morgan St & 31st St,casual,1116,21.473118279569896,947,1
+Leavitt St & Lawrence Ave,casual,1112,20.852517985611513,1335,1
+Clinton St & 18th St,casual,1111,18.227722772277225,991,1
+Harper Ave & 59th St,casual,1103,25.486854034451497,1183,1
+Elston Ave & Wabansia Ave,casual,1103,17.574796010879417,1038,1
+Winchester Ave & Elston Ave,casual,1103,16.497733454215773,205,1
+W Armitage Ave & N Sheffield Ave,casual,1098,11.040983606557377,118,1
+University Library (NU),casual,1093,27.867337602927723,1269,1
+Kosciuszko Park,casual,1092,21.532051282051281,1289,1
+Campbell Ave & Augusta Blvd,member,1086,12.827808471454881,70,1
+Sheridan Rd & Columbia Ave,casual,1084,29.712177121771223,191,1
+Blackstone Ave & 59th St,casual,1083,12.732225300092335,1171,1
+Halsted St & Archer Ave,casual,1080,15.924074074074074,1225,1
+Emerald Ave & 31st St,casual,1072,17.189365671641792,388,1
+Eastlake Ter & Howard St,member,1068,14.784644194756559,1070,1
+MLK Jr Dr & Pershing Rd,member,1066,13.706378986866792,468,1
+Ashland Ave & Archer Ave,member,1060,11.181132075471698,594,1
+Avondale Ave & Irving Park Rd,casual,1058,19.84782608695652,1424,1
+Morgan Ave & 14th Pl,casual,1049,16.02478551000954,816,1
+Damen Ave & Wabansia Ave,casual,1030,13.978640776699029,91,1
+Cottage Grove Ave & 63rd St,member,1010,16.218811881188117,540,1
+Elston Ave & George St,member,1008,13.75,95,1
+Ravenswood Ave & Berteau Ave,casual,1008,17.555555555555557,1004,1
+Damen Ave & Walnut (Lake) St,casual,1006,16.220675944333998,1427,1
+Hermitage Ave & Polk St,casual,1004,17.945219123505971,1247,1
+Rockwell St & Eastwood Ave,casual,997,15.293881644934807,629,1
+Paulina St & Howard St,casual,996,14.668674698795179,223,1
+Cottage Grove Ave & 47th St,member,990,14.363636363636362,446,1
+Knox Ave & Montrose Ave,member,985,18.38071065989848,1433,1
+Christiana Ave & Lawrence Ave,member,984,15.930894308943087,1426,1
+Woodlawn Ave & Lake Park Ave,member,983,13.836215666327567,479,1
+Avers Ave & Belmont Ave,casual,981,22.454638124362898,842,1
+State St & 35th St,casual,979,23.281920326864146,1214,1
+Western Ave & Roscoe St,casual,970,17.719587628865984,765,1
+Wentworth Ave & 35th St,casual,960,21.935416666666665,1328,1
+Laflin St & Cullerton St,casual,958,17.648225469728608,1268,1
+N Damen Ave & W Chicago Ave,member,958,11.525052192066806,200,1
+Cottage Grove Ave & 51st St,member,949,18.99157007376186,479,1
+N Southport Ave & W Newport Ave,member,949,9.88935721812434,118,1
+Western Ave & Fillmore St,casual,943,15.034994697773062,1351,1
+California Ave & Byron St,casual,941,19.821466524973435,496,1
+Canal St & Harrison St,casual,936,17.028846153846153,1023,1
+Clark St & Jarvis Ave,member,935,12.752941176470587,1002,1
+Ogden Ave & Congress Pkwy,casual,935,18.112299465240643,1338,1
+W Washington Blvd & N Peoria St,member,935,10.382887700534758,230,1
+Wentworth Ave & 24th St,member,932,13.364806866952788,111,1
+Campbell Ave & Montrose Ave,casual,929,15.666307857911734,238,1
+Racine Ave & 13th St,member,924,10.758658008658008,1121,1
+Buckingham Fountain,member,923,17.47670639219935,229,1
+State St & 29th St,member,922,21.185466377440346,1275,1
+Normal Ave & Archer Ave,member,909,12.240924092409241,83,1
+Cherry Ave & Blackhawk St,casual,907,12.210584343991181,147,1
+Spaulding Ave & Division St,member,907,15.690187431091513,243,1
+Racine Ave & 15th St,casual,884,19.222850678733032,917,1
+Loomis St & Archer Ave,member,883,13.490373725934313,139,1
+Calumet Ave & 33rd St,casual,881,19.767309875141883,1247,1
+Troy St & Elston Ave,casual,880,18.389772727272728,807,1
+Spaulding Ave & Division St,casual,878,16.03986332574032,304,1
+Rockwell St & Fletcher St,casual,877,14.970353477765109,177,1
+Lake Park Ave & 47th St,casual,866,34.752886836027713,1262,1
+Halsted St & North Branch St,casual,864,17.11574074074074,1369,1
+Clark St & Columbia Ave,casual,848,15.056603773584909,1088,1
+Campbell Ave & Augusta Blvd,casual,847,12.981109799291618,110,1
+Wells St & 19th St,member,842,17.041567695961994,381,1
+Halsted St & 21st St,casual,841,15.287752675386443,250,1
+Warren Park West,member,840,18.771428571428569,238,1
+Wood St & Taylor St (Temp),casual,840,14.282142857142858,716,1
+Western Ave & Granville Ave,member,840,17.18809523809524,405,1
+Western Ave & Congress Pkwy,casual,838,26.035799522673027,1035,1
+Western Ave & Howard St,member,835,14.238323353293413,641,1
+Glenwood Ave & Touhy Ave,casual,835,15.477844311377245,350,1
+Kedzie Ave & Foster Ave,member,834,15.085131894484411,210,1
+Clark St & Touhy Ave,member,829,11.622436670687575,86,1
+Washtenaw Ave & Lawrence Ave,casual,821,22.99878197320341,1141,1
+Halsted St & 35th St,casual,817,21.182374541003675,371,1
+Lincoln Ave & Winona St,casual,817,18.987760097919217,533,1
+South Shore Dr & 67th St,member,817,25.634026927784571,110,1
+Damen Ave & Cullerton St,casual,811,19.731196054254006,484,1
+Wentworth Ave & 33rd St,casual,807,17.107806691449813,1426,1
+Oakley Ave & Irving Park Rd,casual,807,17.744733581164805,1224,1
+Drake Ave & Montrose Ave,member,805,15.198757763975154,340,1
+Wood St & 35th St,member,803,14.910336239103362,879,1
+May St & Cullerton St,casual,801,16.707865168539325,319,1
+Christiana Ave & Lawrence Ave,casual,801,19.840199750312113,1046,1
+Wilton Ave & Diversey Pkwy*,casual,798,10.373433583959901,89,1
+Hoyne Ave & Balmoral Ave,casual,794,17.279596977329973,181,1
+N Sheffield Ave & W Wellington Ave,casual,793,10.324085750315257,161,1
+Bosworth Ave & Howard St,member,791,12.859671302149176,155,1
+Francisco Ave & Montrose Ave,member,781,12.426376440460949,65,1
+Shields Ave & 31st St,casual,776,17.050257731958762,755,1
+Evanston Civic Center,member,774,11.859173126614989,221,1
+Western Ave & Grace St,member,774,13.162790697674417,115,1
+St. Louis Ave & Balmoral Ave,member,759,18.644268774703558,199,1
+Sheridan Rd & Greenleaf Ave,casual,746,31.995978552278817,1188,1
+Malcolm X College,casual,737,33.713704206241516,1208,1
+Indiana Ave & 26th St,casual,737,25.967435549525103,1265,1
+Ashland Ave & Archer Ave,casual,733,15.317871759890854,880,1
+Rhodes Ave & 32nd St,casual,729,37.880658436213992,1076,1
+Cottage Grove Ave & 43rd St,member,728,13.046703296703297,479,1
+Drake Ave & Addison St,casual,726,15.161157024793386,867,1
+Sawyer Ave & Irving Park Rd,member,726,15.079889807162534,279,1
+Troy St & Grace St,member,724,11.828729281767957,46,1
+Leavitt St & Archer Ave,member,723,12.843706777316735,80,1
+Smith Park,casual,714,17.910364145658264,318,1
+Prairie Ave & Garfield Blvd,member,699,9.088698140200286,89,1
+Kedzie Ave & Leland Ave,casual,692,19.835260115606939,284,1
+Indiana Ave & 31st St,casual,690,27.526086956521738,1361,1
+N Carpenter St & W Lake St,casual,690,11.091304347826087,88,1
+Greenwood Ave & 47th St,casual,684,29.125730994152054,1350,1
+Milwaukee Ave & Cuyler Ave,member,680,15.58970588235294,104,1
+Dorchester Ave & 49th St,member,678,23.259587020648969,1439,1
+Monticello Ave & Irving Park Rd,casual,678,19.61799410029499,497,1
+Woodlawn Ave & 58th St,casual,677,14.968980797636632,258,1
+Wallace St & 35th St,casual,673,20.368499257057948,1165,1
+Albany Ave & Montrose Ave,casual,670,16.373134328358208,186,1
+N Shore Channel Trail & Argyle St,member,664,12.707831325301203,115,1
+Francisco Ave & Foster Ave,casual,660,20.707575757575757,233,1
+Winchester (Ravenswood) Ave & Balmoral Ave,casual,658,16.995440729483285,261,1
+Calumet Ave & 51st St,member,653,22.996937212863706,478,1
+Kedzie Ave & George St,member,652,12.906441717791411,59,1
+N Southport Ave & W Newport Ave,casual,651,11.38095238095238,99,1
+Western Ave & Gunnison St,member,648,11.566358024691358,91,1
+Central Park Ave & North Ave,casual,647,30.993817619783616,1038,1
+Noble St & Milwaukee Ave (Temp),casual,641,14.422776911076443,226,1
+Wentworth Ave & 24th St,casual,640,30.162499999999998,711,1
+Evanston Civic Center,casual,638,23.004702194357364,904,1
+Eastlake Ter & Howard St,casual,635,21.962204724409453,726,1
+Central St Metra,casual,634,21.588328075709782,395,1
+Clinton St & Polk St,member,633,12.069510268562404,167,1
+Sawyer Ave & Irving Park Rd,casual,631,23.071315372424724,860,1
+Western Ave & Berteau Ave,member,630,11.284126984126985,186,1
+Dorchester Ave & 63rd St,member,625,14.2544,342,1
+Kedzie Ave & Bryn Mawr Ave,member,620,15.24516129032258,89,1
+Keystone Ave & Fullerton Ave,member,611,12.415711947626841,87,1
+Keystone Ave & Montrose Ave,member,610,15.729508196721312,163,1
+Western Ave & Grace St,casual,608,13.680921052631581,102,1
+63rd St Beach,casual,607,48.1828665568369,916,1
+Western Ave & Monroe St,casual,606,25.17326732673267,1306,1
+California Ave & Lake St,casual,595,21.878991596638656,436,1
+South Shore Dr & 71st St,casual,593,42.49747048903879,647,1
+N Paulina St & Lincoln Ave,casual,592,13.29222972972973,148,1
+Western Ave & 21st St,casual,584,15.767123287671234,327,1
+Western Ave & Lunt Ave,casual,584,13.731164383561646,189,1
+Kildare Ave & Montrose Ave,member,581,18.056798623063681,277,1
+Calumet Ave & 35th St,casual,580,28.577586206896559,1285,1
+South Shore Dr & 71st St,member,577,25.119584055459278,296,1
+Knox Ave & Montrose Ave,casual,573,21.3804537521815,1221,1
+Emerald Ave & 28th St,casual,571,26.092819614711036,1073,1
+Woodlawn Ave & Lake Park Ave,casual,571,30.784588441330992,505,1
+University Ave & 59th St,casual,568,16.774647887323944,1379,1
+Manor Ave & Leland Ave,casual,567,18.322751322751319,257,1
+Prairie Ave & Garfield Blvd,casual,563,21.570159857904084,1067,1
+Ridge Blvd & Howard St,member,562,12.836298932384341,1007,1
+Cottage Grove Ave & Oakwood Blvd,casual,561,48.713012477718365,1193,1
+Francisco Ave & Chicago Ave,member,556,13.410071942446043,80,1
+Elston Ave & George St,casual,552,16.715579710144926,330,1
+Warren Park East,member,544,13.878676470588234,104,1
+Central St & Girard Ave,member,544,15.40625,89,1
+Central Park Ave & North Ave,member,540,16.207407407407405,227,1
+Elmwood Ave & Austin St,member,539,16.987012987012985,151,1
+Washtenaw Ave & Polk St,member,537,8.1973929236499075,127,1
+Clinton St & Polk St,casual,534,22.365168539325847,1222,1
+Kedzie Ave & 48th Pl,casual,534,8.7041198501872685,93,1
+California Ave & Winona St,member,533,13.523452157598499,79,1
+Leavitt St & Archer Ave,casual,524,21.841603053435112,1025,1
+Cottage Grove Ave & 51st St,casual,520,20.123076923076926,289,1
+Ridge Blvd & Touhy Ave,member,515,12.611650485436893,105,1
+Kedzie Ave & Foster Ave,casual,514,25.254863813229573,838,1
+Keystone Ave & Fullerton Ave,casual,510,19.96078431372549,754,1
+Kedzie Ave & Lake St,member,506,13.950592885375492,479,1
+Oakley Ave & Touhy Ave,member,506,12.60671936758893,109,1
+Elston Ave & Henderson St,member,501,14.780439121756487,54,1
+California Ave & Lake St,member,498,19.134538152610439,1171,1
+California Ave & Francis Pl (Temp),member,496,12.116935483870966,89,1
+Central St & Girard Ave,casual,495,26.250505050505048,733,1
+Francisco Ave & Montrose Ave,casual,495,13.05050505050505,111,1
+Budlong Woods Library,member,482,13.827800829875519,70,1
+Drake Ave & Montrose Ave,casual,480,22.675,1121,1
+Central St Metra,member,476,17.403361344537817,488,1
+Dodge Ave & Church St,casual,474,12.470464135021098,272,1
+Prairie Ave & 43rd St,member,466,10.30472103004292,95,1
+Kedzie Ave & George St,casual,464,14.101293103448278,407,1
+Elston Ave & Henderson St,casual,463,15.511879049676027,99,1
+Central Park Ave & Ogden Ave,casual,462,16.616883116883116,659,1
+Drexel Ave & 60th St,casual,459,14.845315904139435,167,1
+Cottage Grove Ave & Oakwood Blvd,member,459,19.529411764705877,450,1
+DuSable Museum,member,456,13.432017543859651,192,1
+Sacramento Blvd & Addison St,casual,450,12.848888888888887,158,1
+2112 W Peterson Ave,member,449,14.714922048997774,98,1
+MLK Jr Dr & Pershing Rd,casual,448,26.136160714285712,270,1
+South Shore Dr & 67th St,casual,445,49.53932584269662,995,1
+Ashland Ave & 13th St,casual,443,24.282167042889395,1383,1
+Kedzie Ave & Chicago Ave,member,441,17.013605442176875,164,1
+Troy St & Grace St,casual,437,14.22654462242563,479,1
+Dodge Ave & Church St,member,434,13.165898617511521,134,1
+Loomis St & Archer Ave,casual,434,17.147465437788018,161,1
+California Ave & 21st St,member,433,17.200923787528872,634,1
+Prairie Ave & 43rd St,casual,428,29.306074766355138,1372,1
+Francisco Ave & Bloomingdale Ave,casual,428,14.238317757009348,93,1
+Ogden Ave & Roosevelt Rd,casual,419,17.945107398568016,425,1
+Rockwell St & Cermak Rd,member,418,11.624401913875596,124,1
+Maplewood Ave & Peterson Ave,member,416,17.723557692307686,115,1
+Racine Ave & 13th St,casual,415,22.886746987951806,1139,1
+Kilbourn Ave & Irving Park Rd,member,414,17.772946859903385,154,1
+Dorchester Ave & 49th St,casual,411,27.445255474452551,1408,1
+Kedzie Ave & Lake St,casual,410,21.114634146341462,1021,1
+Western Ave & 24th St,member,410,17.968292682926826,106,1
+Budlong Woods Library,casual,406,18.433497536945815,652,1
+Shields Ave & 28th Pl,casual,406,17.396551724137929,269,1
+Long & Irving Park,casual,403,16.052109181141436,127,1
+Albany Ave & Belmont Ave,member,403,13.57071960297767,54,1
+State St & 95th St,member,402,11.323383084577115,507,1
+W Washington Blvd & N Peoria St,casual,401,13.930174563591022,74,1
+St. Louis Ave & Balmoral Ave,casual,399,29.380952380952376,524,1
+Racine Ave & 35th St,casual,398,22.097989949748747,946,1
+Archer (Damen) Ave & 37th St,member,396,21.270202020202021,193,1
+Western Ave & Berteau Ave,casual,395,12.812658227848102,132,1
+Clark St & Jarvis Ave,casual,394,13.616751269035532,205,1
+State St & 95th St,casual,393,18.043256997455472,875,1
+Eggleston Ave & 69th St,member,391,26.618925831202045,479,1
+MLK Jr Dr & 47th St,member,388,15.881443298969073,461,1
+Western Ave & Granville Ave,casual,388,23.46649484536082,250,1
+Elmwood Ave & Austin St,casual,385,19.174025974025973,223,1
+Western Ave & Howard St,casual,383,31.237597911227155,1021,1
+N Shore Channel Trail & Argyle St,casual,383,19.563968668407313,134,1
+Clark St & Touhy Ave,casual,381,15.057742782152229,226,1
+Francisco Ave & Chicago Ave,casual,380,14.726315789473686,61,1
+Sacramento Blvd & Addison St,member,379,10.097625329815301,65,1
+Public Rack - Kostner Ave & Armitage Ave,member,379,21.044854881266495,184,1
+Francisco Ave & Bloomingdale Ave,member,377,14.880636604774535,105,1
+Damen Ave & Coulter St,member,376,14.457446808510639,95,1
+Kildare Ave & Montrose Ave,casual,375,32.28,995,1
+MTV Hubbard St,casual,373,12.557640750670243,79,1
+Bernard St & Elston Ave,casual,373,19.024128686327078,363,1
+California Ave & 23rd Pl,member,372,17.0483870967742,68,1
+Narragansett & Wrightwood,casual,370,13.064864864864864,77,1
+Cottage Grove Ave & 63rd St,casual,370,22.737837837837837,425,1
+Valli Produce - Evanston Plaza,member,360,16.294444444444441,178,2
+Valli Produce - Evanston Plaza,casual,359,22.841225626740947,588,1
+Warren Park West,casual,358,27.614525139664806,283,1
+Pulaski Rd & 51st St,casual,354,10.152542372881358,53,1
+N Damen Ave & W Chicago Ave,casual,354,12.615819209039547,49,1
+63rd St Beach,member,353,24.569405099150142,181,1
+Harlem & Irving Park,casual,353,14.671388101983004,120,1
+Ridge Blvd & Touhy Ave,casual,351,24.034188034188031,768,1
+MLK Jr Dr & 47th St,casual,350,27.254285714285711,891,1
+Western Ave & Gunnison St,casual,347,14.443804034582131,82,1
+Pulaski Rd & Eddy St,casual,346,21.459537572254334,899,1
+Washtenaw Ave & Ogden Ave,member,345,18.072463768115941,61,1
+California Ave & 21st St,casual,342,26.459064327485386,1278,1
+Keystone Ave & Montrose Ave,casual,341,27.375366568914956,548,1
+Conservatory Dr & Lake St,casual,339,24.802359882005895,296,1
+Halsted St & 37th St,member,338,14.597633136094673,442,1
+Dodge Ave & Main St,member,336,13.446428571428569,111,1
+Cottage Grove Ave & 47th St,casual,336,25.5922619047619,1272,1
+Oakley Ave & Touhy Ave,casual,335,14.235820895522387,177,1
+Kenosha & Wellington,member,334,12.194610778443113,61,1
+Sayre & Diversey,casual,332,11.265060240963853,171,1
+Calumet Ave & 51st St,casual,332,24.262048192771079,901,1
+Long & Irving Park,member,327,15.198776758409783,479,1
+State St & 29th St,casual,327,27.688073394495415,1354,1
+Kostner Ave & Wrightwood Ave,member,319,13.094043887147334,99,1
+Cottage Grove Ave & 43rd St,casual,315,37.771428571428579,1428,1
+Campbell Ave & Irving Park Rd,member,314,11.732484076433121,193,1
+Milwaukee Ave & Cuyler Ave,casual,313,18.380191693290737,221,1
+Wolcott Ave & Fargo Ave,member,312,12.685897435897436,55,1
+Lockwood Ave & Wrightwood Ave,member,310,16.993548387096769,108,1
+May St & 69th St,member,308,19.220779220779221,172,2
+California Ave & 23rd Pl,casual,308,13.136363636363638,182,1
+Whipple/Irving Park,member,307,10.338762214983714,102,1
+Warren Park East,casual,304,19.144736842105267,181,1
+Jeffery Blvd & 71st St,member,304,20.493421052631579,129,1
+Kedzie Ave & Bryn Mawr Ave,casual,298,33.808724832214764,840,1
+Whipple/Irving Park,casual,296,13.949324324324325,89,1
+Halsted St & 96th St,member,295,10.810169491525425,107,1
+Dorchester Ave & 63rd St,casual,293,31.109215017064852,1122,1
+Public Rack - Racine Ave & 109th Pl,member,293,10.351535836177476,40,1
+Normal Ave & Archer Ave,casual,292,18.565068493150687,1024,1
+Campbell Ave & Irving Park Rd,casual,292,13.599315068493148,72,1
+Lincoln Ave & Balmoral Ave,member,289,13.159169550173011,102,1
+Kilbourn Ave & Milwaukee Ave,member,288,16.697916666666664,77,1
+Ridge Blvd & Howard St,casual,286,17.44055944055944,275,1
+Central Park Ave & Ogden Ave,member,285,13.838596491228072,102,1
+Princeton Ave & Garfield Blvd,member,284,15.126760563380284,70,1
+Kedzie Ave & Chicago Ave,casual,283,24.455830388692583,215,1
+Public Rack - Hamlin Ave & Fullerton Ave,member,282,11.173758865248226,472,1
+Pulaski Rd & 51st St,member,281,10.91459074733096,60,1
+Stony Island Ave & 71st St,member,280,13.47857142857143,205,1
+Dodge Ave & Mulford St,member,279,16.641577060931894,117,1
+Conservatory Dr & Lake St,member,279,19.225806451612907,171,1
+Western Ave & 24th St,casual,275,17.207272727272731,145,1
+Princeton Ave & 47th St,member,274,11.412408759124087,788,1
+California Ave & Francis Pl (Temp),casual,273,15.802197802197801,271,1
+2112 W Peterson Ave,casual,272,22.882352941176471,403,1
+Dodge Ave & Mulford St,casual,268,22.126865671641788,195,1
+Princeton Ave & 47th St,casual,267,15.940074906367041,707,1
+Public Rack - Washtenaw Ave & Superior St,member,267,16.280898876404496,477,1
+Lincoln Ave & Peterson Ave,member,262,13.1412213740458,76,1
+Jeffery Blvd & 67th St,casual,261,41.471264367816083,1428,1
+Ping Tom Park (East),casual,260,16.203846153846154,81,1
+Albany Ave & Belmont Ave,casual,254,14.070866141732285,89,1
+Wentworth Ave & 24th St (Temp),member,254,12.05511811023622,143,1
+Chicago State University,member,252,11.924603174603178,97,1
+Kilbourn & Roscoe,casual,251,15.0398406374502,113,1
+Kilbourn Ave & Irving Park Rd,casual,250,28.004,1151,1
+Public Rack - Kostner Ave & Armitage Ave,casual,248,17.45564516129032,182,1
+DuSable Museum,casual,246,28.886178861788615,978,1
+Jeffery Blvd & 67th St,member,243,16.193415637860085,141,1
+N Clark St & W Elm St,member,242,10.900826446280991,181,1
+Lincoln Ave & Balmoral Ave,casual,241,16.045643153526974,479,1
+Kedzie Ave & 48th Pl,member,237,9.5527426160337559,50,1
+Central Park Ave & 24th St,casual,237,12.177215189873417,217,1
+Lincolnwood Dr & Central St,casual,236,28.65254237288136,329,2
+Ping Tom Park (East),member,234,11.56837606837607,60,1
+Austin Blvd & Madison St,member,231,22.086580086580085,91,1
+Cottage Grove Ave & 67th St,member,228,16.925438596491226,138,1
+Central Ave & Chicago Ave,member,227,8.3215859030837027,82,1
+Archer (Damen) Ave & 37th St,casual,226,28.951327433628318,486,1
+Burnham Greenway & 112th St,casual,225,48.106666666666669,1090,1
+Public Rack - Hyde Park Blvd & 53rd St,member,224,25.808035714285715,479,1
+Cottage Grove Ave & 83rd St,member,223,12.399103139013452,109,1
+Ashland Ave & 50th St,member,222,11.779279279279276,48,1
+Halsted St & 37th St,casual,221,31.049773755656105,1143,1
+Eberhart Ave & 61st St,casual,221,21.642533936651581,166,1
+Kilbourn Ave & Milwaukee Ave,casual,220,24.840909090909097,183,1
+Sacramento Blvd & Franklin Blvd,member,220,16.118181818181817,108,1
+Kedzie Ave & 21st St,casual,219,22.789954337899541,287,1
+Public Rack - Pulaski Rd & Armitage Ave,member,219,14.456621004566211,95,1
+Washtenaw Ave & Polk St,casual,216,16.930555555555557,174,1
+Damen Ave & Coulter St,casual,215,29.260465116279072,776,1
+Elizabeth St & 59th St,member,215,15.934883720930236,195,2
+Stony Island Ave & 75th St,member,215,17.558139534883718,143,1
+Lincoln Ave & Peterson Ave,casual,214,17.75700934579439,100,1
+Wood St & 35th St,casual,212,22.70754716981132,974,1
+Western Ave & 111th St,casual,212,25.188679245283019,1063,1
+Kedzie Ave & 110th St,casual,211,24.876777251184834,681,1
+Chicago State University,casual,211,16.48341232227488,125,1
+Washtenaw Ave & Ogden Ave,casual,211,20.037914691943129,175,1
+Hoyne Ave & 47th St,casual,209,11.889952153110048,245,2
+Kilpatrick Ave & Parker Ave,member,209,13.483253588516746,79,1
+Austin Blvd & Lake St,member,207,26.227053140096618,171,1
+MLK Jr Dr & 56th St,casual,206,19.135922330097088,691,2
+Austin Blvd & Lake St,casual,206,22.407766990291258,228,1
+Narragansett & Irving Park,member,206,13.436893203883496,47,1
+Public Rack - Washtenaw Ave & Devon Ave,member,206,14.55339805825243,147,1
+Perry Ave & 69th St,casual,201,13.746268656716417,961,1
+Pulaski Rd & Eddy St,member,200,19.814999999999998,215,1
+California Ave & 26th St,member,200,19.680000000000003,906,1
+South Shore Dr & 74th St,member,200,22.674999999999997,101,1
+Lincolnwood Dr & Central St,member,199,18.075376884422113,158,1
+State St & 79th St,casual,198,12.303030303030303,222,2
+Michigan Ave & 71st St,member,197,8.4263959390862944,64,1
+Wolcott Ave & Fargo Ave,casual,194,25.912371134020621,171,1
+Public Rack - Lawndale Ave & Diversey Ave,member,193,9.50259067357513,57,1
+Big Marsh Park,casual,190,64.468421052631584,1341,1
+Rockwell St & Cermak Rd,casual,190,13.41578947368421,63,1
+Public Rack - Champlain Ave & 65th St,member,189,10.968253968253967,81,1
+Bosworth Ave & Howard St,casual,187,23.582887700534755,156,1
+Ashland Ave & Pershing Rd,member,187,15.481283422459892,479,2
+Kedzie Ave & 21st St,member,184,19.951086956521738,137,1
+Stony Island Ave & 63rd St,member,184,12.907608695652172,79,1
+Dodge Ave & Main St,casual,183,24.6448087431694,655,1
+Sacramento Blvd & Franklin Blvd,casual,183,17.945355191256827,175,1
+Public Rack - Milwaukee Ave & Haussen Ct,casual,183,10.726775956284154,43,1
+Ashland Ave & McDowell Ave,member,182,18.324175824175825,49,1
+State St & 79th St,member,181,11.790055248618785,106,1
+Stony Island Ave & 63rd St,casual,181,24.944751381215472,239,1
+Kostner Ave & Adams St,member,180,25.433333333333326,1178,1
+St Louis Ave & 59th St,member,180,5.9611111111111121,48,1
+Union Ave & Root St,casual,179,24.899441340782126,362,1
+Lavergne & Fullerton,casual,179,12.743016759776534,169,1
+Western Blvd & 48th Pl,casual,178,22.99438202247191,906,1
+Fairfield Ave & 44th St,casual,177,16.711864406779657,162,1
+Public Rack - Hamlin Ave & Montrose Ave,member,177,12.40677966101695,65,1
+Millard Ave & 26th St,member,175,16.914285714285718,87,1
+Walden Pkwy & 100th St,casual,174,16.919540229885058,196,2
+Damen Ave & Pershing Rd,casual,174,23.091954022988507,808,1
+Fairfield Ave & Roosevelt Rd,member,174,17.120689655172416,69,1
+South Shore Dr & 74th St,casual,172,43.79069767441861,1034,1
+Maplewood Ave & Peterson Ave,casual,172,25.244186046511626,165,1
+Lamon Ave & Belmont Ave,casual,171,15.415204678362574,81,1
+Public Rack - Woodlawn Ave & 63rd St N,member,171,7.4736842105263159,68,1
+Jeffery Blvd & 71st St,casual,170,32.964705882352938,940,1
+Buckingham - Fountain,casual,168,32.232142857142854,207,1
+Kilpatrick Ave & Parker Ave,casual,167,14.964071856287427,131,1
+Western Blvd & 48th Pl,member,166,22.222891566265059,735,1
+Kedzie Ave & 57th St,casual,165,8.5272727272727256,37,1
+Cottage Grove Ave & 67th St,casual,165,26.5939393939394,1219,2
+Public Rack - Lowell Ave & Elston Ave,casual,165,8.0363636363636353,64,1
+Narragansett & Wrightwood,member,164,14.481707317073171,137,1
+Yates Blvd & 75th St,casual,162,21.580246913580243,1182,2
+Public Rack - Kostner Ave & Diversey Ave,member,162,10.314814814814815,32,1
+Stony Island Ave & 67th St,casual,160,39.431250000000006,925,2
+Calumet Ave & 71st St,member,158,10.487341772151899,729,1
+Millard Ave & 26th St,casual,156,28.955128205128208,825,1
+Public Rack - Kedzie Ave & Argyle St,member,156,10.038461538461538,60,1
+Public Rack - Washtenaw Ave & Superior St,casual,156,14.557692307692308,90,1
+Public Rack - Pulaski Rd & Armitage Ave,casual,155,16.703225806451616,105,2
+Public Rack - Milwaukee Ave & Haussen Ct,member,154,12.032467532467532,68,1
+Public Rack - Midway Orange Line,casual,153,10.620915032679738,114,1
+Public Rack - Western Ave & Devon Ave,member,153,9.294117647058826,168,1
+Public Rack - Monticello Ave & Belmont Ave,member,153,15.444444444444446,241,1
+Shields Ave & 43rd St,member,152,12.098684210526315,95,1
+Public Rack - Woodlawn Ave & 63rd St N,casual,152,9.5131578947368425,112,1
+Stony Island Ave & 71st St,casual,151,32.682119205298015,965,1
+Public Rack - Milwaukee Ave & Diversey Ave,member,151,9.966887417218544,31,1
+California Ave & Winona St,casual,150,15.486666666666666,81,1
+Kedzie Ave & 57th St,member,149,17.744966442953018,47,1
+Wentworth Ave & 63rd St,casual,149,19.402684563758388,1170,1
+Central Ave & Parker Ave,member,145,11.4,88,2
+Kilbourn & Belden,casual,143,13.265734265734267,83,1
+Indiana Ave & 40th St,casual,143,34.356643356643353,479,1
+Baltimore Ave & 87th St,member,143,20.986013986013987,222,1
+Public Rack - Cicero Ave & Wrightwood Ave,member,142,10.338028169014084,41,1
+Central Ave & Parker Ave,casual,141,12.567375886524824,51,1
+Indiana Ave & 40th St,member,139,13.834532374100718,51,1
+Public Rack - Langley Ave & 49th St,member,139,7.302158273381294,65,1
+Kildare Ave & 47th St,member,138,6.1449275362318847,34,1
+Greenwood Ave & 97th St,casual,138,14.550724637681158,78,1
+MLK Jr Dr & 56th St,member,136,13.566176470588236,71,1
+Public Rack - Rockwell & Division,member,136,11.720588235294118,46,1
+Lamon Ave & Armitage Ave,member,135,22.325925925925926,60,2
+Austin Blvd & Chicago Ave,casual,135,25.733333333333334,228,1
+Meade Ave & Diversey Ave,casual,134,18.3955223880597,168,1
+Rainbow Beach,casual,133,37.578947368421048,139,1
+Commercial Ave & 83rd St,member,133,20.375939849624061,95,1
+MLK Jr Dr & 63rd St,casual,132,12.310606060606062,73,2
+Washtenaw Ave & Peterson Ave,member,132,14.515151515151514,76,1
+Lawndale Ave & 30th St,casual,131,8.96946564885496,60,1
+Greenwood Ave & 97th St,member,131,8.6335877862595414,77,2
+Lawndale Ave & 111th St,casual,131,30.702290076335874,380,1
+Wentworth Ave & 63rd St,member,131,10.862595419847327,58,1
+Commercial Ave & 130th St,casual,131,30.664122137404579,747,1
+Calumet Park,casual,130,57.092307692307685,1103,1
+Marshfield Ave & 44th St,casual,130,13.076923076923077,58,1
+Public Rack - Hamlin Ave & Fullerton Ave,casual,130,14.246153846153845,79,2
+Hoyne Ave & 47th St,member,129,16.271317829457363,52,2
+Lockwood Ave & Wrightwood Ave,casual,129,18.279069767441857,81,1
+Public Rack - Spaulding Ave & Evergreen Ave,member,129,11.86046511627907,33,1
+Damen Ave & 59th St,casual,127,28.724409448818896,1150,2
+Rockwell St & Archer Ave,casual,127,16.086614173228348,234,1
+Burnham Greenway & 112th St,member,127,28.062992125984255,150,2
+Perry Ave & 69th St,member,126,19.619047619047617,241,1
+Halsted St & 63rd St,casual,126,22.269841269841265,291,1
+Kostner Ave & Wrightwood Ave,casual,125,13.976,83,2
+Princeton Ave & Garfield Blvd,casual,125,16.456,114,1
+Pulaski Rd & 21st St,casual,124,8.443548387096774,57,1
+Kostner Ave & 63rd St,casual,124,14.266129032258066,83,1
+Public Rack - Western Blvd & 49th St,casual,124,8.741935483870968,39,1
+Elizabeth St & 92nd St,member,123,25.333333333333332,85,1
+Damen Ave & Pershing Rd,member,123,19.1869918699187,77,1
+Fairfield Ave & Roosevelt Rd,casual,123,26.796747967479682,165,1
+Buckingham Fountain (Columbus/Balbo),casual,123,40.2520325203252,139,1
+Public Rack - Nagle Ave & Belmont Ave,member,123,22.195121951219516,64,1
+State St & 54th St,member,122,18.795081967213115,252,1
+Kedzie Ave & 52nd St,casual,122,9.8606557377049189,105,1
+Pulaski Rd & 60th St,casual,121,5.553719008264463,56,1
+Cicero Ave & Grace St,casual,121,19.090909090909086,421,1
+Stony Island Ave & 64th St,casual,121,36.628099173553721,496,1
+Washtenaw Ave & Peterson Ave,casual,121,14.81818181818182,162,1
+Public Rack - Hamlin Ave & Montrose Ave,casual,121,12.404958677685951,63,1
+Kilbourn & Roscoe,member,120,15.25,49,1
+California & 16th St,casual,120,18.083333333333332,102,1
+Halsted St & 47th Pl,member,120,24.625,972,1
+Stony Island Ave & 67th St,member,120,17.033333333333331,80,1
+Kenosha & Wellington,casual,119,21.336134453781511,156,1
+Cicero Ave & Grace St,member,119,15.327731092436974,87,2
+State St & Pershing Rd,member,119,13.831932773109244,81,1
+Western Ave & Lake St,casual,118,11.593220338983052,53,1
+Public Rack - Harold Washington Park,casual,118,20.457627118644069,153,1
+Richmond St & Lincoln Ave,member,117,10.94017094017094,38,1
+Virginia Ave & Catalpa Ave,casual,117,19.205128205128204,156,1
+Narragansett Ave & School St,member,117,23.427350427350429,71,1
+Vernon Ave & 75th St,member,116,15.913793103448278,94,3
+St Louis Ave & Norman Bobbins Ave,casual,116,8.42241379310345,97,1
+Public Rack - Spaulding Ave & North Ave,member,116,16.379310344827587,245,1
+Western Ave & 104th St,casual,115,42.217391304347828,661,1
+Cicero Ave & Lake St,casual,114,15.570175438596495,162,2
+Lamon Ave & Belmont Ave,member,114,14.710526315789473,117,1
+Morgan St & Pershing Rd,casual,114,23.131578947368425,797,2
+Kedzie Ave & Roosevelt Rd,casual,114,34.3859649122807,245,1
+Public Rack - Harold Washington Park,member,114,16.657894736842103,253,1
+Union Ave & Root St,member,113,12.955752212389379,56,1
+Eberhart Ave & 61st St,member,112,16.589285714285715,81,2
+Western Ave & Ardmore Ave,casual,112,16.366071428571427,79,1
+Long Ave & Belden Ave,casual,111,15.009009009009009,101,1
+Cottage Grove Ave & 83rd St,casual,111,29.414414414414413,1066,3
+Francisco Ave & 47th St,member,110,7.0636363636363635,64,1
+Virginia Ave & Catalpa Ave,member,110,14.327272727272726,81,1
+St Louis Ave & 59th St,casual,109,12.422018348623853,79,1
+N Clark St & W Elm St,casual,108,10.768518518518515,36,1
+Stony Island Ave & 64th St,member,108,20.435185185185187,117,1
+Halsted St & 63rd St,member,107,19.261682242990652,348,2
+Narragansett & Irving Park,casual,107,14.616822429906543,63,1
+Halsted St & 47th Pl,casual,106,23.79245283018868,320,2
+Prospect Sq & 91st St,casual,106,27.877358490566039,295,2
+Eggleston Ave & 69th St,casual,106,21.075471698113205,479,1
+Fairfield Ave & 44th St,member,106,7.584905660377359,47,1
+Vincennes Ave & 104th St,member,106,13.773584905660375,61,1
+Kedzie Ave & Roosevelt Rd,member,106,32.367924528301891,480,1
+McCormick Blvd & Devon Ave,member,106,20.839622641509433,72,1
+Public Rack - Hollywood Park,member,106,15.754716981132075,40,1
+Mulligan Ave & Wellington Ave,casual,106,10.650943396226415,71,1
+Kedzie Ave & 24th St,casual,105,15.733333333333333,144,1
+Hamlin Ave & Grand Ave,casual,105,14.409523809523812,75,1
+Austin Blvd & Madison St,casual,105,27.780952380952378,189,1
+Richmond St & Lincoln Ave,casual,105,20.095238095238095,123,1
+Public Rack - Monticello Ave & Belmont Ave,casual,105,13.990476190476189,51,1
+Fullerton & Monitor,casual,104,14.778846153846155,141,1
+Central Ave & Lake St,casual,104,15.701923076923078,113,1
+Komensky Ave & 31st St,casual,104,14.64423076923077,85,1
+Racine Ave & Garfield Blvd,member,104,35.75961538461538,479,2
+Pulaski Rd & Lake St,casual,103,46.1747572815534,1434,1
+Campbell Ave & 51st St,casual,103,9.3203883495145643,31,1
+Public Rack - Hyde Park Blvd & 55th St,member,102,14.02941176470588,183,2
+Albany Ave & 26th St,casual,101,22.940594059405939,279,1
+Laramie Ave & Madison St,casual,101,32.594059405940591,663,1
+Ashland Ave & Pershing Rd,casual,101,23.990099009900991,479,1
+Public Rack - California Ave & Cortez St,member,101,12.643564356435643,63,2
+Long Ave & Belmont Ave,casual,100,15.09,78,1
+Hale Ave & 107th St,casual,99,18.888888888888889,96,1
+Leavitt St/North Ave,member,99,11.767676767676768,153,1
+Wabash Ave & 87th St,member,99,15.101010101010099,85,1
+Morgan St & Pershing Rd,member,99,10.545454545454545,72,1
+MLK Jr Dr & 63rd St,member,98,8.96938775510204,59,1
+Central Ave & Roscoe St,member,98,13.673469387755102,53,1
+Stony Island Ave & 75th St,casual,98,30.11224489795919,1069,3
+Sacramento Blvd & Fulton Ave,casual,98,15.489795918367346,109,1
+Monticello Ave & Lawrence Ave,casual,98,10.540816326530612,70,1
+Albany Ave & 26th St,member,97,14.783505154639176,61,2
+Streeter Dr/Grand Ave,casual,97,23.288659793814432,214,1
+Central Ave & Roscoe St,casual,97,18.453608247422679,78,2
+Kilpatrick Ave & Grand Ave,member,97,17.195876288659797,156,1
+Stony Island Ave & 90th St,member,97,15.824742268041238,64,2
+Public Rack - Milwaukee Ave & Higgins Ave,casual,97,11.876288659793815,51,1
+Oak Park & Wellington,casual,96,15.666666666666668,107,1
+Francisco Ave & Hollywood Ave,casual,96,15.260416666666666,479,1
+Public Rack - Western Blvd & 49th St,member,96,9.1875,36,2
+Public Rack - Milwaukee Ave & School St,member,96,9.9375,64,2
+Harlem & Irving Park,member,95,16.568421052631574,78,1
+Ashland Ave & 50th St,casual,95,29.052631578947366,379,2
+Phillips Ave & 79th St,casual,95,23.08421052631579,229,1
+Kenton Ave & Madison St,member,95,15.621052631578948,62,1
+Central Park & Augusta Blvd,casual,95,21.2,302,1
+Lawler Ave & 50th St,casual,94,20.76595744680851,101,1
+Kildare Ave & 26th St,casual,94,14.297872340425531,70,1
+Wentworth Ave & 24th St (Temp),casual,94,46.09574468085107,1242,1
+Halsted St & 69th St,member,93,11.763440860215052,64,1
+Public Rack - Avers Ave & Irving Park Rd,member,93,14.032258064516128,49,2
+Monticello Ave & Lawrence Ave,member,92,13.250000000000002,113,1
+Public Rack - Cumberland & Catherine,member,92,11.89130434782609,58,2
+Steelworkers Park,casual,91,22.780219780219781,99,1
+Marshfield Ave & 44th St,member,91,17.164835164835164,57,1
+State St & Pershing Rd,casual,90,35.722222222222229,1365,2
+Ashland Ave & McDowell Ave,casual,90,32.822222222222223,1321,1
+California & 16th St,member,89,15.325842696629213,51,1
+Pulaski Rd & Lake St,member,89,16.449438202247194,70,1
+Lamon Ave & Armitage Ave,casual,89,13.831460674157302,115,1
+Sacramento Blvd & Fulton Ave,member,89,12.651685393258427,64,1
+Rainbow Beach,member,88,29.204545454545457,138,2
+Roscoe & Harlem,casual,88,9.8409090909090917,155,3
+Ashland Ave & Garfield Blvd,casual,88,22.65909090909091,123,1
+Shabbona Park,casual,87,17.298850574712642,49,1
+Vernon Ave & 79th St,member,87,12.206896551724137,49,1
+Public Rack - Walden Pkwy & 103rd St,member,87,6.67816091954023,25,1
+Doty Ave & 111th St,casual,86,37.220930232558139,1033,2
+Western Ave & Lake St,member,86,14.093023255813955,75,2
+California Ave & 36th St,casual,86,17.732558139534884,164,1
+Kedzie Ave & Harrison St,member,86,12.523255813953488,65,1
+Public Rack - Milwaukee Ave & Higgins Ave,member,86,11.930232558139535,38,1
+State St & 54th St,casual,85,27.764705882352942,120,3
+Damen Ave/Coulter St,member,85,16.235294117647054,52,2
+Harlem Ave & Grace St,casual,85,18.211764705882356,479,1
+Wabash Ave & 87th St,casual,84,25.869047619047617,890,1
+Kenosha Ave & Wellington Ave,member,84,16.761904761904763,49,2
+Public Rack - Christiana Ave & Belmont Ave,member,84,8.5833333333333339,45,1
+Public Rack - Spaulding Ave & Evergreen Ave,casual,84,12.392857142857142,63,1
+Phillips Ave & 79th St,member,83,29.036144578313252,835,2
+Mason Ave & Belmont Ave,casual,83,13.518072289156626,61,1
+Public Rack - Kenton Ave & Palmer St,casual,83,11.783132530120483,61,1
+Hoyne Ave & 34th St,member,82,9.9390243902439028,48,1
+Kedzie Ave & 45th St,member,82,4.524390243902439,44,1
+Komensky Ave & 55th St,casual,82,10.402439024390246,77,1
+Public Rack - Christiana Ave & Belmont Ave,casual,82,9.1707317073170742,31,1
+Avenue O & 134th St,casual,81,35.432098765432094,385,1
+Kenneth Ave & 50th St,casual,81,16.197530864197532,73,1
+Dauphin Ave & 103rd St,casual,81,23.62962962962963,149,1
+Laramie Ave & Madison St,member,81,15.358024691358025,78,1
+Public Rack - Hyde Park Blvd & 53rd St,casual,81,16.370370370370374,112,1
+Halsted St & 51st St,member,80,12.462499999999999,59,1
+Houston Ave & 92nd St,member,80,11.65,58,1
+Long Ave & Belmont Ave,member,80,16.2375,167,1
+Pulaski & Ann Lurie Pl,member,80,11.7,35,1
+Walden Pkwy & 100th St,member,80,15.8125,111,1
+California Ave & Granville Ave,member,80,15.35,80,1
+Public Rack - Lawndale Ave & Diversey Ave,casual,80,10.9,37,1
+Stewart Ave & 83rd St,casual,79,43.417721518987335,1289,4
+Mozart St & Jackson Blvd,member,79,21.721518987341767,149,1
+Kilpatrick Ave & Grand Ave,casual,79,19.822784810126588,106,1
+California Ave & Marquette Rd,casual,79,17.822784810126581,96,1
+Major Taylor Trail & 115th St,casual,79,33.139240506329131,808,1
+Nordica & Medill,casual,78,14.256410256410257,101,3
+Evans Ave & 75th St,member,78,18.064102564102562,48,1
+Greenwood Ave & 79th St,casual,78,36.307692307692314,1410,2
+Public Rack - Milwaukee Ave & Diversey Ave,casual,78,11.884615384615385,48,1
+Streeter Dr/Grand Ave,member,77,13.662337662337661,51,2
+Springfield Ave & 47th St,casual,77,12.987012987012987,95,1
+Western Ave & Ardmore Ave,member,77,15.35064935064935,160,1
+Public Rack - Cumberland & Catherine,casual,77,12.727272727272727,97,1
+Public Rack - Hyde Park Blvd & 55th St,casual,77,14.077922077922077,84,1
+Hoyne Ave & 34th St,casual,76,15.342105263157897,48,1
+East End Ave & 87th St,member,76,22.907894736842113,94,3
+Central Park Ave & 24th St,member,76,11.697368421052634,47,1
+Narragansett Ave & School St,casual,76,13.473684210526315,94,1
+Public Rack - Rockwell & Division,casual,76,13.723684210526317,91,1
+Public Rack - Washington Park Ct & 51st St,casual,76,14.184210526315791,51,1
+Troy Ave & 27th St,casual,75,7.8800000000000017,47,2
+Komensky Ave & 31st St,member,75,16.160000000000004,55,2
+Laramie Ave & Kinzie St,casual,75,14.493333333333334,160,1
+Central Ave & Lake St,member,74,26.0,882,1
+Central Ave & Madison St,casual,74,31.972972972972972,598,1
+Meade Ave & Diversey Ave,member,74,18.54054054054054,90,3
+Central Park Ave & Ohio St,casual,74,19.986486486486488,258,1
+Halsted St & 111th St,member,73,11.36986301369863,101,2
+Greenwood Ave & 91st St,casual,73,24.904109589041095,243,2
+Central Park Blvd & 5th Ave,member,73,24.452054794520553,58,1
+Public Rack - Spaulding Ave & North Ave,casual,73,15.027397260273974,218,1
+Western Ave & 111th St,member,72,17.319444444444443,197,1
+Woodlawn Ave & 75th St,casual,72,46.708333333333343,1086,1
+Francisco Ave & 47th St,casual,72,22.333333333333329,479,1
+McCormick Blvd & Devon Ave,casual,72,27.319444444444443,98,1
+Central Park Blvd & 5th Ave,casual,72,28.555555555555557,297,1
+Public Rack - Lavergne & Lawrence,member,72,18.916666666666668,42,3
+Exchange Ave & 79th St,casual,71,39.408450704225366,839,1
+Michigan Ave & 71st St,casual,71,20.718309859154928,164,1
+Sacramento Ave & 25th St,casual,71,13.08450704225352,71,1
+Cottage Grove Ave & 111th Pl,casual,71,22.253521126760567,198,2
+Kedzie Ave & Harrison St,casual,70,48.6,480,2
+Sacramento Ave & Pershing Rd,casual,70,12.685714285714287,60,1
+Public Rack - Lockwood Ave & Diversey Ave,member,70,21.585714285714285,97,2
+Public Rack - California Ave & Devon Ave - NE,member,70,18.68571428571429,126,1
+Archer Ave & 43rd St,casual,69,13.304347826086955,46,3
+Kostner Ave & Lake St,casual,69,21.492753623188406,249,1
+Constance Ave & 95th St,casual,69,71.057971014492765,1248,1
+Greenwood Ave & 79th St,member,69,21.608695652173914,60,3
+W 103rd St & S Avers Ave,casual,69,19.985507246376805,64,2
+Pulaski Rd & Congress Pkwy,casual,69,19.608695652173914,133,1
+Central Ave & Harrison St,casual,69,30.246376811594207,126,1
+Rockwell St & 57th St,casual,68,10.808823529411764,74,1
+Hegewisch Metra Station,casual,68,10.735294117647058,58,1
+Public Rack - Milwaukee Ave & School St,casual,68,12.764705882352942,78,1
+Tripp Ave & 65th St,casual,67,19.835820895522389,149,1
+Halsted St & 78th St,casual,67,32.537313432835823,188,1
+Latrobe Ave & Chicago Ave,member,67,6.7761194029850751,34,1
+Public Rack - Avers & Lawrence,member,67,17.82089552238806,51,1
+Public Rack - California Ave & Cortez St,casual,67,14.119402985074625,44,2
+Central Ave & Chicago Ave,casual,67,39.985074626865668,506,2
+Albany Ave & 16th St,casual,66,21.575757575757578,94,1
+Dauphin Ave & 87th St,member,66,20.90909090909091,76,2
+Meade Ave & Addison St,casual,66,13.090909090909092,69,1
+Torrence Ave & 106th St,casual,66,34.378787878787875,321,1
+Major Taylor Trail & 115th St,member,66,28.136363636363637,369,1
+Martin Luther King Dr & 111th St,member,66,4.4242424242424239,42,1
+Homan Ave & 65th St,casual,65,13.215384615384613,58,1
+Yates Blvd & 75th St,member,65,22.523076923076921,121,4
+Narragansett & McLean,casual,65,15.8,85,1
+Stewart Ave & 63rd St,casual,65,50.523076923076928,1196,2
+Public Rack - Walden Pkwy & 103rd St,casual,65,11.338461538461537,51,1
+Vernon Ave & 107th St,casual,64,43.734375,1154,3
+Western Ave & 28th St,casual,64,30.890624999999996,542,1
+Jeffery Blvd & 76th St,casual,64,72.109375000000014,1068,2
+Baltimore Ave & 87th St,casual,64,39.515625,206,1
+Commercial Ave & 83rd St,casual,64,31.71875,216,2
+Burnham Greenway & 105th St,casual,64,45.265625,198,4
+Public Rack - Avers Ave & Irving Park Rd,casual,64,13.0625,31,1
+Public Rack - Laramine Ave & Winnemac Ave,member,64,16.515625,55,1
+Long Ave & Belden Ave,member,63,20.999999999999993,59,2
+Loomis Blvd & 84th St,casual,63,23.873015873015873,96,1
+Artesian Ave & 55th St,member,63,16.190476190476186,230,2
+Martin Luther King Dr & 111th St,casual,63,18.301587301587304,186,1
+Public Rack - Midway Orange Line,member,63,10.746031746031745,39,1
+Evans Ave & 75th St,casual,62,21.032258064516132,76,2
+Narragansett & McLean,member,62,11.629032258064518,35,1
+Exchange Ave & 79th St,member,62,23.096774193548384,80,1
+Sacramento Ave & 25th St,member,62,11.14516129032258,28,1
+Public Rack - Rockwell Ave & Touhy Ave ,member,62,10.774193548387094,53,2
+Indiana Ave & 103rd St,casual,61,16.327868852459019,288,2
+Public Rack - Lafayette Ave & 95th St,casual,61,13.918032786885245,65,3
+Public Rack - Washtenaw Ave & Devon Ave,casual,61,18.9344262295082,96,2
+Hale Ave & 107th St,member,60,12.233333333333334,123,2
+Prospect Sq & 91st St,member,60,14.983333333333334,48,1
+Cicero Ave & Flournoy St,casual,60,14.216666666666665,130,2
+Rockwell St & Archer Ave,member,60,15.8,59,1
+Cottage Grove Ave & 71st St,casual,60,38.300000000000011,1384,1
+Public Rack - Stewart Ave & 123rd St,casual,60,18.56666666666667,44,3
+Ellis Ave & 83rd St,casual,59,36.050847457627128,913,2
+Ashland Ave & 63rd St,member,59,19.932203389830509,280,1
+California Ave & 26th St,casual,59,46.542372881355931,1213,3
+Public Rack - Avers & Lawrence,casual,59,16.999999999999996,105,1
+Public Rack - Kimball Ave & Carmen Ave,member,59,20.322033898305087,129,1
+Public Rack - Milwaukee Ave & Kennedy Expy,member,59,10.203389830508474,36,2
+Public Rack - Menard Ave & Dakin St - midblock,casual,59,15.0,67,3
+Orange & Addison,casual,58,17.086206896551722,77,1
+Hamlin Ave & 62nd Pl,casual,58,14.672413793103448,150,2
+Western Ave & 28th St,member,58,18.96551724137931,83,3
+Artesian Ave & 55th St,casual,58,14.844827586206895,98,1
+Hamlin Ave & Grand Ave,member,58,34.58620689655173,362,2
+Plainfield & Irving Park,casual,58,27.413793103448281,240,2
+Kildare Ave & Division St,casual,58,30.655172413793103,338,1
+Seeley Ave & Garfield Blvd,casual,58,20.827586206896552,96,2
+Public Rack - Loomis St & 87th St,member,58,21.362068965517246,27,1
+Public Rack - Wilbur Wright College South,member,58,17.224137931034484,47,1
+Pulaski Rd & Congress Pkwy,member,58,13.689655172413794,78,2
+Cicero Ave & Lake St,member,57,11.807017543859647,55,2
+Cicero Ave & Quincy St,casual,57,28.842105263157897,331,1
+Racine Ave & Garfield Blvd,casual,57,50.368421052631575,1280,1
+Public Rack - Hoyne Ave & 110th Pl,member,57,8.9298245614035086,88,1
+Public Rack - Pulaski Rd & 44th St,member,57,8.49122807017544,20,1
+Public Rack - Olmstead Ave & Oliphant Ave,member,57,11.982456140350878,39,1
+Sayre & Diversey,member,56,28.660714285714285,64,1
+Kildare Ave & 47th St,casual,56,11.749999999999998,40,3
+Shields Ave & 43rd St,casual,56,17.285714285714285,94,2
+Central Ave & Madison St,member,56,15.410714285714288,53,1
+Ewing Ave & Burnham Greenway,casual,56,26.499999999999996,110,1
+Bloomingdale Ave & Harlem Ave,casual,56,19.803571428571427,202,2
+Hastings LWS,member,55,11.000000000000002,23,1
+Damen Ave & 51st St,member,55,16.963636363636368,86,1
+Halsted St & 78th St,member,55,22.709090909090904,89,1
+Homewood Ave & 115th St,casual,55,29.54545454545455,203,1
+Karlov Ave & Madison St,casual,55,44.909090909090907,819,1
+Kenton Ave & Madison St,casual,55,23.127272727272729,215,2
+Leamington Ave & Hirsch St,casual,55,17.872727272727275,151,1
+Public Rack - Lawndale Ave & 23rd St,casual,55,11.127272727272729,84,1
+Elizabeth St & 59th St,casual,54,9.3333333333333339,46,3
+Lawndale Ave & 16th St,casual,54,23.759259259259263,326,1
+Marshfield Ave & 59th St,casual,54,19.203703703703702,139,2
+Public Rack - Lafayette Ave & 95th St,member,54,10.666666666666666,42,1
+Public Rack - Lowell Ave & Elston Ave,member,54,18.666666666666668,97,2
+Public Rack - Austin Ave & Wrightwood Ave,casual,54,7.5000000000000009,46,1
+Damen Ave & 51st St,casual,53,31.113207547169811,219,1
+Halsted St & 69th St,casual,53,17.754716981132077,298,2
+Dauphin Ave & 87th St,casual,53,24.39622641509434,147,1
+Houston Ave & 92nd St,casual,53,40.698113207547159,783,1
+Richmond St & 59th St,casual,53,16.207547169811317,116,1
+Stewart Ave & 63rd St,member,53,16.245283018867926,179,1
+Torrence Ave & 126th Pl,casual,53,11.528301886792452,60,1
+Lamon Ave & Chicago Ave,casual,52,25.36538461538462,128,3
+Maplewood Ave & 59th St,casual,52,17.67307692307692,143,1
+Kildare Ave & Chicago Ave,casual,52,21.307692307692307,82,2
+Public Rack - Forest Glen & Peterson,member,52,22.88461538461538,59,2
+Kilbourn & Belden,member,51,11.921568627450981,47,2
+Vernon Ave & 75th St,casual,51,16.156862745098042,224,2
+Karlov Ave & Madison St,member,51,18.411764705882355,236,2
+Latrobe Ave & Chicago Ave,casual,51,29.333333333333332,194,2
+Stony Island Ave & South Chicago Ave,member,51,16.411764705882351,79,1
+Public Rack - Kilbourn Ave & Fullerton Ave,member,51,3.6274509803921569,9,2
+Kildare & Cermak,casual,50,16.160000000000004,74,2
+Ewing Ave & Burnham Greenway,member,50,15.719999999999999,54,1
+Avenue O & 118th St,casual,49,21.183673469387752,81,1
+Clyde Ave & 87th St,casual,49,23.857142857142854,200,3
+MLK Jr Dr & 83rd St,casual,49,17.755102040816329,161,3
+Kildare Ave & 55th St,casual,49,11.020408163265307,43,1
+Loomis Blvd & 84th St,member,49,25.551020408163268,74,1
+Meade Ave & Addison St,member,49,16.551020408163268,69,3
+Maryland Ave & 104th St,casual,49,17.816326530612244,128,1
+Pulaski Rd & Eddy St (Temp),casual,49,17.448979591836736,67,3
+Public Rack - Throop St & 58th St,member,49,14.346938775510203,22,10
+Public Rack - 63rd Pl & Narraganssett Ave,casual,49,17.612244897959187,107,2
+Altgeld Gardens,casual,48,192.99999999999994,1338,9
+Woodlawn & 103rd,casual,48,12.229166666666668,89,1
+Ashland Ave & 63rd St,casual,48,25.416666666666664,269,2
+Ashland Ave & 78th St,casual,48,46.645833333333321,621,5
+Stony Island Ave & 82nd St,casual,48,34.375,189,1
+Pulaski Rd & Eddy St (Temp),member,48,9.1666666666666661,38,2
+Public Rack - Pulaski & Rosemont,member,48,15.250000000000002,62,1
+Public Rack - Campbell Ave & Pratt Blvd,member,48,9.1874999999999982,25,2
+Public Rack - Irving Park Rd & Leclaire Ave,member,48,14.937499999999998,46,1
+Pulaski & Ann Lurie Pl,casual,48,17.479166666666668,62,3
+Halsted St & 73rd St,casual,47,43.4468085106383,1237,2
+Ashland Ave & 78th St,member,47,23.872340425531913,185,2
+Stewart Ave & 83rd St,member,47,19.425531914893618,179,2
+Central Park & Augusta Blvd,member,47,27.553191489361708,98,1
+Cottage Grove Ave & 111th Pl,member,47,20.595744680851062,96,1
+La Villita Park (Albany/30th),casual,47,21.191489361702128,114,1
+Public Rack - Ashland Ave & 91st St,member,47,20.14893617021276,138,2
+Halsted St & 96th St,casual,46,37.413043478260875,420,4
+Kedzie Ave & 24th St,member,46,15.173913043478262,40,1
+Kedzie Ave & 104th St,casual,46,17.086956521739129,48,2
+Cicero Ave & Quincy St,member,46,12.413043478260867,85,1
+Eberhart Ave & 91st St,casual,46,70.282608695652186,917,1
+Jeffery Blvd & 76th St,member,46,18.586956521739133,76,2
+Public Rack - Jensen Park,member,46,6.8260869565217375,36,1
+Stony Island Ave & 82nd St,member,46,19.826086956521738,164,1
+Public Rack - Brandon Ave & 91st St,member,46,19.34782608695652,239,1
+Public Rack - Champlain Ave & 65th St,casual,46,17.3695652173913,157,1
+Big Marsh Park,member,45,36.6,183,1
+Oketo Ave & Addison St,casual,45,21.622222222222224,76,2
+Maplewood Ave & 59th St,member,45,9.2222222222222214,35,3
+North Ave & New England Ave,casual,45,23.8,132,1
+Monticello Ave & Chicago Ave,casual,45,16.244444444444444,218,1
+Central Park Ave & Douglas Blvd,casual,45,19.511111111111113,279,1
+Public Rack - Prairie Ave & Garfield Blvd S,casual,45,15.044444444444444,87,2
+Public Rack - California Ave & Touhy Ave - NW,casual,45,17.4,86,3
+Halsted St & 51st St,casual,44,59.295454545454547,1412,2
+Kedzie Ave & 45th St,casual,44,15.250000000000004,194,1
+Lavergne & Fullerton,member,44,21.77272727272727,159,1
+Komensky Ave & 55th St,member,44,10.249999999999998,37,2
+Major Ave & Bloomingdale Ave,casual,44,21.181818181818187,82,1
+Public Rack - Western Ave & 96th St,member,44,20.522727272727273,74,3
+Public Rack - Kedzie Ave & Archer Ave,casual,44,8.5454545454545467,42,1
+Damen Ave & 74th St,casual,43,30.558139534883725,227,1
+Vincennes Ave & 75th St,casual,43,19.116279069767444,84,1
+Stony Island Ave & South Chicago Ave,casual,43,32.674418604651159,360,1
+Public Rack - Haft Ave & Milwaukee Ave,member,43,10.720930232558139,89,6
+Cicero Ave & Flournoy St,member,43,16.953488372093023,88,1
+Loomis St & 89th St,member,42,23.142857142857142,74,1
+Tripp Ave & 31st St,casual,42,12.714285714285712,131,1
+Vernon Ave & 79th St,casual,42,19.285714285714288,89,2
+Yates Blvd & 93rd St,casual,42,26.047619047619047,168,2
+Greenwood Ave & 91st St,member,42,24.976190476190478,80,1
+Commercial Ave & 130th St,member,42,11.5,44,1
+Public Rack - Kedzie Ave & Argyle St,casual,42,10.976190476190474,62,1
+Public Rack - Jonathan Y Scammon Public School,casual,42,14.428571428571429,49,1
+Wabash Ave & 83rd St,casual,41,14.780487804878048,92,1
+Bennett Ave & 79th St,casual,41,17.804878048780488,70,1
+Elizabeth St & 47th St,casual,41,31.146341463414636,190,1
+Homewood Ave & 115th St,member,41,17.658536585365852,115,1
+Albany Ave & Douglas Blvd,casual,41,26.024390243902438,225,1
+Cottage Grove Ave & 78th St,casual,41,28.658536585365852,139,4
+Public Rack - Kilpatrick & Elston,member,41,17.975609756097562,40,3
+Public Rack - Nagle Ave & Belmont Ave,casual,41,14.414634146341463,56,1
+Public Rack - Nashotah & Northwest Hwy,member,41,11.512195121951219,55,1
+Public Rack - Sawyer Ave & Lawrence Ave,casual,41,4.4146341463414638,15,1
+Public Rack - Fullerton Ave & Narragansett Ave,casual,41,11.780487804878048,38,1
+Long Ave & North Ave,casual,40,23.025,207,3
+Racine Ave & 61st St,casual,40,33.2,895,2
+Mason Ave & Belmont Ave,member,40,15.624999999999996,40,1
+Austin Blvd & Chicago Ave,member,40,18.624999999999996,130,1
+Parkside Ave & Armitage Ave,casual,40,15.924999999999999,88,1
+S Wentworth Ave & W 111th St,casual,40,22.599999999999998,220,2
+Public Rack - Parkside & Archer,member,40,10.55,41,2
+St Louis Ave & Norman Bobbins Ave,member,40,17.575,54,4
+Public Rack - Calumet Ave & 51st St,member,40,9.1750000000000025,55,1
+Public Rack - Western Ave & Devon Ave,casual,40,19.499999999999996,144,3
+Public Rack - Melvina Ave & Belmont Ave,casual,40,10.225,47,1
+Public Rack - Austin Ave & Wrightwood Ave,member,40,6.35,24,2
+Summit Ave & 86th St,member,39,25.615384615384617,441,1
+Homan Ave & Fillmore St,casual,39,19.53846153846154,165,1
+Laramie Ave & Kinzie St,member,39,30.256410256410263,677,2
+Mozart St & Jackson Blvd,casual,39,18.256410256410255,86,1
+Cottage Grove Ave & 71st St,member,39,15.743589743589745,52,1
+Public Rack - Halsted St & 95th St - SE,member,39,9.46153846153846,49,1
+Halsted St & 104th St,casual,38,43.421052631578952,233,1
+Rockwell St & 63rd St,casual,38,21.657894736842106,104,1
+Oglesby Ave & 100th St,casual,38,53.736842105263158,461,2
+Public Rack - Kostner Ave & Diversey Ave,casual,38,17.921052631578949,120,1
+Public Rack - Milwaukee Ave & Culyer Ave,member,38,10.94736842105263,45,1
+Public Rack - Washington Park Ct & 51st St,member,38,29.078947368421055,354,1
+Public Rack - Prairie Ave & Garfield Blvd S,member,38,9.2894736842105274,55,2
+Public Rack - California Ave & Touhy Ave - NW,member,38,12.447368421052632,27,1
+Public Rack - Columbus & 79th,casual,38,13.499999999999998,94,1
+Ashland Ave & 74th St,member,37,18.27027027027027,67,3
+Richmond St & 59th St,member,37,23.675675675675674,53,1
+Vincennes Ave & 104th St,casual,37,22.324324324324319,92,4
+Augusta Blvd & Laramie Ave,casual,37,17.702702702702705,78,2
+Public Rack - Sacramento Ave & Devon Ave,casual,37,25.783783783783786,85,2
+Public Rack - Laramine Ave & Winnemac Ave,casual,37,19.594594594594593,57,1
+Public Rack - Wilbur Wright College South,casual,37,12.27027027027027,52,1
+East End Ave & 87th St,casual,37,18.432432432432432,113,1
+Halsted St & 56th St,casual,36,72.8888888888889,1011,1
+Buckingham - Fountain,member,36,24.194444444444443,107,3
+Public Rack - 4810 Keeler Ave,member,36,23.166666666666661,144,2
+Damen Ave & 59th St,member,35,23.514285714285716,65,1
+Harding Ave & 26th St,casual,35,12.171428571428573,58,1
+Karlov Ave & Lawrence Ave,member,35,13.942857142857143,41,1
+Francisco Ave & Hollywood Ave,member,35,15.6,61,1
+Public Rack - 56th St & Mulligan Ave,casual,35,13.342857142857143,66,1
+Public Rack - S. New England/ W. 65th,casual,35,25.11428571428571,268,4
+Public Rack - Sacramento Ave & Devon Ave,member,35,12.457142857142857,49,1
+Public Rack - Christiana Ave & Archer Ave,member,35,7.9714285714285715,33,4
+Public Rack - Cicero Ave & Wrightwood Ave,casual,35,15.171428571428571,80,3
+Public Rack - 111th St - Morgan Park Metra,member,35,5.6857142857142859,24,1
+Public Rack - California Ave & Devon Ave - NE,casual,35,19.799999999999997,86,3
+Public Rack - California Ave & Devon Ave - NW,member,35,17.428571428571427,130,2
+Menard Ave & North Ave,casual,35,18.6,71,1
+Nordica & Medill,member,34,21.117647058823533,114,3
+State St & 76th St,member,34,21.117647058823533,52,2
+Calumet Ave & 71st St,casual,34,16.735294117647058,76,1
+Western Ave & 104th St,member,34,10.794117647058824,44,4
+Constance Ave & 95th St,member,34,22.617647058823529,71,9
+Marquette Ave & 89th St,casual,34,35.029411764705884,214,2
+Burnham Greenway & 105th St,member,34,17.058823529411764,83,4
+Hamlin Ave & 62nd Pl,member,33,9.6060606060606055,36,2
+Hegewisch Metra Station,member,33,11.151515151515152,36,3
+Mayfield & Roosevelt Rd,casual,33,22.090909090909086,122,2
+Menard Ave & Division St,casual,33,21.545454545454547,122,1
+Monticello Ave & Chicago Ave,member,33,22.212121212121211,222,1
+Public Rack - Lockwood & Archer,casual,33,12.212121212121213,46,1
+Public Rack - Racine Ave & 109th Pl,casual,33,19.27272727272727,90,1
+Public Rack - Cicero Ave & North Ave,member,33,9.93939393939394,71,3
+Public Rack - Cicero Ave & Altgeld St,member,33,7.6060606060606064,20,1
+Public Rack - Milwaukee Ave & Addison St,casual,33,11.606060606060606,32,2
+Public Rack - N. Oakview and W. Gregory St,casual,33,15.393939393939398,149,1
+Public Rack - Keystone Ave & Irving Park Rd,member,33,8.96969696969697,35,1
+Public Rack - King Dr & 115th St,casual,33,9.6363636363636367,37,1
+Public Rack - Nagel & Higgins,casual,33,11.90909090909091,39,2
+Ashland Ave & 66th St,member,32,69.468749999999986,457,2
+Eberhart Ave & 91st St,member,32,10.125000000000002,28,2
+Elizabeth St & 92nd St,casual,32,25.65625,151,1
+Central Ave & Harrison St,member,32,21.625000000000004,93,2
+Whipple St & Roosevelt Rd,casual,32,38.625,161,4
+Public Rack - Kimball & Ardmore,member,32,18.34375,116,1
+Public Rack - Pulaski Rd & 44th St,casual,32,8.875,23,1
+Public Rack - Central Ave & Pensacola Ave,member,32,13.6875,54,1
+Public Rack - Milwaukee Ave & Catalpa Ave,member,32,8.90625,40,1
+Public Rack - Kedzie Ave & 60th St,member,32,7.9374999999999991,12,5
+Eberhart Ave & 131st St,casual,32,60.8125,698,4
+Pulaski Rd & 21st St,member,32,16.40625,54,1
+Public Rack - Parkside & Archer,casual,32,12.78125,57,2
+Clyde Ave & 87th St,member,31,23.12903225806452,55,3
+MLK Jr Dr & 83rd St,member,31,14.129032258064518,109,2
+Ashland Ave & 74th St,casual,31,48.096774193548384,899,1
+Elizabeth St & 47th St,member,31,21.258064516129032,77,2
+Kostner Ave & Adams St,casual,31,59.580645161290334,256,1
+Phillips Ave & 83rd St,casual,31,32.677419354838705,160,3
+Kenneth Ave & Lawrence Ave,casual,31,21.87096774193548,157,1
+Public Rack - King Dr & 115th St,member,31,14.483870967741941,279,2
+Public Rack - State ST & 42nd St,member,31,18.096774193548388,51,2
+Public Rack - Prairie Ave & 47th St ,casual,31,8.2258064516129021,35,3
+Public Rack - Keystone Ave & North Ave,member,31,13.387096774193548,25,2
+Public Rack - Laramie Ave & Belmont Ave,member,31,23.612903225806456,184,1
+Public Rack - Milwaukee Ave & Culyer Ave,casual,31,12.774193548387096,70,1
+Halsted St & 59th St,member,30,26.93333333333333,181,1
+Summit Ave & 86th St,casual,30,116.23333333333332,1284,6
+Spaulding Ave & 16th St,casual,30,35.333333333333329,155,2
+Vincennes Ave & 75th St,member,30,24.866666666666667,60,5
+California Ave & 36th St,member,30,11.599999999999998,49,3
+Laramie Ave & Gladys Ave,casual,30,56.533333333333331,304,2
+Marshfield Ave & 59th St,member,30,20.166666666666671,106,1
+Racine Ave & Fullerton Ave (Temp),casual,30,10.6,16,3
+Public Rack - Nashotah & Northwest Hwy,casual,30,32.566666666666663,120,1
+Public Rack - Fullerton Ave & Narragansett Ave,member,30,26.266666666666666,170,2
+Kedzie Ave & 52nd St,member,30,11.466666666666665,39,2
+Albany Ave & 16th St,member,30,19.166666666666668,157,2
+Public Rack - S Menard & W 63rd,casual,30,16.1,53,1
+Damen Ave/Coulter St,casual,29,10.827586206896552,19,1
+Leavitt St/North Ave,casual,29,7.13793103448276,18,1
+Kostner Ave & Lake St,member,29,14.413793103448274,39,2
+Campbell Ave & 51st St,member,29,19.96551724137931,101,3
+Cottage Grove Ave & 78th St,member,29,15.13793103448276,130,1
+Public Rack - Kimball Ave & Lawrence Ave,member,29,10.03448275862069,37,1
+May St & 69th St,casual,28,53.0357142857143,1066,2
+Woodlawn Ave & 75th St,member,28,10.607142857142858,64,2
+Torrence Ave & 106th St,member,28,24.785714285714285,71,1
+California Ave & 29th St,casual,28,19.892857142857142,72,5
+Major Taylor Trail & 124th St,casual,28,59.428571428571423,190,1
+Public Rack - Prairie Ave & 47th St ,member,28,10.607142857142858,84,1
+Public Rack - Laramie Ave & Grand Ave,member,28,18.75,92,2
+Public Rack - Forrestville Ave & 47th St,member,28,11.428571428571427,86,1
+Public Rack - Pulaski Rd & Fullerton Ave,member,28,10.214285714285714,38,1
+Damen Ave & 33rd St,member,28,8.5357142857142865,24,1
+S Michigan Ave & E 118th St,casual,28,33.392857142857146,191,1
+Damen Ave & 74th St,member,28,15.642857142857141,61,2
+Calumet Park,member,27,26.592592592592588,59,2
+Loomis St & 89th St,casual,27,36.888888888888886,376,4
+Tripp Ave & 15th St,member,27,36.814814814814817,136,1
+Halsted St & 111th St,casual,27,28.074074074074073,148,4
+Michigan Ave & 114th St,casual,27,25.037037037037042,80,1
+Keeler Ave & Roosevelt Rd,casual,27,34.407407407407412,476,1
+Mulligan Ave & Wellington Ave,member,27,11.481481481481481,66,2
+Public Rack - Leamington & Elston,casual,27,18.407407407407412,63,5
+Public Rack - Kedzie Ave & 58th St,member,27,6.2592592592592586,33,2
+Public Rack - Haft Ave & Milwaukee Ave,casual,27,14.0,89,1
+Public Rack - Lockwood Ave & Diversey Ave,casual,27,14.333333333333334,114,1
+Public Rack - Keystone Ave & Irving Park Rd,casual,27,13.000000000000002,59,1
+Public Rack - Springfield Ave & Lawrence Ave,casual,27,8.4444444444444446,21,2
+Woodlawn & 103rd - Olive Harvey Vaccination Site,casual,27,10.666666666666668,36,1
+Stony Island Ave & 90th St,casual,27,67.222222222222229,963,2
+Public Rack - Minuteman Park,casual,27,20.185185185185187,78,1
+Public Rack - Elston Ave & Kenneth Ave,casual,27,14.703703703703702,64,5
+Halsted St & 56th St,member,26,14.307692307692307,44,2
+Indiana Ave & 133rd St,casual,26,63.15384615384616,355,9
+Oglesby Ave & 100th St,member,26,20.76923076923077,46,3
+Sacramento Blvd & Polk St,member,26,16.26923076923077,125,5
+Kenneth Ave & Lawrence Ave,member,26,21.153846153846157,159,3
+Public Rack - Neva & Foster,member,26,14.115384615384617,56,3
+Public Rack - Lavergne & Lawrence,casual,26,17.730769230769234,80,1
+Public Rack - Hoyne Ave & 110th Pl,casual,26,15.884615384615385,63,1
+Public Rack - Cicero Ave & Roscoe St,member,26,10.73076923076923,25,2
+Public Rack - Avondale Ave & Addison St,member,26,16.923076923076923,77,2
+Damen Ave & 33rd St,casual,26,12.961538461538462,58,1
+Public Rack - St Louis Ave & Berteau Ave,casual,26,14.153846153846155,52,1
+Public Rack - Karlov Ave & Milwaukee Ave,casual,26,12.961538461538462,62,1
+Olive Harvey College,casual,25,21.440000000000005,171,5
+Rockwell St & 57th St,member,25,16.76,67,1
+Maryland Ave & 104th St,member,25,24.68,124,1
+Kilbourn Ave & Roscoe St,casual,25,9.5200000000000014,29,1
+S Aberdeen St & W 106th St,casual,25,15.76,43,1
+Public Rack - Western & 79th,casual,25,14.200000000000005,119,2
+Public Rack - Neva Ave & Grand Ave,casual,25,25.320000000000004,87,2
+Public Rack - Avondale Ave & Addison St,casual,25,16.6,115,2
+Public Rack - Laramie Ave & Belmont Ave,casual,25,13.64,55,4
+Public Rack - Kimball Ave & Lawrence Ave,casual,25,11.559999999999997,44,1
+Public Rack - Milwaukee Ave & Kennedy Expy,casual,25,19.6,143,1
+Public Rack - Martin Luther King Dr & 44th St,member,25,26.439999999999998,255,1
+Sacramento Blvd & Polk St,casual,25,17.4,163,1
+Public Rack - Pulaski Rd & Fullerton Ave,casual,25,7.9999999999999991,27,1
+Lawndale Ave & 111th St,member,25,18.479999999999997,66,4
+Public Rack - Central Ave & Pensacola Ave,casual,25,11.68,53,2
+State St & 76th St,casual,24,8.7083333333333339,24,1
+Ashland Ave & 66th St,casual,24,27.083333333333339,156,2
+Lawndale Ave & 30th St,member,24,9.0416666666666661,33,1
+Spaulding Ave & 63rd St,casual,24,18.541666666666668,46,3
+South Chicago Ave & 83rd St,casual,24,103.54166666666667,1371,3
+California Ave & Granville Ave,casual,24,16.541666666666668,56,2
+Public Rack - Keating & Peterson,member,24,20.583333333333332,37,1
+Public Rack - Rockwell & 111th St,member,24,9.4166666666666679,23,1
+Public Rack - Avers Ave & Archer Ave,casual,24,16.416666666666664,102,2
+Public Rack - Komensky Ave & 63rd St,casual,24,11.541666666666666,69,3
+Public Rack - Cottage Grove & 86th St,member,24,3.166666666666667,14,1
+Public Rack - Oketo Ave & Belmont Ave,member,24,14.166666666666666,36,5
+Public Rack - Keystone Ave & North Ave,casual,24,10.791666666666668,26,2
+Public Rack - Karlov Ave & Kamerling Ave,casual,24,23.416666666666668,156,1
+Troy St & Jackson Blvd,casual,24,16.5,72,6
+Public Rack - Hamlin Ave & Grand Ave,member,24,18.458333333333329,257,2
+Public Rack - Campbell Ave & Pratt Blvd,casual,24,14.041666666666668,46,1
+Springfield Ave & North Ave,member,24,14.416666666666668,36,1
+Public Rack - N Narragansett Ave & Grand Ave,member,24,6.791666666666667,11,2
+Public Rack - Central Ave & George St,member,24,8.7083333333333321,33,2
+Steelworkers Park,member,23,18.652173913043477,81,2
+Ellis Ave & 83rd St,member,23,26.652173913043477,333,2
+Kedzie Ave & 66th Pl,casual,23,12.695652173913043,42,4
+Halsted St & 104th St,member,23,16.521739130434778,49,1
+Harding Ave & 26th St,member,23,13.130434782608695,72,2
+Indiana Ave & 103rd St,member,23,12.695652173913043,67,3
+Homan Ave & Fillmore St,member,23,37.04347826086957,275,1
+Lavergne Ave & Fullerton Ave,casual,23,18.608695652173914,58,1
+Public Rack - 61st St & Melvina Ave,casual,23,20.304347826086961,86,1
+Public Rack - Tripp Ave & North Ave,casual,23,11.391304347826086,26,1
+Public Rack - Cicero Ave & Roscoe St,casual,23,10.260869565217392,40,2
+Public Rack - Mobile Ave & Archer Ave,casual,23,10.217391304347824,31,4
+Public Rack - McCormick Blvd & Devon Ave,member,23,15.913043478260867,32,1
+Public Rack - Martin Luther King Dr & 44th St,casual,23,15.434782608695651,70,2
+Tripp Ave & 15th St,casual,23,24.695652173913047,75,1
+Throop St & 52nd St,casual,22,37.409090909090907,105,2
+Panama Ave & Grace St,casual,22,19.363636363636363,76,4
+Springfield Ave & 47th St,member,22,13.09090909090909,66,3
+Whipple St & Roosevelt Rd,member,22,17.681818181818183,59,4
+Central Park Ave & Douglas Blvd,member,22,19.454545454545457,201,1
+Public Rack - Michigan Ave & 96th St,casual,22,12.5,92,1
+Public Rack - Western Ave & 110th St,member,22,6.59090909090909,17,4
+Public Rack - Kildare Ave & North Ave,member,22,13.363636363636363,38,3
+Public Rack - Kimball Ave & Carmen Ave,casual,22,13.40909090909091,30,2
+Public Rack - Eli Whitney Public School,casual,22,8.045454545454545,23,2
+Public Rack - Karlov Ave & Lawrence Ave,casual,22,11.272727272727273,35,2
+Public Rack - Sawyer Ave & Lawrence Ave,member,22,7.5454545454545432,22,2
+Public Rack - Irving Park Rd & Leclaire Ave,casual,22,13.590909090909092,46,3
+Public Rack - N Narragansett Ave & Grand Ave,casual,22,19.40909090909091,63,1
+Public Rack - Jonathan Y Scammon Public School,member,22,10.727272727272728,35,3
+Public Rack - Evans Ave & 63rd St,member,22,32.181818181818194,213,1
+Public Rack - Western Ave & 47th Pl,member,22,8.2272727272727266,23,1
+Fullerton & Monitor,member,21,15.999999999999996,38,2
+Racine Ave & 65th St,casual,21,68.238095238095227,879,2
+Marquette Ave & 89th St,member,21,15.952380952380953,68,2
+Albany Ave & Douglas Blvd,member,21,17.904761904761905,48,2
+Public Rack - Ford City Mall,casual,21,17.714285714285715,59,2
+Public Rack - Nordica & Archer,member,21,20.523809523809526,51,2
+Public Rack - Bishop St & 46th St,member,21,22.095238095238091,39,4
+Public Rack - Harper Ave & 63rd St,casual,21,16.666666666666668,111,3
+Public Rack - Kedzie Ave & 62nd Pl,member,21,7.19047619047619,48,2
+Public Rack - Norwood Park Station ,member,21,9.19047619047619,39,2
+Public Rack - Austin Ave & Roscoe St,member,21,8.0476190476190474,20,2
+Public Rack - Karlov Ave & Lawrence Ave,member,21,14.285714285714285,35,2
+Public Rack - Lawrence Ave & Kimball Ave,member,21,15.142857142857144,112,2
+Public Rack - Milwaukee Ave & Lawrence Ave,member,21,11.714285714285714,96,2
+Phillips Ave & 83rd St,member,21,25.761904761904763,202,2
+Public Rack - Throop St & 109th Pl,member,21,9.6190476190476186,32,1
+Ada St & 113th St,casual,21,24.904761904761905,150,1
+Public Rack - Monticello & Lawrence,casual,21,11.761904761904761,39,1
+Avenue O & 134th St,member,20,25.55,55,6
+Halsted St & 59th St,casual,20,20.150000000000002,59,4
+Public Rack - Nordica & Archer,casual,20,17.65,39,1
+Public Rack - Kostner & Peterson,member,20,17.75,47,3
+Public Rack - State ST & 42nd St,casual,20,14.55,48,3
+Public Rack - Calumet Ave & 51st St,casual,20,8.55,18,2
+Public Rack - Oketo Ave & Belmont Ave,casual,20,13.6,46,4
+Public Rack - Talman Ave & Pershing Rd,casual,20,8.75,42,1
+Public Rack - Central Ave & Corcoran Pl,casual,20,8.8999999999999986,32,1
+Public Rack - Rockwell Ave & Touhy Ave ,casual,20,13.700000000000001,64,1
+Public Rack - Laramie Ave & Fullerton Ave,casual,20,11.9,25,3
+Public Rack - Milwaukee Ave & Pensacola Ave,member,20,7.35,23,2
+Public Rack - Springfield Ave & Lawrence Ave,member,20,18.450000000000003,81,5
+Troy St & Jackson Blvd,member,20,12.549999999999999,38,1
+Public Rack - Hamlin Ave & Grand Ave,casual,20,14.450000000000001,57,6
+Public Rack - Laramie Ave & Warwick Ave,casual,20,12.899999999999999,52,3
+Public Rack - Baltimore Ave & 133rd St,casual,20,9.15,58,2
+Buckingham Fountain (Columbus/Balbo),member,20,12.95,59,1
+Public Rack - Komensky Ave & 31st St,casual,20,11.6,48,1
+Public Rack - Hiawatha & Mendota,casual,20,29.599999999999998,111,1
+Public Rack - Melvina & Foster,casual,20,15.4,50,3
+Public Rack - Christiana & Lincoln,member,20,16.250000000000004,49,3
+Olive Harvey College,member,20,24.35,58,4
+Public Rack - Normal Ave & 111th St,casual,20,13.75,67,2
+Bloomingdale Ave & Harlem Ave,member,19,20.631578947368421,50,5
+Public Rack - Avers & Granville,member,19,15.684210526315789,38,1
+Public Rack - Hamilton Ave & 95th St,casual,19,12.842105263157896,30,1
+Public Rack - Meade Ave & Archer Ave,casual,19,15.947368421052634,53,2
+Public Rack - Western Ave & 100th St,casual,19,11.894736842105264,104,1
+Public Rack - Kildare Ave & North Ave,casual,19,24.421052631578949,127,2
+Public Rack - Lotus Ave & Lawrence Ave,casual,19,22.578947368421051,194,1
+Public Rack - Lorel Ave & Grand Ave,casual,19,13.947368421052632,55,4
+Springfield Ave & North Ave,casual,19,20.421052631578949,45,1
+Commercial Ave & 100th St,member,19,34.368421052631582,242,6
+Lawler Ave & 50th St,member,18,19.833333333333332,61,6
+Commercial Ave & 100th St,casual,18,84.055555555555543,1072,5
+Lavergne Ave & Division St,casual,18,18.222222222222221,120,1
+Public Rack - Pulaski & Rosemont,casual,18,27.999999999999996,70,1
+Public Rack - Kedzie Ave & 58th St,casual,18,7.1111111111111107,20,2
+Public Rack - Foster Ave & Drake Ave,member,18,25.0,105,3
+Public Rack - Central Ave & Lawrence Ave,casual,18,9.3333333333333321,39,1
+Public Rack - Milwaukee Ave & Addison St,member,18,15.055555555555557,33,1
+Public Rack - Karlov Ave & Kamerling Ave,member,18,17.666666666666668,48,5
+Wabash Ave & 83rd St,member,18,7.3333333333333339,20,2
+Public Rack - Sawyer Ave & Chicago Ave,member,18,12.833333333333334,31,2
+Karlov Ave & Lawrence Ave,casual,18,17.555555555555557,50,1
+Public Rack - Sayer & Northwest Hwy,member,18,8.7777777777777786,34,1
+Public Rack - Western Ave & 110th St,casual,18,14.555555555555555,33,2
+Public Rack - California Ave & Marquette Rd,casual,18,20.333333333333332,66,1
+State St & 123rd St,casual,17,28.411764705882348,73,8
+Archer Ave & 43rd St,member,17,7.5294117647058831,18,1
+Oak Park & Wellington,member,17,24.0,48,1
+Menard Ave & Division St,member,17,18.235294117647058,55,2
+Public Rack - Homan & 79th,casual,17,9.7058823529411757,14,3
+North Ave & New England Ave,member,17,26.294117647058822,88,1
+Lavergne Ave & Fullerton Ave,member,17,17.823529411764707,49,1
+Public Rack - Western & 83rd,casual,17,12.294117647058822,36,1
+Public Rack - 4810 Keeler Ave,casual,17,19.352941176470587,115,2
+Public Rack - Lockwood & Archer,member,17,18.235294117647058,42,1
+Public Rack - Christiana & Lincoln,casual,17,21.000000000000004,94,6
+Public Rack - Harper Ave & 63rd St,member,17,15.823529411764707,60,1
+Public Rack - Foster Ave & Drake Ave,casual,17,26.705882352941178,164,2
+Public Rack - Kedzie Ave & Chicago Ave,member,17,7.5882352941176459,22,1
+Public Rack - Western Ave & Jarvis Ave,member,17,11.470588235294118,32,4
+Public Rack - Central Ave & Lawrence Ave,member,17,12.235294117647058,43,2
+Public Rack - McCormick Blvd & Devon Ave,casual,17,21.411764705882351,98,2
+Public Rack - Milwaukee Ave & Catalpa Ave,casual,17,23.882352941176471,61,3
+Public Rack - Milwaukee Ave & Pensacola Ave,casual,17,9.5882352941176467,29,2
+Public Rack - Kedzie Ave & 61st Pl E,casual,17,9.4705882352941178,30,2
+Public Rack - Kedzie Ave & 54th St - SE,casual,17,14.588235294117649,97,3
+Ashland Ave & Garfield Blvd,member,17,13.176470588235295,24,2
+Karlov Ave & Armitage Ave,casual,17,20.588235294117649,71,2
+Public Rack - Lynch & Elston,casual,17,14.941176470588236,57,6
+Avenue L & 114th St,casual,16,11.0625,37,3
+Lavergne Ave & 46th St,casual,16,22.125,49,2
+Lamon Ave & Chicago Ave,member,16,26.8125,135,2
+Karlov Ave & Armitage Ave,member,16,12.375,55,1
+Public Rack - Throop St & 58th St,casual,16,9.4375,43,2
+Public Rack - 82nd st & Kedzie Ave,casual,16,16.5625,51,6
+Public Rack - Karlov Ave & Milwaukee Ave,member,16,14.75,62,2
+Public Rack - Kilbourn Ave & Fullerton Ave,casual,16,9.5624999999999982,42,3
+Public Rack - Spaulding Ave & Foster Ave,member,16,11.9375,34,1
+Public Rack - Langley Ave & 49th St,casual,16,6.0,12,1
+Kildare & Cermak,member,16,15.375,54,2
+Public Rack - Kedvale Ave & Peterson Ave,member,16,12.875,25,2
+Public Rack - Austin & Higgins,casual,16,11.875,34,1
+Public Rack - Kilpatrick & Elston,casual,16,25.750000000000004,111,3
+Public Rack - Tripp Ave & North Ave,member,16,14.062499999999998,30,3
+Public Rack - Spaulding Ave & Bryn Mawr Ave,member,16,19.1875,192,3
+Public Rack - Narragansett Ave & Fullerton Ave,casual,16,14.937499999999996,39,1
+Roscoe & Harlem,member,15,10.466666666666667,26,4
+Central Park Ave & Ohio St,member,15,13.0,50,2
+Public Rack - Delphina & Foster,casual,15,12.133333333333335,51,1
+Public Rack - Kenton & Lawrence,member,15,20.4,38,4
+Public Rack - Natoma Ave & 61st St,casual,15,15.999999999999998,152,2
+Public Rack - Pulaski Rd & 65th St,casual,15,8.0666666666666664,28,4
+Public Rack - Harvard Ave & 119th St,casual,15,7.666666666666667,38,1
+Public Rack - Menard Ave & Grand Ave,member,15,10.733333333333333,29,2
+Public Rack - Marshfield Ave & 87th St,member,15,14.799999999999999,101,1
+Public Rack - Irving Park Rd & Austin Ave,casual,15,10.799999999999999,33,2
+Public Rack - Irving Park Rd & Austin Ave,member,15,15.6,38,5
+Public Rack - Greenwood Ave & Lake Park Ave,casual,15,28.666666666666668,87,2
+Public Rack - Cicero Ave & Cortland St - midblock,casual,15,11.133333333333335,36,3
+Troy Ave & 27th St,member,15,20.2,34,4
+Public Rack - Kenton Ave & Palmer St,member,15,13.533333333333333,41,4
+Public Rack - Forrestville Ave & 47th St,casual,15,26.933333333333334,104,1
+Public Rack - Kedzie Ave & Archer Ave,member,15,9.6666666666666661,29,2
+Doty Ave & 111th St,member,15,10.2,41,1
+Public Rack - Lotus Ave & Lawrence Ave,member,15,17.266666666666666,58,4
+Public Rack - Olmstead Ave & Oliphant Ave,casual,15,15.666666666666664,63,3
+Public Rack - Racine Ave & 74th St,casual,15,34.0,145,2
+Public Rack - Halsted St & 76th St,casual,15,45.666666666666671,113,5
+Shabbona Park,member,14,16.857142857142858,44,1
+Avenue O & 118th St,member,14,17.857142857142854,29,9
+Tripp Ave & 31st St,member,14,22.428571428571427,49,9
+Halsted St & 73rd St,member,14,33.857142857142854,239,5
+Kedzie Ave & 110th St,member,14,16.071428571428569,39,4
+Eggleston Ave & 92nd St,casual,14,15.0,27,3
+Washtenaw Ave & Madison St,casual,14,15.714285714285717,57,1
+Public Rack - California & 71st,casual,14,13.642857142857142,35,2
+Public Rack - Kimball & Ardmore,casual,14,14.071428571428571,25,3
+Public Rack - Wood St & 47th St,casual,14,9.4285714285714288,22,3
+Public Rack - Laflin St &51st ST,member,14,15.785714285714286,40,6
+Public Rack - Drake Ave & Leland Ave,member,14,13.071428571428573,41,2
+Public Rack - Komensky Ave & 31st St,member,14,24.571428571428573,53,3
+Public Rack - Laramie Ave & Grand Ave,casual,14,24.000000000000004,122,2
+Public Rack - South Shore Dr & 71st St,member,14,19.142857142857142,62,3
+Public Rack - Melvina Ave & Montrose Ave,casual,14,11.357142857142858,36,1
+Public Rack - St Louis Ave & Berteau Ave,member,14,10.000000000000002,17,5
+Public Rack - Western Ave & 92nd Pl,casual,14,14.857142857142858,29,5
+Public Rack - Cicero Ave & Belle Plaine Ave,member,14,13.285714285714285,43,4
+Public Rack - S. Kilpatrick and W. 79th,casual,14,13.714285714285714,39,3
+Harlem Ave & Grace St,member,14,18.142857142857146,107,2
+Dauphin Ave & 103rd St,member,14,15.142857142857142,67,4
+Public Rack - Abbott Park,casual,14,11.5,30,2
+Public Rack - Cicero Ave & Altgeld St,casual,14,14.785714285714286,32,2
+Eggleston Ave & 92nd St,member,13,15.76923076923077,43,1
+Public Rack - Austin & 62nd,casual,13,23.53846153846154,49,3
+Kenosha Ave & Wellington Ave,casual,13,32.692307692307693,110,2
+Public Rack - Pulaski & 52nd,casual,13,18.461538461538463,55,3
+Public Rack - Menard Ave & Grand Ave,casual,13,9.23076923076923,20,2
+Public Rack - Mulligan Ave & 56th St,casual,13,9.6923076923076934,23,1
+Public Rack - South Shore Dr & 71st St,casual,13,55.769230769230766,479,3
+Public Rack - Talman Ave & Pershing Rd,member,13,17.30769230769231,91,3
+Public Rack - Christiana Ave & Archer Ave,casual,13,8.6923076923076934,16,2
+Public Rack - Lafayette Ave & 87th St - NW,member,13,11.923076923076923,33,2
+Spaulding Ave & 63rd St,member,13,18.384615384615387,60,1
+Public Rack - Kedvale Ave & Avondale Ave,member,13,10.999999999999998,43,2
+Public Rack - California Ave & Ogden Ave,casual,13,28.23076923076923,76,1
+Public Rack - Austin Ave & Roscoe St,casual,13,11.846153846153845,24,1
+Public Rack - Jeffrey Blvd & 71st St,member,13,19.461538461538463,79,2
+Lawndale Ave & 16th St,member,13,17.615384615384617,72,2
+Public Rack - Linder & Elston,casual,13,22.769230769230766,65,6
+Public Rack - Central & Prescott,casual,13,37.923076923076927,110,2
+Public Rack - Avers & Granville,casual,13,14.615384615384615,34,3
+Public Rack - Kedzie Ave & Chicago Ave,casual,13,12.923076923076923,54,3
+Public Rack - Sawyer Ave & Chicago Ave,casual,13,17.846153846153847,43,1
+Public Rack - Langley Ave & Oakwood Blvd,member,13,19.538461538461537,72,2
+Public Rack - Holbrook St & Milwaukee Ave,casual,13,31.153846153846153,96,4
+Sacramento Ave & Pershing Rd,member,13,13.846153846153845,28,2
+Rockwell St & 63rd St,member,12,34.166666666666671,163,1
+Laramie Ave & Gladys Ave,member,12,24.75,55,2
+Public Rack - 532 E 43rd St,casual,12,14.666666666666668,48,3
+Public Rack - Kedzie & 73rd,casual,12,16.25,101,4
+South Chicago Ave & 83rd St,member,12,21.166666666666664,36,13
+Public Rack - Hollywood Park,casual,12,35.083333333333343,277,1
+Public Rack - Lynch & Elston,member,12,22.083333333333332,56,3
+Public Rack - Springfield & 79th,casual,12,13.083333333333334,29,4
+Public Rack - Sayre Ave & 59th St,member,12,20.5,32,15
+Public Rack - Kedzie Ave & 83rd St,casual,12,51.25,266,1
+Public Rack - Linder Ave & 64th Pl,casual,12,14.75,49,2
+Public Rack - Pulaski Rd & 83rd St,casual,12,25.5,73,1
+Public Rack - 63rd St and Nagle Ave,casual,12,13.083333333333336,48,3
+Public Rack - Kimbark Ave & 63rd St,member,12,10.75,40,3
+Public Rack - Cicero Ave & North Ave,casual,12,8.25,18,2
+Public Rack - Komensky Ave & 63rd St,member,12,9.1666666666666679,26,4
+Public Rack - Central Ave & George St,casual,12,15.583333333333332,40,2
+Public Rack - Fairfield Ave & 63rd St,member,12,6.083333333333333,13,1
+Public Rack - Kedzie Ave & 64th St - SW,casual,12,9.6666666666666679,22,2
+Public Rack - Natoma Ave & Bryn Mawr Ave,member,12,12.833333333333334,21,5
+Public Rack - Cottage Grove Ave & 87th St,member,12,14.666666666666666,41,3
+Long Ave & North Ave,member,12,40.166666666666664,238,5
+Kostner Ave & 63rd St,member,12,15.750000000000002,50,3
+California Ave & 29th St,member,12,9.3333333333333339,18,5
+Public Rack - Laramie Ave & Fullerton Ave,member,12,16.916666666666668,73,1
+Public Rack - Greenwood Ave & Lake Park Ave,member,12,15.0,38,4
+S Aberdeen St & W 106th St,member,12,6.083333333333333,16,2
+California Ave & 71st St,casual,12,17.416666666666668,42,1
+California Ave & 71st St,member,12,13.333333333333334,35,3
+Public Rack - Winona St & Elston Ave,casual,12,19.5,39,6
+Public Rack - Hiawatha & Mendota,member,12,15.416666666666668,39,5
+Public Rack - Harlem & Palatine,casual,12,28.166666666666664,87,8
+Public Rack - Central & Berteau,member,12,14.916666666666666,41,3
+Kildare Ave & 55th St,member,12,15.833333333333336,57,3
+Public Rack - Ashland Ave & 91st St,casual,12,13.916666666666666,35,1
+Kilbourn Ave & Roscoe St,member,12,14.5,24,5
+Public Rack - St Louis & Lincoln,member,12,25.083333333333332,46,4
+Public Rack - Neva Ave & Grand Ave,member,12,16.0,44,3
+Public Rack - Bryn Mawr Ave & Spaulding Ave,casual,12,12.583333333333336,50,4
+Public Rack - Harding Ave & 47th St,casual,12,20.0,123,3
+Public Rack - Jensen Park,casual,12,16.25,43,4
+Bradley Park,casual,11,25.09090909090909,126,3
+Hastings LWS,casual,11,12.909090909090908,18,3
+Homan Ave & 65th St,member,11,9.454545454545455,51,2
+Tripp Ave & 65th St,member,11,12.09090909090909,23,7
+Kenneth Ave & 50th St,member,11,21.818181818181817,68,4
+Kedzie Ave & Redfield Dr,casual,11,33.090909090909093,63,14
+Springfield Ave & 71st St,casual,11,14.90909090909091,34,4
+Public Rack - Damen & 81st,member,11,20.090909090909093,116,2
+Public Rack - Western & 83rd,member,11,24.181818181818183,36,16
+Public Rack - Parkside & 63rd,casual,11,14.454545454545453,42,2
+Public Rack - Central & Leland,member,11,9.3636363636363633,31,3
+Public Rack - Keating & Peterson,casual,11,15.636363636363637,61,1
+Public Rack - Wood St & 103rd St,casual,11,12.090909090909092,32,4
+Public Rack - Homan Ave & 26th St,casual,11,7.4545454545454541,19,2
+Public Rack - Homan Ave & 62nd Pl,casual,11,9.90909090909091,22,2
+Public Rack - Whipple St & 63rd St,member,11,9.9090909090909083,16,5
+Public Rack - Ashland Ave & 76th St,casual,11,27.0,98,3
+Public Rack - Austin Ave & Archer Ave,casual,11,16.454545454545453,55,5
+Public Rack - Lemont Ave & Keating Ave,member,11,18.181818181818183,26,3
+Public Rack - California Ave & Ogden Ave,member,11,18.636363636363633,38,2
+Public Rack - Cicero Ave & Wellington Ave,casual,11,15.727272727272728,45,5
+Public Rack - California Ave & Devon Ave - NW,casual,11,16.09090909090909,45,1
+Public Rack - Mozart Elementary School,casual,11,13.636363636363637,45,5
+Racine Ave & 61st St,member,11,17.09090909090909,34,3
+Rhodes Ave & 71st St,casual,11,22.636363636363637,59,3
+Public Rack - Western Ave & 105th St,casual,11,4.3636363636363633,9,2
+Public Rack - Marshfield Ave & 87th St,casual,11,26.09090909090909,126,3
+Public Rack - Lorel Ave & Grand Ave,member,11,14.909090909090912,40,4
+Public Rack - Prairie Ave & Garfield Blvd N,casual,11,10.636363636363637,37,3
+Public Rack - Kedzie Ave & 62nd Pl,casual,11,18.272727272727277,43,4
+Public Rack - Maplewood Ave & 47th St,member,11,5.454545454545455,16,2
+S Wentworth Ave & W 111th St,member,11,8.454545454545455,27,1
+Public Rack - Lawrence Ave & Kimball Ave,casual,11,11.0,28,4
+Public Rack - Lemont Ave & Keating Ave,casual,11,18.0,64,1
+Public Rack - Bryn Mawr Ave & Spaulding Ave,member,11,16.727272727272727,36,5
+Public Rack - Leader & Caldwell,casual,11,28.636363636363637,79,5
+Public Rack - Peterson Park,casual,11,22.454545454545457,60,11
+Public Rack - Richard Daley College,casual,11,12.999999999999998,29,3
+Public Rack - Forest Glen Station ,casual,11,35.545454545454547,101,7
+Rhodes Ave & 71st St,member,11,17.181818181818183,30,4
+Wentworth Ave & 104th St,casual,11,51.18181818181818,183,7
+Public Rack - Linder & 51st,casual,11,17.636363636363633,37,1
+Public Rack - Kostner Ave & Wrightwood Ave,member,11,12.636363636363637,31,1
+Public Rack - Christiana Ave & Lawrence Ave,member,11,9.90909090909091,21,3
+Public Rack - Kenneth Ave & 63rd St E,casual,11,19.363636363636363,34,4
+Carpenter St & 63rd St,member,11,26.272727272727273,91,1
+Michigan Ave & 114th St,member,11,29.90909090909091,197,3
+California Ave & Marquette Rd,member,10,13.2,21,4
+Public Rack - Ozman & Talcott,casual,10,16.000000000000004,38,7
+Public Rack - Melvina & Foster,member,10,6.5,13,2
+Public Rack - Imlay & Milwaukee,casual,10,24.2,62,10
+Public Rack - King Dr & 71st St,member,10,3.0,8,1
+Public Rack - St Louis & Lincoln,casual,10,20.5,56,1
+Public Rack - Kostner & Bryn Mawr,member,10,20.2,52,10
+Public Rack - Ewing Ave & 107th St,casual,10,32.2,199,1
+Public Rack - Maplewood Ave & 47th St,casual,10,13.7,35,1
+Public Rack - Overhill Ave & Touhy Ave,casual,10,29.299999999999997,119,1
+Public Rack - Pulaski Rd & Stevens Ave,casual,10,16.3,41,4
+Public Rack - Woodlawn Ave & 63rd St S,casual,10,13.899999999999999,63,6
+Public Rack - Kedzie Ave & 54th St - SE,member,10,15.399999999999999,102,3
+Public Rack - Laporte Ave & Armitage Ave,member,10,25.0,62,9
+Kildare Ave & Division St,member,10,16.5,35,4
+Throop St & 52nd St,member,10,12.799999999999999,29,3
+Seeley Ave & Garfield Blvd,member,10,26.8,63,2
+Public Rack - Melvina Ave & Belmont Ave,member,10,14.8,33,4
+Public Rack - Austin Blvd & North Ave,casual,10,11.799999999999999,26,7
+Public Rack - Ave N & 106th St,casual,10,10.6,23,3
+Public Rack - Kedzie Ave & 61st Pl W,casual,10,7.8,22,2
+Yates Blvd & 93rd St,member,10,62.6,466,1
+Artesian Ave & 71st St,member,10,16.6,52,3
+Public Rack - Sayre Ave & 59th St,casual,10,15.4,30,2
+Public Rack - Milwaukee Ave & Sunnyside Ave,member,10,13.8,31,3
+Public Rack - Forest Glen & Peterson,casual,10,17.0,56,2
+Public Rack - Troy & 71st,casual,10,12.6,29,2
+Public Rack - Kostner & 83rd,casual,10,22.399999999999995,51,1
+Public Rack - Racine Ave & 74th St,member,10,6.8,19,2
+Public Rack - Mackinaw Ave & 85th St,casual,10,19.3,51,3
+Public Rack - Division St & Christiana Ave,member,10,12.1,21,1
+Public Rack - Linder Ave & Belmont Ave,casual,10,10.0,17,2
+Public Rack - 111th St - Morgan Park Metra,casual,10,16.6,73,3
+Public Rack - Monticello & Lawrence,member,10,20.7,42,2
+Public Rack - Milwaukee Ave & Sunnyside Ave,casual,10,14.500000000000002,30,2
+Western Ave & 62nd St,casual,10,17.8,39,5
+Oketo Ave & Addison St,member,10,18.5,64,4
+Public Rack - Halsted St & 95th St - SW,member,10,4.7,10,1
+Artesian Ave & 71st St,casual,9,13.555555555555555,23,4
+Spaulding Ave & 16th St,member,9,14.222222222222221,47,4
+Artesian Ave & Marquette Rd,casual,9,15.666666666666666,37,3
+La Villita Park (Albany/30th),member,9,23.333333333333332,42,13
+Major Taylor Trail & 124th St,member,9,10.222222222222221,51,2
+Public Rack - Kenneth & Carmen,casual,9,22.555555555555557,45,7
+Public Rack - Laflin St & 51st St,member,9,13.222222222222221,22,6
+Public Rack - Marshfield Ave & 45th St,casual,9,10.444444444444445,22,2
+Public Rack - Menard Ave & Belmont Ave,casual,9,9.5555555555555554,32,2
+Public Rack - Mozart Elementary School,member,9,14.555555555555555,33,1
+Public Rack - Winchester Ave & 87th St,casual,9,15.888888888888889,37,1
+Public Rack - Halsted St & 95th St - SE,casual,9,12.222222222222223,39,3
+Public Rack - Kedzie Ave & Arthington St,casual,9,14.111111111111111,26,3
+Public Rack - Milwaukee Ave & Leland Ave,casual,9,12.888888888888889,29,4
+Public Rack - Peterson Ave & Milwaukee Ave,casual,9,20.333333333333332,66,2
+Public Rack - Kildare Ave & Washignton Blvd,casual,9,15.0,25,9
+Public Rack - Sawyer Ave & Bryn Mawr Ave - SE,casual,9,9.6666666666666661,16,2
+Public Rack - Spaulding Ave & Bryn Mawr Ave,casual,9,23.777777777777779,76,5
+Public Rack - Austin Ave & Wellington Ave,casual,9,17.888888888888889,51,4
+Public Rack - Linder Ave & Archer Ave,casual,9,7.8888888888888893,14,3
+Public Rack - Sawyer Ave & Bryn Mawr Ave - SW,casual,9,16.444444444444443,35,4
+Public Rack - Pullman - Walmart,casual,9,8.6666666666666661,15,1
+Public Rack - Hamlin Ave & Madison St,member,9,31.555555555555557,94,1
+Public Rack - Division St & Christiana Ave,casual,9,15.777777777777777,58,3
+Kedzie Ave & 66th Pl,member,9,22.444444444444443,74,8
+Kedzie Ave & 73rd St,casual,9,6.333333333333333,9,4
+Public Rack - Avers Ave & Ogden Ave,casual,9,7.2222222222222223,21,4
+Public Rack - Buffalo Ave & 89th St,casual,9,43.888888888888893,167,1
+Public Rack - Buffalo Ave & 89th St,member,9,8.0,14,2
+Public Rack - Houston Ave & 131st St,casual,9,24.222222222222221,60,2
+Public Rack - Central Park & Bryn Mawr,casual,9,15.444444444444445,39,1
+Public Rack - Hiawatha Ave & Minnehaha Ave,casual,9,40.111111111111107,107,7
+Public Rack - Western Ave & 104th St - West,casual,9,9.11111111111111,18,1
+Public Rack - Albany Ave & 63rd St,member,9,8.3333333333333339,19,2
+Public Rack - Marquette Ave & 83rd St,member,9,7.8888888888888893,30,2
+Public Rack - Kedzie Ave & 54th St - SW,casual,9,5.7777777777777777,8,3
+Public Rack - Prairie Ave & Garfield Blvd N,member,9,10.555555555555555,19,1
+Public Rack - Touhy Ave & Oconto Ave,casual,9,17.444444444444443,72,2
+Public Rack - Bernard St & Foster Ave,casual,9,15.333333333333336,35,4
+Public Rack - Baltimore Ave & 133rd St,member,9,17.0,36,2
+Public Rack - Winona St & Elston Ave,member,9,15.333333333333334,30,6
+Public Rack - Milwaukee Ave & Lawrence Ave,casual,9,9.11111111111111,14,6
+Kildare Ave & Chicago Ave,member,9,18.444444444444443,46,4
+Racine Ave & 65th St,member,8,11.375,27,3
+Public Rack - Central & Berteau,casual,8,9.625,24,3
+Public Rack - Cicero & Rosemont,casual,8,12.75,31,3
+Public Rack - Parkside & Elston,casual,8,10.0,15,5
+Public Rack - Hamilton Ave & 95th St,member,8,10.625,30,2
+Public Rack - Fairfield Ave & 63rd St,casual,8,11.0,23,3
+Public Rack - Elston Ave & Gunnison St,casual,8,20.25,74,1
+Public Rack - Melvina Ave & Montrose Ave,member,8,25.75,65,4
+Public Rack - Natoma Ave & Bryn Mawr Ave,casual,8,10.0,16,5
+Public Rack - California Ave & Pershing Rd,casual,8,14.499999999999998,73,1
+Public Rack - Bryn Mawr Ave & Milwaukee Ave,casual,8,6.5,15,3
+Public Rack - Kostner Ave & North Ave,member,8,7.75,24,2
+Public Rack - Central Ave & North Ave,casual,8,9.25,31,2
+Public Rack - Jeffery Blvd & 67th St,member,8,49.874999999999993,340,2
+Public Rack - Kedzie Ave & 63rd St,casual,8,7.625,23,2
+Public Rack - Kildare Ave & 63rd St,casual,8,16.25,72,1
+Public Rack - California Ave & Pershing Rd,member,8,14.25,52,2
+Public Rack - Western Ave & 47th Pl,casual,8,10.5,24,2
+Public Rack - Lawndale Ave & 23rd St,member,8,13.125,47,1
+Kildare Ave & 26th St,member,8,20.5,45,6
+Public Rack - Irving Park Rd & Menard Ave,casual,8,21.250000000000004,81,5
+Public Rack - Sayer & Northwest Hwy,casual,8,18.624999999999996,42,4
+Public Rack - Wentworth Park,casual,8,8.5,19,1
+Public Rack - Wood St & 103rd St,member,8,6.0,11,2
+Public Rack - Leamington & Elston,member,8,26.125,59,5
+Public Rack - Halsted St & 111th St,casual,8,7.75,12,3
+Public Rack - Western Ave & 100th St,member,8,15.750000000000002,54,3
+Public Rack - Langley Ave & Oakwood Blvd,casual,8,23.75,55,3
+Public Rack - Mont Clare Ave & Higgins Ave,casual,8,12.75,30,2
+St. Louis & 71st St,casual,8,20.875,71,3
+Mayfield & Roosevelt Rd,member,8,15.0,27,2
+Public Rack - Homan Ave & Roosevelt,casual,8,84.625,414,1
+Public Rack - Lamon Ave & Archer Ave,member,8,13.375,28,4
+Public Rack - Kedzie Ave & Arthington St,member,8,56.375,356,2
+Public Rack - N. Oakview and W. Gregory St,member,8,21.875,38,12
+Public Rack - Rutherford Ave & Belmont Ave,casual,8,16.0,39,1
+Public Rack - Odell & Talcott,casual,8,15.0,51,2
+Public Rack - Milwaukee Ave & Waveland Ave,member,8,17.0,31,5
+Public Rack - Pulaski Rd & Lake St,casual,8,10.875,21,1
+Public Rack - Kenneth & Carmen,member,8,31.75,96,2
+Public Rack - Michigan Ave & 96th St,member,8,16.5,59,1
+Public Rack - Ashland Ave & 71st St,casual,8,13.375,27,5
+Ada St & 113th St,member,7,16.142857142857142,58,3
+Kilbourn Ave & Belden Ave,member,7,19.285714285714288,52,2
+Public Rack - Brooks Park,casual,7,10.142857142857142,28,1
+Public Rack - Chopin Park,casual,7,8.0,27,2
+Public Rack - Pullman - Walmart,member,7,13.428571428571431,20,3
+Public Rack - Springfield & 71st,casual,7,13.142857142857142,27,1
+Public Rack - Damen Ave & 47th St,casual,7,11.714285714285715,26,1
+Public Rack - Pulaski Rd & 51st Rd,casual,7,9.4285714285714288,15,4
+Public Rack - 61st St & Melvina Ave,member,7,24.714285714285715,63,6
+Public Rack - Halsted St & 102nd St,member,7,9.5714285714285712,13,5
+Public Rack - Normal Ave & 111th St,member,7,15.000000000000002,59,1
+Public Rack - Western Ave & 96th St,casual,7,11.857142857142856,16,7
+Public Rack - Wolcott Ave & 61st St,casual,7,22.285714285714285,47,6
+Public Rack - Indiana Ave & 111th St,casual,7,23.142857142857142,52,6
+Public Rack - Central Park & Bryn Mawr,member,7,13.285714285714285,25,2
+Public Rack - Kedzie Ave & Pershing Rd,casual,7,29.285714285714285,85,1
+Public Rack - Laporte Ave & Armitage Ave,casual,7,5.5714285714285712,17,1
+Public Rack - Western Ave & 111th St - SW,casual,7,10.428571428571427,24,4
+Public Rack - Western Ave & 104th St - East,casual,7,4.5714285714285712,8,2
+Orange & Addison,member,7,9.8571428571428577,16,4
+Pulaski Rd & 60th St,member,7,7.5714285714285721,17,3
+Public Rack - Vincennes Ave & 95th St,casual,7,23.000000000000004,84,3
+Public Rack - Evans Ave & 63rd St,casual,7,17.714285714285712,56,1
+Public Rack - Jeffery Blvd & 67th St,casual,7,13.142857142857142,35,7
+Public Rack - Albany Ave & 63rd St,casual,7,6.8571428571428577,14,2
+Public Rack - Lamon Ave & Archer Ave,casual,7,17.0,38,7
+Public Rack - Kostner Ave & Lake St,casual,7,47.428571428571431,271,4
+Public Rack - Western Ave & 118th St,casual,7,7.7142857142857144,14,3
+Artesian Ave & Marquette Rd,member,7,21.285714285714288,39,2
+Public Rack - Irving Park Rd & Parkside Ave,casual,7,14.857142857142858,24,6
+Public Rack - Elston Ave & Kenneth Ave,member,7,21.285714285714285,32,2
+Public Rack - Bernard St & Foster Ave,member,7,10.571428571428571,23,3
+Public Rack - Neva & Foster,casual,7,10.571428571428573,20,1
+Public Rack - Cicero & 64th,casual,7,9.4285714285714288,20,4
+Base - 2132 W Hubbard,member,7,9.5714285714285712,18,4
+Public Rack - Ada St & 95th St,member,7,68.428571428571431,164,3
+Public Rack - California & 87th,casual,7,24.999999999999996,48,8
+Public Rack - Sacramento & 71st,casual,7,30.285714285714285,52,10
+Public Rack - Kedzie Ave & 63rd St,member,7,15.428571428571429,44,1
+Public Rack - Leland Ave & Melvina Ave,casual,7,12.714285714285714,28,6
+Public Rack - Chase Ave & Touhy Ave - NE,casual,7,7.2857142857142856,13,3
+Public Rack - Christiana Ave & Bryn Mawr Ave,casual,7,26.428571428571427,144,4
+Paulina Ave & 87th St,casual,7,19.142857142857142,54,1
+Public Rack - Artesian & 71st,casual,7,26.428571428571431,55,5
+Public Rack - Leader & Caldwell,member,7,21.142857142857142,32,12
+Public Rack - Mackinaw Ave & 85th St,member,7,8.2857142857142865,17,3
+Public Rack - Central Park & Peterson,casual,7,11.571428571428571,29,1
+Public Rack - Marshfield Ave & 45th St,member,7,11.142857142857144,17,5
+Public Rack - Chase Ave & Touhy Ave - NE,member,7,9.0,14,1
+Public Rack - Mango & Higgins,casual,7,17.714285714285715,29,4
+Public Rack - California Ave & Marquette Rd,member,7,13.428571428571429,30,3
+Public Rack - Francisco Ave & Touhy Ave,casual,7,11.428571428571429,38,5
+Public Rack - Ashland Ave & 76th St,member,7,13.571428571428573,24,5
+Public Rack - Newcastle Ave & Belmont Ave,casual,7,10.857142857142858,29,3
+Public Rack - Menard Ave & Dakin St - midblock,member,7,13.714285714285714,24,1
+Public Rack - Kolin Ave & Archer Ave,casual,7,9.5714285714285712,29,1
+Public Rack - Minnehaha Ave & Devon Ave,member,7,14.571428571428573,49,3
+Public Rack - Drake Ave & Leland Ave,casual,7,10.285714285714286,16,2
+Keeler Ave & Roosevelt Rd,member,7,13.000000000000002,40,2
+Public Rack - Wolcott Ave & 61st St,member,7,21.571428571428573,55,2
+Menard Ave & North Ave,member,6,13.666666666666666,18,1
+Kilbourn Ave & Belden Ave,casual,6,16.0,23,7
+Public Rack - State St & 47th st,member,6,13.0,32,7
+Public Rack - Kostner & Bryn Mawr,casual,6,16.833333333333332,38,6
+Public Rack - Rockwell & 111th St,casual,6,8.3333333333333321,16,4
+Public Rack - St Louis & Columbus,casual,6,25.833333333333336,103,1
+Public Rack - Ashland Ave & 63rd St,casual,6,5.5,9,3
+Public Rack - Ashland Ave & 63rd St,member,6,7.666666666666667,27,1
+Public Rack - Emerald Ave & 43rd St,casual,6,16.333333333333336,29,4
+Public Rack - Jeffrey Blvd & 71st St,casual,6,28.333333333333336,108,2
+Public Rack - Lawndale Ave & 63rd St,casual,6,12.333333333333332,23,3
+Public Rack - Ozark Ave & Addison St,casual,6,10.333333333333332,23,3
+Public Rack - W. Talcott & N. Oriole,casual,6,10.333333333333334,20,3
+Public Rack - Hamlin Ave & Madison St,casual,6,15.166666666666668,28,1
+Public Rack - Kedvale Ave & 63rd St W,casual,6,19.666666666666664,68,5
+Public Rack - Lake Park Ave & 47th St,member,6,5.166666666666667,7,4
+Public Rack - Menard Ave & Belmont Ave,member,6,13.833333333333334,35,3
+Public Rack - Newcastle Ave & Belden Ave,casual,6,17.166666666666664,29,7
+Public Rack - Spaulding Ave & Foster Ave,casual,6,7.0,21,1
+Washtenaw Ave & Madison St,member,6,11.333333333333332,20,2
+Public Rack - Houston Ave & 131st St,member,6,19.833333333333332,36,1
+Public Rack - Chappel Ave & 71st St,member,6,34.666666666666671,67,2
+Public Rack - Kimbark Ave & 63rd St,casual,6,6.0,16,2
+Public Rack - Damen Ave & 47th St,member,6,11.0,20,3
+Public Rack - Kedvale Ave & Addison St,casual,6,19.333333333333332,35,13
+Public Rack - King Dr & 71st St,casual,6,15.166666666666666,28,4
+Public Rack - Kostner Ave & Wrightwood Ave,casual,6,11.333333333333332,27,3
+Public Rack - Central & Leland,casual,6,22.666666666666664,53,10
+Public Rack - Northwest Hwy & Bryn Mawr,member,6,5.333333333333333,8,1
+Public Rack - Mango & Higgins,member,6,23.833333333333332,43,4
+Public Rack - Peterson Park,member,6,21.5,42,7
+Public Rack - Wood St & 47th St,member,6,9.8333333333333321,22,2
+Public Rack - Bell Ave & 95th St,casual,6,24.166666666666664,85,9
+Public Rack - Halsted St & 111th St,member,6,5.5,10,3
+Public Rack - Milwaukee Ave & Warner Ave,casual,6,19.666666666666664,71,6
+Public Rack - Newland Ave & Diversey Ave,casual,6,7.1666666666666661,18,3
+Public Rack - California Ave & Touhy Ave - midblock,casual,6,12.666666666666666,18,6
+Public Rack - Pulaski & Ardmore,member,6,27.833333333333336,61,11
+Public Rack - Norwood Park Station ,casual,6,13.166666666666666,19,10
+Public Rack - Western Ave & 118th St,member,6,17.5,31,4
+Public Rack - Peterson Ave & Bernard Ave,member,6,16.0,23,5
+Public Rack - Langley Ave & 79th St,member,6,6.6666666666666661,11,5
+Public Rack - Milwaukee Ave & Warner Ave,member,6,24.166666666666668,51,16
+Kedzie Ave & Redfield Dr,member,6,21.0,46,5
+Public Rack - Northwest Hwy & Neva Ave,member,6,23.333333333333336,39,4
+Public Rack - Western Ave & 111th St - NW,casual,6,9.5,23,4
+Public Rack - Normandy Ave & Archer Ave,casual,6,8.8333333333333339,16,3
+Lavergne Ave & Division St,member,6,12.0,28,7
+Public Rack - Mason & Archer,casual,6,14.166666666666668,35,6
+Carpenter St & 63rd St,casual,5,21.0,63,5
+Plainfield & Irving Park,member,5,22.4,46,8
+Public Rack - Piotrowski Park,casual,5,11.8,21,4
+South Chicago Ave & Elliot Ave,casual,5,27.2,68,11
+Public Rack - Hermitage & 83rd St,casual,5,45.8,66,26
+Public Rack - 63rd & Western Ave S,member,5,7.4,16,2
+Public Rack - Kedzie Ave & 60th St,casual,5,8.2,11,5
+Public Rack - Saginaw Ave & 93rd St,casual,5,26.200000000000003,73,1
+Public Rack - Kedzie Ave & 61st Pl W,member,5,19.4,48,3
+Public Rack - Kinzua Ave & Devon Ave,member,5,8.2,20,2
+Public Rack - Cottage Grove & 85th St,member,5,5.0,10,1
+Public Rack - Pullman - Planet Fitness,casual,5,11.2,15,4
+Public Rack - Western Ave & Jarvis Ave,casual,5,24.8,69,8
+Public Rack - Kedzie Ave & 64th St - SW,member,5,28.2,94,6
+Public Rack - Laramie Ave & Warwick Ave,member,5,10.6,19,5
+Public Rack - Kedvale Ave & Avondale Ave,casual,5,11.8,23,1
+Public Rack - Hiawatha Ave & Minnehaha Ave,member,5,22.0,48,5
+Public Rack - Christiana Ave & Lawrence Ave,casual,5,9.4,17,4
+Public Rack - Lavergne Ave & Belle Plaine Ave,member,5,6.8,11,4
+Public Rack - Robert Fulton Elementary School,casual,5,19.6,59,3
+Public Rack - Austin Branch Chicago Public Library,member,5,15.0,37,1
+Public Rack - 2302 S Pulaski Rd,casual,5,3.8,7,2
+Public Rack - Ewing Ave & Indianapolis Ave,casual,5,16.6,30,5
+Public Rack - Justine St & 87th St,member,5,22.8,50,3
+Public Rack - Commercial Ave & 89th St,member,5,20.8,61,3
+Public Rack - Western Ave & 79th St,casual,5,10.0,17,2
+Public Rack - Harriet E Sayre Public School,casual,5,13.6,52,1
+Public Rack - Nordica Ave & Addison St,casual,5,25.2,35,7
+Public Rack - Cicero Ave & Belle Plaine Ave,casual,5,12.4,16,5
+Public Rack - Leoti Ave & Central Ave (south),casual,5,15.4,23,11
+Public Rack - Oketo & Talcott,casual,5,6.2,13,3
+Public Rack - Harlem & Summerdale,member,5,12.2,20,3
+Public Rack - Forest Glen Station ,member,5,17.0,25,1
+Public Rack - Colfax Ave & 83rd St,member,5,19.2,33,9
+Public Rack - Ashland Ave & 83rd St,member,5,11.8,24,4
+Public Rack - Ozanam Ave & Devon Ave,member,5,14.6,38,4
+Public Rack - Western Ave & 107th St,casual,5,9.4,22,3
+Public Rack - Linder Ave & Archer Ave,member,5,8.0,11,5
+Public Rack - Northwest Hwy & Bryn Mawr,casual,5,22.2,50,5
+Public Rack - Garfield Park Conservatory,member,5,17.6,29,10
+Columbus Ave & 79th St,casual,5,16.4,27,6
+Public Rack - Strohacker Park,casual,5,8.8,18,3
+Public Rack - Homan Ave & Lake St,member,5,9.4,16,1
+Campbell Ave & Montrose Ave (Temp),casual,5,20.4,43,10
+Public Rack - Ewing Ave & 106th St,casual,5,12.8,22,4
+Public Rack - Cottage Grove & 86th St,casual,5,6.2,12,1
+Public Rack - Kenneth Ave & 63rd St W,casual,5,5.4,12,3
+Public Rack - Elston Ave & Gunnison St,member,5,18.0,43,3
+Public Rack - Pittsburgh Ave & Irving Park,casual,5,26.2,57,9
+Public Rack - Panama Ave & Forest Preserve Ave,casual,5,21.8,41,2
+Public Rack - Cicero Ave & Cortland St - midblock,member,5,20.0,59,4
+410,member,5,18.0,32,5
+Major Ave & Bloomingdale Ave,member,5,73.4,317,5
+Public Rack - Kimbark Ave & 67th St,casual,5,14.0,21,7
+Bennett Ave & 79th St,member,5,13.0,25,8
+Public Rack - Fullerton Ave & Lavergne Ave,member,5,11.0,25,1
+Public Rack - Kostner & 83rd,member,5,17.0,34,1
+Public Rack - Rutherford & 53rd,casual,5,11.2,30,5
+Public Rack - Nordica Ave & Higgins Ave,casual,5,16.0,19,13
+Public Rack - Wentworth Ave & 79th St,member,5,8.0,9,7
+Public Rack - Western Ave & 104th St - East,member,5,10.8,29,5
+W 103rd St & S Avers Ave,member,5,11.2,19,1
+Public Rack - Minnehaha Ave & Devon Ave,casual,5,8.4,16,1
+Public Rack - Kedzie Ave & 61st Pl E,member,5,13.6,30,2
+Public Rack - Pulaski Rd & Stevens Ave,member,5,15.2,22,8
+Public Rack - Cicero Ave & Wellington Ave,member,5,15.4,26,8
+Damen Ave & 81st St,member,5,11.8,18,8
+Public Rack - California Ave & Touhy Ave - SW,member,5,9.0,17,4
+Public Rack - Loomis St & 87th St,casual,5,17.2,26,4
+Kedzie Ave & 24th St (Temp),casual,5,37.0,91,2
+Public Rack - Abbott Park,member,5,7.6,9,7
+Public Rack - Newcastle & Archer,casual,5,21.0,44,5
+Public Rack - Brighton Park Branch Chicago Library,casual,5,14.4,49,1
+Public Rack - Damen & 81st,casual,4,41.5,77,29
+Public Rack - Nagel & Higgins,member,4,18.5,35,8
+Public Rack - Neenah & Archer,casual,4,15.0,24,8
+South Chicago Ave & Elliot Ave,member,4,22.25,36,11
+Public Rack - Kenton & Lawrence,casual,4,11.0,19,3
+Public Rack - S Menard & W 63rd,member,4,15.250000000000002,31,3
+Public Rack - Harlem and W. 59th,member,4,10.25,18,2
+Public Rack - Ewing Ave & 99th St,member,4,9.5,14,6
+Public Rack - Loomis Blvd & 47th St,member,4,11.25,19,2
+Public Rack - Pratt Ave & Odell Ave,casual,4,33.0,100,4
+Public Rack - Longwood Dr & 111th St,member,4,9.5,15,6
+Public Rack - Marquette Rd & 67th St,casual,4,7.75,17,2
+Public Rack - Osceola Ave & Touhy Ave,casual,4,12.25,17,3
+Public Rack - Chase Ave & Touhy Ave - NW,member,4,6.0,9,4
+Public Rack - 63rd Pl & Narraganssett Ave,member,4,16.25,33,1
+Public Rack - The Montessori School of Englewood,member,4,14.75,28,2
+Public Rack - California Ave & Touhy Ave - SW,casual,4,9.0,15,6
+Public Rack - Narragansett Ave & Fullerton Ave,member,4,20.75,68,3
+Public Rack - McVicker Ave & Grand Ave,casual,4,18.25,60,1
+Public Rack - Baltimore Ave & 132nd St,casual,4,8.5,16,3
+Public Rack - West Chatham Park,casual,4,9.75,20,2
+Public Rack - New England Ave & Grace St,casual,4,8.25,25,1
+Public Rack - Christiana Ave & Bryn Mawr Ave,member,4,20.5,45,2
+Public Rack - East End Ave & 87th St,casual,4,7.75,10,3
+Public Rack - Emerald Ave & 43rd St,member,4,8.75,22,3
+Public Rack - Woodlawn Ave & 63rd St S,member,4,6.25,9,3
+Public Rack - Fullerton Ave & Lavergne Ave,casual,4,9.75,14,5
+Public Rack - Ashland Ave & 83rd St,casual,4,38.25,95,10
+Vernon Ave & 107th St,member,4,14.25,33,3
+Public Rack - Miami Ave & Milwaukee Ave,casual,4,25.25,46,9
+Public Rack - Northwest Hwy & Neva Ave,casual,4,13.75,24,5
+Public Rack - Harlem & Palatine,member,4,9.0,14,4
+Public Rack - Oketo & Northwest Hwy,casual,4,13.0,30,7
+Public Rack - Canfield & Victoria,casual,4,13.5,25,1
+Public Rack - Pulaski & 74th,casual,4,14.0,23,6
+Public Rack - Homan & 77th,casual,4,21.0,39,12
+Public Rack - Norwood Park,casual,4,17.0,23,7
+Public Rack - Bell Ave & 95th St,member,4,12.0,35,3
+Public Rack - Rockwell Ave & 71st St,casual,4,11.25,23,6
+Public Rack - Central Park & Peterson,member,4,11.5,19,4
+Public Rack - Kedzie Ave & 54th St - SW,member,4,6.25,9,5
+Kedzie Ave & 83rd St,casual,4,22.25,25,21
+Public Rack - State St & 47th st,casual,4,7.25,11,2
+Public Rack - Morgan St & 95th St,member,4,4.0,5,3
+Public Rack - Karlov Ave & 26th St,casual,4,6.75,11,1
+Public Rack - Kinzua Ave & Devon Ave,casual,4,54.5,87,21
+Public Rack - Ottowa Ave & Touhy Ave,casual,4,15.0,40,2
+Public Rack - Marquette Ave & 83rd St,casual,4,12.75,20,6
+Public Rack - Norwood Park,member,4,21.75,59,7
+Public Rack - McVicker & 52nd,casual,4,25.5,52,11
+Public Rack - Halsted St & 76th St,member,4,21.75,57,5
+Public Rack - Pullman Community Center,member,4,26.5,29,23
+Public Rack - Keeler Ave & 26th St,casual,4,6.75,9,4
+Public Rack - Roscoe St & Osceola Ave,member,4,8.0,21,3
+Public Rack - Francisco Ave & Touhy Ave,member,4,10.25,14,7
+Public Rack - Langley Ave & 79th St,casual,4,23.25,43,6
+Public Rack - Aida Food Market,casual,4,8.5,15,6
+Public Rack - 532 E 43rd St,member,4,17.25,33,4
+Public Rack - Lake Shore Dr & Hayes Dr,member,4,29.25,61,9
+Public Rack - Garfield Park Conservatory,casual,4,15.5,23,8
+Public Rack - Milwaukee Ave & Leland Ave,member,4,19.5,34,9
+Public Rack - Oak Park & Higgins,casual,4,14.75,29,6
+Public Rack - S. Kilpatrick and W. 79th,member,4,30.25,51,10
+Public Rack - Chopin Park,member,4,10.5,16,7
+Public Rack - Komensky Ave & 26th St,casual,4,8.0,14,3
+Kedzie Ave & 24th St (Temp),member,4,25.75,73,6
+Public Rack - Bishop St & 46th St,casual,4,43.25,59,33
+Public Rack - Kedzie Ave & 64th St - SE,casual,4,6.75,9,1
+Altgeld Gardens,member,4,12.5,27,1
+Public Rack - Talman Ave & 51st St,casual,4,5.0,7,2
+Public Rack - Irving Park Rd & Menard Ave,member,4,11.5,19,3
+Public Rack - Irving Park Rd & Parkside Ave,member,4,8.0,11,5
+Public Rack - Prairie Ave & 85th St,casual,4,17.25,30,2
+Public Rack - Kedzie & 71st,casual,3,11.666666666666666,16,9
+Public Rack - Linder & 51st,member,3,14.666666666666666,25,8
+Public Rack - Western & 74th,casual,3,27.0,71,5
+Public Rack - Austin & Higgins,member,3,20.333333333333332,40,7
+Public Rack - Damen Ave & 80th St,casual,3,11.0,11,11
+Public Rack - Pulaski Rd & 51st Rd,member,3,6.6666666666666661,12,3
+Public Rack - Loomis Blvd & 47th St,casual,3,9.3333333333333339,15,6
+Public Rack - Higgins Ave & Neva Ave,casual,3,11.666666666666666,15,8
+Public Rack - Mason Ave & Archer Ave,casual,3,9.6666666666666679,18,2
+Public Rack - Maplewood Ave & 63rd St,casual,3,22.666666666666664,45,10
+Public Rack - Mobile Ave & Archer Ave,member,3,22.333333333333332,34,6
+Public Rack - Nina Ave & Avondale Ave,member,3,13.0,18,3
+Public Rack - Spaulding Ave & 71st St,member,3,22.0,27,18
+"Public Rack - Senka ""Edward Duke"" Park",member,3,5.0,6,3
+Public Rack - Central Park Ave & 16th St,casual,3,41.0,102,1
+Public Rack - Central Park Ave & Ogden Ave,member,3,24.0,43,8
+Public Rack - Lorel Ave & Chicago Ave,casual,3,9.0,11,7
+Public Rack - Central Ave & North Ave,member,3,13.0,18,10
+Public Rack - Wabash Ave & 87th St,casual,3,10.666666666666668,17,6
+Public Rack - Western Ave & 111th St - SW,member,3,10.0,11,9
+Public Rack - Chappel Ave & 71st St,casual,3,7.6666666666666661,11,4
+Public Rack - Kedzie Ave & Pershing Rd,member,3,17.333333333333332,32,6
+Public Rack - Western Ave & 106th St - West,casual,3,18.333333333333332,26,5
+Public Rack - Lake Shore Dr & Hayes Dr,casual,3,61.0,115,11
+Public Rack - Peterson Ave & Drake Ave,member,3,24.666666666666668,47,3
+Public Rack - Brainerd Park,member,3,22.333333333333332,37,12
+Public Rack - Whipple St & 63rd St,casual,3,9.3333333333333339,13,5
+Public Rack - Kedvale Ave & 63rd St W,member,3,8.0,15,3
+Public Rack - Normandy Ave & Archer Ave,member,3,16.0,28,8
+Public Rack - Irving Park Rd & Melvina Ave,casual,3,19.666666666666664,41,9
+Public Rack - Montrose Ave & Lavergne Ave,casual,3,9.0,16,1
+Public Rack - Devon Ave & Central Ave,casual,3,24.333333333333332,41,12
+Public Rack - Western & 79th,member,3,11.0,21,3
+Western Ave & 62nd St,member,3,14.333333333333332,25,5
+Public Rack - Damen & 87th,casual,3,51.0,78,11
+Public Rack - Lawndale & 63rd St,casual,3,17.0,24,4
+Public Rack - Homan Ave & Roosevelt,member,3,33.333333333333336,56,8
+Public Rack - Stewart Ave & 123rd St,member,3,17.333333333333332,29,11
+Public Rack - W. Talcott & N. Oriole,member,3,15.333333333333334,21,4
+Public Rack - Cottage Grove & 84th St,member,3,26.0,76,1
+Public Rack - Rutherford Ave & Belmont Ave,member,3,16.0,18,13
+Public Rack - Western Ave & 104th St - West,member,3,20.0,30,4
+Public Rack - Lavergne Ave & Belle Plaine Ave,casual,3,40.0,74,5
+Public Rack - Austin Branch Chicago Public Library,casual,3,9.0,14,3
+Public Rack - Imlay & Milwaukee,member,3,34.0,82,10
+Public Rack - Ewing Ave & 99th St,casual,3,4.333333333333333,5,3
+Public Rack - Halsted St & 41st St,casual,3,13.666666666666666,23,8
+Public Rack - Pulaski Rd & Lake St,member,3,17.0,22,8
+Public Rack - Richard Daley College,member,3,21.0,34,5
+Public Rack - 56th St & Mulligan Ave,member,3,8.3333333333333339,11,5
+Public Rack - East End Ave & 87th St,member,3,23.333333333333332,32,16
+Public Rack - Exchange Ave & 73rd Pl,casual,3,14.333333333333334,35,2
+Public Rack - Ozanam Ave & Devon Ave,casual,3,9.0,18,3
+Public Rack - Ewing Ave & 106th St NW,casual,3,16.666666666666668,39,4
+Public Rack - Ewing Ave & 106th St NW,member,3,5.333333333333333,8,3
+Public Rack - Montrose Ave & Lavergne Ave,member,3,7.666666666666667,15,3
+Public Rack - Kildare Ave & Washignton Blvd,member,3,21.666666666666664,30,11
+Public Rack - William J Onahan Public School,casual,3,37.333333333333329,56,27
+Public Rack - Sawyer Ave & Bryn Mawr Ave - SW,member,3,25.666666666666668,35,10
+Public Rack - Artesian & 71st,member,3,18.333333333333332,49,1
+Public Rack - Kimbark Ave & 67th St,member,3,5.666666666666667,8,3
+Public Rack - Western Ave & 98th St,casual,3,12.333333333333334,31,2
+Public Rack - Eberhart Ave & 61st St,casual,3,22.333333333333336,57,2
+Public Rack - Commercial Ave & 89th St,casual,3,6.0,10,2
+Public Rack - Milwaukee Ave & Waveland Ave,casual,3,15.0,36,3
+Public Rack - Kedzie Ave & 54th Pl,casual,3,7.0,12,4
+Public Rack - Menard Ave & Agusta Blvd,casual,3,27.0,33,19
+Public Rack - Newcastle Ave & Belmont Ave,member,3,7.0,12,4
+Public Rack - Kedvale Ave & Peterson Ave,casual,3,47.333333333333336,62,31
+Public Rack - Western Ave & 111th St - SE,member,3,9.0,12,3
+Public Rack - Justine St & 87th St,casual,3,14.666666666666666,32,5
+Public Rack - Kedzie & 103rd St - W,casual,3,27.0,40,13
+Public Rack - Brighton Park Branch Chicago Library,member,3,19.666666666666668,41,8
+Public Rack - Grand Ave & North Ave,casual,3,13.0,23,7
+Public Rack - Peterson Ave & Milwaukee Ave,member,3,10.666666666666668,14,5
+Public Rack - Canfield & Victoria,member,3,33.666666666666664,45,24
+Public Rack - Odell & Talcott,member,3,9.0,19,2
+Public Rack - Pulaski & Ardmore,casual,3,24.333333333333336,35,10
+Public Rack - Halsted St & 41st St,member,3,17.0,27,9
+Public Rack - Legler Regional Library,member,3,17.333333333333336,36,7
+Public Rack - Albany Ave & 111th St - NW,casual,3,6.0,7,5
+Public Rack - Newcastle Ave & Belden Ave,member,3,41.333333333333336,80,19
+Public Rack - Touhy Ave & Oconto Ave,member,3,44.666666666666664,77,13
+Public Rack - 83rd Pl & Kedzie Ave N,casual,3,10.666666666666666,15,3
+Public Rack - Halsted St & 102nd St,casual,3,5.0,6,4
+Public Rack - Kildare Ave & Division St,casual,3,8.3333333333333339,20,1
+Public Rack - Harlem and W. 59th,casual,3,35.333333333333329,52,2
+Public Rack - Laflin St &51st ST,casual,3,15.666666666666668,24,3
+Public Rack - Hoyne Ave & 51st St,casual,3,7.666666666666667,10,4
+Public Rack - Halsted St & 109th St,member,3,4.0,4,4
+Public Rack - East End Ave & 75th St,casual,3,58.0,118,16
+Public Rack - Cottage Grove Ave & 87th St,casual,3,12.666666666666666,22,3
+Parkside Ave & Armitage Ave,member,3,15.0,26,8
+Public Rack - Avers Ave & Ogden Ave,member,3,21.333333333333336,28,13
+Public Rack - Perry Ave & 111th St,member,3,6.0,8,4
+Public Rack - Pulaski Rd & 15th St,casual,3,9.0,24,1
+Public Rack - Ashland Ave & 71st St,member,3,5.0,9,2
+Public Rack - Indiana Ave & 111th St,member,3,2.333333333333333,5,1
+Public Rack - Overhill Ave & Touhy Ave,member,3,19.666666666666664,39,7
+Public Rack - Hiawatha Park,casual,3,14.333333333333334,18,8
+Public Rack - Mont Clare Ave & Higgins Ave,member,3,21.666666666666668,51,5
+Public Rack - Pullman - Ross Dress for Less,casual,3,12.333333333333334,13,12
+Kostner Ave & Belmont Ave,casual,3,23.666666666666668,63,3
+Public Rack - Lake Park Ave & 47th St,casual,3,15.333333333333334,22,7
+Public Rack - Oak Park & Higgins,member,3,56.666666666666671,128,6
+Public Rack - King Dr & 83rd St,member,3,8.0,13,3
+Public Rack - Homan Ave & Lake St,casual,3,6.3333333333333339,10,2
+S Michigan Ave & E 118th St,member,3,73.333333333333343,196,9
+State St & 123rd St,member,2,9.0,15,3
+Paulina Ave & 87th St,member,2,42.5,79,6
+Leamington Ave & Hirsch St,member,2,19.0,28,10
+Public Rack - Mozart & 79th,casual,2,27.5,29,26
+Public Rack - Ford City Mall,member,2,64.5,66,63
+Public Rack - Western & 74th,member,2,9.5,16,3
+Public Rack - California & 82nd,casual,2,17.5,31,4
+Public Rack - Kostner & Peterson,casual,2,16.0,23,9
+Public Rack - Halsted St & 63rd St,member,2,13.5,22,5
+Public Rack - Paxton Ave & 79th St,member,2,15.5,25,6
+Public Rack - Harvey Ave & North Ave,casual,2,8.5,10,7
+Public Rack - Lawndale Ave & 63rd St,member,2,11.0,18,4
+Public Rack - Austin Blvd & North Ave,member,2,24.0,28,20
+Public Rack - Claremont Ave & 71st St,casual,2,4.0,7,1
+Public Rack - Champlain Ave & 134th St,casual,2,5.5,9,2
+Public Rack - Mason Ave & Roosevelt Rd,casual,2,25.5,28,23
+Public Rack - Oak Park Ave & Foster Ave,casual,2,14.0,16,12
+Public Rack - Paul Revere Elementary School,casual,2,11.0,13,9
+Public Rack - Cicero Ave & Le Moyne St - midblock,casual,2,10.0,15,5
+Public Rack - Pulaski Rd & Roosevelt Rd,casual,2,5.5,6,5
+Public Rack - Avenue J & 106th St,casual,2,14.0,20,8
+Racine Ave & 57th St,member,2,12.0,13,11
+Public Rack - Loomis Blvd & 83rd St,casual,2,17.5,18,17
+Public Rack - Kedzie Ave & 64th St - SE,member,2,41.5,67,16
+Public Rack - Archer Park,casual,2,20.0,25,15
+Public Rack - Pulaski & 52nd,member,2,7.0,12,2
+Public Rack - Throop St & 109th Pl,casual,2,9.0,10,8
+Public Rack - Western Ave & 111th St - SE,casual,2,6.0,9,3
+Public Rack - Normal Blvd & 61st Pl,member,2,5.0,7,3
+Public Rack - Roscoe St & Osceola Ave,casual,2,36.0,69,3
+Public Rack - Ewing Ave & 95th St,member,2,11.5,19,4
+Public Rack - Kedzie Ave & 54th Pl,member,2,24.0,34,14
+Public Rack - Rockwell Ave & 71st St,member,2,60.0,83,37
+Public Rack - Irving Park Rd & Melvina Ave,member,2,17.5,22,13
+Public Rack - Normandy Ave & Raven St,member,2,42.5,45,40
+Public Rack - California & 71st,member,2,17.5,18,17
+Public Rack - Troy & 71st,member,2,25.5,26,25
+Damen Ave & 81st St,casual,2,25.0,33,17
+Damen Ave & 87th St,casual,2,22.0,28,16
+Public Rack - Pulaski Rd & 41st,casual,2,8.5,14,3
+Public Rack - Pulaski Rd & 41st,member,2,13.0,22,4
+Public Rack - Central & Prescott,member,2,20.5,33,8
+Public Rack - 10557 S Western Ave,casual,2,7.5,12,3
+Public Rack - Homan Ave & 26th St,member,2,10.5,17,4
+Public Rack - Tuley (Murray) Park,casual,2,12.0,21,3
+Public Rack - Ashland Ave & 74th St,casual,2,14.5,23,6
+Public Rack - Emerald Ave & 45th St,member,2,13.0,18,8
+Public Rack - Ewing Ave & 96th St S,casual,2,27.5,28,27
+Public Rack - Marquette Rd & 67th St,member,2,9.0,15,3
+Public Rack - Stony Is Ave & 73rd St,member,2,4.0,5,3
+Public Rack - Stony Island & 87th St,casual,2,23.5,45,2
+Public Rack - Menard Ave & Madison St,casual,2,9.0,11,7
+Public Rack - Bryn Mawr Ave & Milwaukee Ave,member,2,2.5,4,1
+410,casual,2,12.5,13,12
+Mozart St & 79th St,casual,2,18.5,31,6
+Cicero Ave & Roscoe Ave,casual,2,7.0,8,6
+Public Rack - Ada St & 119th St,casual,2,34.5,63,6
+Public Rack - Perry Ave & 108th Pl,member,2,23.5,46,1
+Public Rack - Ewing Ave & 96th St N,member,2,9.5,14,5
+Public Rack - Prairie Ave & 78th St,casual,2,8.0,11,5
+Public Rack - Pratt Ave & Odell Ave,member,2,14.0,16,12
+Public Rack - Vincennes Ave & 77th St,casual,2,2.5,4,1
+Public Rack - Eli Whitney Public School,member,2,5.5,7,4
+Public Rack - Kildare Ave & Division Ave,casual,2,44.5,80,9
+Public Rack - Northwest Hwy & Highland Ave,casual,2,9.0,17,1
+Public Rack - Penn Elementary School / KIPP Ascend Middle School,casual,2,24.0,25,23
+Public Rack - Springfield & 79th,member,2,23.5,32,15
+Public Rack - Avenue M & 132nd St,casual,2,21.5,38,5
+Public Rack - 63rd & Western Ave S,casual,2,8.5,16,1
+Public Rack - Cornell Ave & 87th Pl,casual,2,35.5,57,14
+Public Rack - Walden Pkwy & 99th St,member,2,27.5,46,9
+Public Rack - Nordica Ave & Addison St,member,2,6.5,7,6
+Public Rack - Northwest Hwy & Raven St,member,2,12.5,17,8
+Public Rack - Cottage Grove Ave & 98th St,member,2,9.5,10,9
+Public Rack - William J Onahan Public School,member,2,15.0,22,8
+Public Rack - King Dr & Oakwood Blvd,member,2,3.5,6,1
+Public Rack - Chase Ave & Touhy Ave - NW,casual,2,5.0,6,4
+Public Rack - Leoti Ave & Central Ave (south),member,2,14.5,15,14
+Public Rack - Western Ave & 107th Pl,casual,2,8.5,10,7
+Public Rack - Horner & 85th,casual,2,14.0,14,14
+Public Rack - Michigan Ave & 113th St,member,2,3.0,4,2
+Public Rack - Vincennes Ave & 95th St,member,2,6.5,8,5
+Public Rack - Halsted St & 95th St - SW,casual,2,8.5,13,4
+Public Rack - Yates Ave & 100th St,casual,2,26.5,36,17
+Public Rack - Houston Ave & 91st St,member,2,18.5,29,8
+Public Rack - Springfield Ave & 63rd St,casual,2,24.0,41,7
+Public Rack - Komensky Ave & 59th St,casual,2,3.0,3,3
+Public Rack - Princeton Ave & 43rd St,member,2,21.0,21,21
+Public Rack - Newland Ave & Diversey Ave,member,2,31.0,52,10
+Public Rack - Avers Ave & Archer Ave,member,2,15.0,19,11
+Public Rack - Colfax Ave & 83rd St,casual,2,36.5,53,20
+Public Rack - Kingston Ave & 75th St,casual,2,11.5,20,3
+Public Rack - Peterson Ave & Drake Ave,casual,2,20.5,25,16
+Public Rack - Kedzie Ave & Walnut St,member,2,82.5,137,28
+Public Rack - Devon Ave & Minnehaha Ave (east),member,2,41.0,43,39
+Public Rack - Devon Ave & Central Ave,member,2,11.0,19,3
+Public Rack - Neola & Northwest Hwy,casual,2,16.0,23,9
+Public Rack - Pulaski Rd & 65th St,member,2,11.5,13,10
+Public Rack - Neenah & Archer,member,2,24.0,44,4
+Public Rack - Sacramento Blvd & Washington Blvd,member,2,7.5,11,4
+Public Rack - Ewing Ave & 105th St,member,2,27.0,48,6
+Public Rack - Homan & 79th,member,2,12.0,17,7
+Public Rack - Mackinaw Ave & 108th St,casual,2,17.5,27,8
+Public Rack - Jeffery Blvd & 83rd St,member,2,9.0,14,4
+Scottsdale Park,casual,2,16.0,17,15
+Kedzie Ave & 104th St,member,2,4.5,7,2
+Public Rack - Damen & 87th,member,2,21.5,27,16
+Public Rack - Percy Julian HS,casual,2,9.0,14,4
+Public Rack - Piotrowski Park,member,2,16.5,24,9
+Public Rack - Troy & 111th St,member,2,6.0,9,3
+Public Rack - 63rd & Western Ave N,member,2,21.0,37,5
+Public Rack - 63rd St and Nagle Ave,member,2,11.5,13,10
+Public Rack - Ashland Ave & 73rd St,casual,2,11.0,15,7
+Public Rack - Longwood Dr & 95th St,casual,2,10.0,16,4
+Public Rack - Western Ave & 92nd Pl,member,2,14.0,26,2
+Public Rack - Kenneth Ave & 63rd St E,member,2,7.5,12,3
+Public Rack - Vincennes Ave & 95th Pl,member,2,3.5,6,1
+Public Rack - Kedvale Ave & Addison St,member,2,11.5,18,5
+Public Rack - Sawyer Ave & Bryn Mawr Ave - SE,member,2,15.5,23,8
+Public Rack - Devon Ave & Minnehaha Ave (east),casual,2,39.0,40,38
+Public Rack - Neenah & Dakin,member,2,10.0,18,2
+Public Rack - 85th Pl & Pulaski Rd,casual,2,17.5,28,7
+Public Rack - Ashland Ave & 46th St,member,2,9.5,10,9
+Public Rack - Langley Ave & 105th Pl,casual,2,15.0,25,5
+Public Rack - Washtenaw Ave & 63rd St,casual,2,25.0,39,11
+Public Rack - Torrence Ave  & 106th St,casual,2,29.5,50,9
+Public Rack - Michele Clark Magnet High School,casual,2,16.0,22,10
+Public Rack - Cicero & Rosemont,member,2,22.0,31,13
+Public Rack - Western Blvd & 53rd St,member,2,8.5,10,7
+Public Rack - Michigan Ave & 119th St,casual,2,7.5,11,4
+Public Rack - Leland Ave & Melvina Ave,member,2,9.0,17,1
+Public Rack - Wentworth Ave & 103rd St,casual,2,30.5,53,8
+Public Rack - Peterson Ave & Bernard Ave,casual,2,5.0,7,3
+Public Rack - Harding Ave & 47th St,member,2,3.0,5,1
+Public Rack - Canty Elementary School,casual,2,15.5,20,11
+Augusta Blvd & Laramie Ave,member,2,24.0,31,17
+Public Rack - Martin Luther King Dr & 69th St,member,2,12.5,17,8
+Public Rack - Cicero & 64th,member,2,14.5,25,4
+Public Rack - St Louis & 83rd,casual,2,7.5,11,4
+Public Rack - Parkside & Elston,member,2,18.5,32,5
+Public Rack - Parnell Ave & 98th St,casual,2,14.5,18,11
+Public Rack - Central Park Ave & Ogden Ave,casual,2,4.0,5,3
+Public Rack - Vincennes Ave & 99th St,member,2,32.0,56,8
+Public Rack - Brandon Ave & 91st St,casual,2,18.5,29,8
+Public Rack - Mulligan Ave & 56th St,member,2,3.5,5,2
+Public Rack - Avenue J & 102nd St,casual,2,19.0,27,11
+Public Rack - Princeton Ave & 43rd St,casual,2,4.0,5,3
+Public Rack - Linder & Elston,member,2,8.0,10,6
+Public Rack - Maplewood Ave & 63rd St,member,2,6.5,7,6
+Public Rack - Mackinaw Ave & 106th St,member,2,16.0,19,13
+Public Rack - Cottage Grove & 85th St,casual,2,11.0,15,7
+Public Rack - Laflin St & 79th St,casual,2,50.5,61,40
+Woodlawn & 103rd,member,1,9.0,9,9
+Public Rack - Ada St & 119th St,member,1,12.0,12,12
+Public Rack - Ewing Ave & 101st St,member,1,3.0,3,3
+Public Rack - 63rd St and Natoma Ave,casual,1,16.0,16,16
+Public Rack - Houston Ave & 130th St,member,1,14.0,14,14
+Public Rack - Ozark Ave & Addison St,member,1,12.0,12,12
+Public Rack - Marquette Ave & 79th St,casual,1,28.0,28,28
+Public Rack - Princeton Ave & 99th Pl,casual,1,7.0,7,7
+Public Rack - Vincennes Ave & 87th St,member,1,32.0,32,32
+Public Rack - Baltimore Ave & 134th St,member,1,22.0,22,22
+Public Rack - Cottage Grove Ave & 91st St,member,1,6.0,6,6
+Public Rack - Central Park Ave & Fillmore St,casual,1,28.0,28,28
+Public Rack - Sacramento Blvd & Division St,casual,1,12.0,12,12
+Public Rack - Karlov Ave & 26th St,member,1,22.0,22,22
+Public Rack - Vincennes Ave & 95th Pl,casual,1,6.0,6,6
+Public Rack - Cottage Grove & 84th St,casual,1,3.0,3,3
+Public Rack - Western Ave & 105th St,member,1,4.0,4,4
+Public Rack - Lafayette Ave & 87th St - NW,casual,1,10.0,10,10
+Public Rack - Oakley & 79th Pl,casual,1,8.0,8,8
+Public Rack - Cottage Grove Ave & 75th St,member,1,47.0,47,47
+Public Rack - Kostner Ave & 16th St,member,1,45.0,45,45
+Public Rack - Leclaire Ave & Division St,casual,1,44.0,44,44
+Public Rack - Hoyne Ave & 51st St,member,1,10.0,10,10
+Public Rack - Central Park Ave & Fulton Blvd,member,1,35.0,35,35
+Public Rack - St Louis Ave & Flournoy St,casual,1,119.0,119,119
+Eberhart Ave & 131st St,member,1,34.0,34,34
+Public Rack - Pulaski Rd & 83rd St,member,1,124.0,124,124
+Public Rack - Kedzie & 73rd,member,1,9.0,9,9
+Public Rack - Horner & 85th,member,1,2.0,2,2
+Kildare Ave & 85th St,casual,1,14.0,14,14
+Public Rack - Hamilton Park,member,1,2.0,2,2
+Public Rack - Zapata Academy,casual,1,19.0,19,19
+Public Rack - Avenue J & 102nd St,member,1,58.0,58,58
+Public Rack - James Madison School,member,1,20.0,20,20
+Public Rack - Racine Ave & 83rd St,member,1,4.0,4,4
+Public Rack - Rhodes Ave & 79th St,member,1,12.0,12,12
+Public Rack - Houston Ave & 91st St,casual,1,8.0,8,8
+Public Rack - Kostner Ave & Lake St,member,1,25.0,25,25
+Public Rack - Longwood Dr & 111th St,casual,1,12.0,12,12
+Public Rack - Oglesby Ave & 105th St,casual,1,12.0,12,12
+Public Rack - Michigan Ave & 110th St,member,1,4.0,4,4
+Public Rack - Baltimore Ave & 134th St,casual,1,2.0,2,2
+Public Rack - Pulaski Rd & Flournoy St,casual,1,24.0,24,24
+Public Rack - 83rd St (Avalon Park) Metra,casual,1,27.0,27,27
+Keeler Ave & Carmen Ave,member,1,10.0,10,10
+Public Rack - Pulaski & 84th,member,1,75.0,75,75
+Public Rack - Avenue J & 112th St,casual,1,15.0,15,15
+Public Rack - Harlem & Summerdale,casual,1,13.0,13,13
+Public Rack - Honore St & 87th St,member,1,1.0,1,1
+Public Rack - Ewing Ave & 102nd St,member,1,4.0,4,4
+Public Rack - Grand Ave & North Ave,member,1,26.0,26,26
+Public Rack - Cottage Grove Ave & 98th St,casual,1,96.0,96,96
+Public Rack - Northwest Hwy & Overhill Ave,casual,1,4.0,4,4
+Woodlawn & 103rd - Olive Harvey Vaccination Site,member,1,12.0,12,12
+Public Rack - Komensky Ave & 26th St,member,1,9.0,9,9
+Public Rack - Mackinaw Ave & 108th St,member,1,45.0,45,45
+Public Rack - Octavia Ave & Touhy Ave,casual,1,48.0,48,48
+Public Rack - Torrence Ave & 103rd St,casual,1,10.0,10,10
+Public Rack - Leclaire Ave & Division St,member,1,2.0,2,2
+Public Rack - Independence Blvd & Roosevelt,member,1,15.0,15,15
+Public Rack - Michigan Ave & 110th St,casual,1,4.0,4,4
+Public Rack - Mt Greenwood Library - South,member,1,19.0,19,19
+Public Rack - Western Ave & 111th St - NW,member,1,13.0,13,13
+Public Rack - Ewing Ave & 107th St,member,1,22.0,22,22
+Public Rack - Newcastle & Archer,member,1,1.0,1,1
+Public Rack - Ewing Ave & 102nd St,casual,1,4.0,4,4
+Public Rack - Damen Ave & 84th St,casual,1,58.0,58,58
+Public Rack - 10557 S Western Ave,member,1,3.0,3,3
+Public Rack - Kildare Ave & Division St,member,1,59.0,59,59
+Public Rack - Hiawatha Park,member,1,9.0,9,9
+Public Rack - Ellis Ave & Doty Ave,casual,1,161.0,161,161
+Public Rack - Baltimore Ave & 132nd St,member,1,12.0,12,12
+Public Rack - Ewing Ave & 105th St,casual,1,7.0,7,7
+Public Rack - Mackinaw Ave & 106th St,casual,1,3.0,3,3
+Public Rack - Longwood Dr & 95th St,member,1,7.0,7,7
+Public Rack - May St & 63rd St,casual,1,6.0,6,6
+Public Rack - Keeler Ave & 55th St,casual,1,3.0,3,3
+Public Rack - Yates Blvd & Exchange Ave,member,1,16.0,16,16
+Public Rack - Kingston Ave & 75th St,member,1,7.0,7,7
+Public Rack - Ave N & 106th St,member,1,38.0,38,38
+Damen Ave & 87th St,member,1,5.0,5,5
+Public Rack - Higgins Ave & Neva Ave,member,1,6.0,6,6
+Public Rack - Nina Ave & Avondale Ave,casual,1,3.0,3,3
+Public Rack - Neola & Northwest Hwy,member,1,5.0,5,5
+Public Rack - Hale Ave & 111th St,member,1,3.0,3,3
+Public Rack - Morgan St & 87th St,casual,1,6.0,6,6
+Public Rack - Kedzie Ave & Walnut St,casual,1,6.0,6,6
+Public Rack - Springfield Ave & 63rd St,member,1,10.0,10,10
+Public Rack - Lake Park Ave & 44th St,casual,1,57.0,57,57
+Public Rack - Ellis Ave & 132nd Pl,casual,1,153.0,153,153
+Public Rack - Peoria St & 60th St,member,1,37.0,37,37
+Public Rack - Kolin Ave & Archer Ave,member,1,17.0,17,17
+Public Rack - Elizabeth St & 115th St,casual,1,4.0,4,4
+Public Rack - Menard Ave & Leland Ave,member,1,15.0,15,15
+Public Rack - Christiana Ave & 55th St,casual,1,6.0,6,6
+Public Rack - Honore St & 87th St - SE,casual,1,13.0,13,13
+Public Rack - Pullman - Planet Fitness,member,1,11.0,11,11
+Public Rack - Oak Park Ave & Foster Ave,member,1,7.0,7,7
+Public Rack - Independence Blvd & Roosevelt,casual,1,2.0,2,2
+Public Rack - Robert Fulton Elementary School,member,1,14.0,14,14
+Public Rack - The Montessori School of Englewood,casual,1,25.0,25,25
+Public Rack - Troy & 111th St,casual,1,7.0,7,7
+Public Rack - Springfield & 71st,member,1,13.0,13,13
+Public Rack - Avenue M & 132nd St,member,1,39.0,39,39
+Public Rack - Halsted St & 63rd St,casual,1,15.0,15,15
+Public Rack - Talman Ave & 51st St,member,1,9.0,9,9
+Public Rack - Halsted St & 113th St,member,1,13.0,13,13
+Public Rack - Oglesby Ave & 95th St,casual,1,24.0,24,24
+Public Rack - Western Ave & 98th St,member,1,5.0,5,5
+Public Rack - King Dr & Oakwood Blvd,casual,1,21.0,21,21
+Public Rack - Wentworth Ave & 79th St,casual,1,13.0,13,13
+Torrence Ave & 126th Pl,member,1,12.0,12,12
+Kostner Ave & Belmont Ave,member,1,23.0,23,23
+Public Rack - Parkside & 63rd,member,1,27.0,27,27
+Public Rack - Damen Ave & 84th St,member,1,2.0,2,2
+Public Rack - Wallace St & 112 St,casual,1,9.0,9,9
+Public Rack - Paxton Ave & 79th St,casual,1,4.0,4,4
+Public Rack - Yates Ave & 100th St,member,1,16.0,16,16
+Public Rack - Vincennes Ave & 99th St,casual,1,10.0,10,10
+Public Rack - Lafayette Ave & 87th St SW,casual,1,10.0,10,10
+Public Rack - Cottage Grove Ave & 111th St,member,1,4.0,4,4
+Public Rack - Michele Clark Magnet High School,member,1,4.0,4,4
+Public Rack - Halsted St & 64th St,member,1,2.0,2,2
+Public Rack - Halsted St & 80th St,casual,1,8.0,8,8
+Public Rack - Calumet Ave & 133rd St,casual,1,25.0,25,25
+Public Rack - Harriet E Sayre Public School,member,1,3.0,3,3
+Public Rack - Kedzie & 71st,member,1,15.0,15,15
+Public Rack - Ashland Ave & 46th St,casual,1,3.0,3,3
+Public Rack - 53rd St & Indiana Ave,member,1,7.0,7,7
+Public Rack - Lowe Ave & 94th St,casual,1,47.0,47,47
+Public Rack - Racine Ave & 76th,casual,1,7.0,7,7
+Public Rack - Union Ave & 111th St,member,1,17.0,17,17
+Public Rack - Normal Blvd & 61st Pl,casual,1,36.0,36,36
+Wentworth Ave & 104th St,member,1,8.0,8,8
+Springfield Ave & 80th St,casual,1,6.0,6,6
+Public Rack - Minuteman Park,member,1,36.0,36,36
+Public Rack - Wentworth Park,member,1,14.0,14,14
+Public Rack - Columbus & 79th,member,1,1.0,1,1
+Public Rack - Avenue J & 106th St,member,1,32.0,32,32
+Public Rack - Laflin St & 79th St,member,1,25.0,25,25
+Public Rack - Peoria St & 60th St,casual,1,72.0,72,72
+Public Rack - Yale Ave & 119th St,casual,1,5.0,5,5
+Public Rack - Ewing Ave & 101st St,casual,1,12.0,12,12
+Public Rack - Ewing Ave & 106th St,member,1,4.0,4,4
+Public Rack - 83rd Pl & Kedzie Ave N,member,1,22.0,22,22
+Public Rack - Eberhart Ave & 61st St,member,1,48.0,48,48
+Public Rack - Ottowa Ave & Touhy Ave,member,1,76.0,76,76
+Public Rack - Lake Park Ave & 44th St,member,1,47.0,47,47
+Public Rack - Linder Ave & Belmont Ave,member,1,9.0,9,9
+Public Rack - Mason Ave & Milwaukee Ave,member,1,19.0,19,19
+Public Rack - Oleander Ave & Addison St,casual,1,20.0,20,20
+Public Rack - Austin Ave & Wellington Ave,member,1,15.0,15,15
+Public Rack - Central Ave & Congress Pkwy,casual,1,139.0,139,139
+Public Rack - Holbrook St & Milwaukee Ave,member,1,4.0,4,4
+Wood St & 84th St,member,1,8.0,8,8
+Lavergne Ave & 46th St,member,1,4.0,4,4
+Public Rack - Oglesby Ave & 95th St,member,1,75.0,75,75
+Public Rack - Michigan Ave & 67th St,casual,1,33.0,33,33
+Public Rack - Paul Revere Elementary School,member,1,51.0,51,51
+Public Rack - Newcastle Ave & Wellington Ave,casual,1,13.0,13,13
+Public Rack - Panama Ave & Forest Preserve Ave,member,1,78.0,78,78
+Public Rack - Pulaski Rd & Roosevelt Rd,member,1,7.0,7,7
+Public Rack - Western Ave & 79th St,member,1,10.0,10,10
+Public Rack - Jeffery Blvd & 83rd St,casual,1,17.0,17,17
+Public Rack - May St & 78th St,member,1,4.0,4,4
+Public Rack - Racine Ave & 76th,member,1,2.0,2,2
+Public Rack - Michigan Ave & 67th St,member,1,8.0,8,8
+Public Rack - Oketo & Northwest Hwy,member,1,31.0,31,31
+Public Rack - Houston Ave & 130th St,casual,1,5.0,5,5
+Public Rack - Spaulding Ave & 71st St,casual,1,54.0,54,54
+Public Rack - Wilbur Wright College North,member,1,23.0,23,23
+Public Rack - Throop St & 48t ST,casual,1,16.0,16,16
+Public Rack - Legler Regional Library,casual,1,12.0,12,12
+Public Rack - Eggleston Ave & 115th St,member,1,39.0,39,39
+Public Rack - Morgan St & 95th St,casual,1,12.0,12,12
+Public Rack - Loomis Blvd & 83rd St,member,1,2.0,2,2
+Public Rack - Meade Ave & Archer Ave,member,1,6.0,6,6
+Public Rack - Devon Ave & Kinzua Ave,casual,1,33.0,33,33
+Public Rack - Mulligan & Northwest Hwy,casual,1,11.0,11,11
+Public Rack - Al Raby School,member,1,6.0,6,6
+Public Rack - Ashburn Metra ,casual,1,5.0,5,5
+Public Rack - Pulaski & 84th,casual,1,7.0,7,7
+Public Rack - May St & 78th St,casual,1,82.0,82,82
+Public Rack - 63rd & Western Ave N,casual,1,3.0,3,3
+Public Rack - Pulaski Rd & 85th St,member,1,149.0,149,149
+Public Rack - Pulaski Rd & 85th St,casual,1,7.0,7,7
+Public Rack - Calumet Ave & 71st St,member,1,3.0,3,3
+Public Rack - Kostner Ave & North Ave,casual,1,19.0,19,19
+Public Rack - Eggleston Ave & 115th St,casual,1,1.0,1,1
+Public Rack - Wrightwood Metra Station,casual,1,9.0,9,9
+Public Rack - Yates Blvd & Exchange Ave,casual,1,1.0,1,1
+Public Rack - Lowe Park,member,1,12.0,12,12
+Public Rack - Halsted St & 80th St,member,1,16.0,16,16
+Public Rack - Pulaski & 74th,member,1,37.0,37,37
+Bradley Park,member,1,10.0,10,10
+Public Rack - Cornell Ave & 87th Pl,member,1,150.0,150,150
+Public Rack - Ewing Ave & 95th St,casual,1,14.0,14,14
+Public Rack - Neenah & Dakin,casual,1,11.0,11,11
+Public Rack - Mulligan & Northwest Hwy,member,1,6.0,6,6
+Public Rack - Wilbur Wright College North,casual,1,13.0,13,13
+Public Rack - Walden Pkwy & 99th St,casual,1,7.0,7,7
+Public Rack - Cottage Grove Ave & 92nd St,member,1,50.0,50,50
+Public Rack - Cicero Ave & Le Moyne St - midblock,member,1,13.0,13,13
+Public Rack - Lamon Ave & Erie St,member,1,1.0,1,1
+Public Rack - Wabash Ave & 87th St,member,1,13.0,13,13
+Avenue L & 114th St,member,1,30.0,30,30
+Public Rack - Western Blvd & 53rd St,casual,1,4.0,4,4
+Public Rack - Hamilton Park,casual,1,12.0,12,12
+Public Rack - Calumet Ave & 103rd St,casual,1,7.0,7,7
+Public Rack - Central Ave & Adams St,member,1,8.0,8,8
+Public Rack - Western Ave & 107th St,member,1,4.0,4,4
+Public Rack - 10101 S Stony Island Ave,casual,1,18.0,18,18
+Public Rack - Ashland Ave & 45th St  S,casual,1,13.0,13,13
+Public Rack - Christiana Ave & 111th St,casual,1,7.0,7,7
+Public Rack - Archer Park,member,1,4.0,4,4
+Public Rack - May St & 63rd St,member,1,3.0,3,3
+Public Rack - Brainerd Park,casual,1,6.0,6,6
+Cicero Ave & Roscoe Ave,member,1,4.0,4,4
+Public Rack - Laflin St & 51st St,casual,1,19.0,19,19
+Public Rack - Western Ave & 106th St - East,member,1,11.0,11,11

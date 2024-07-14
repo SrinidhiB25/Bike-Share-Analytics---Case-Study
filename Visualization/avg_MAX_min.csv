@@ -1,0 +1,6 @@
+member_casual,rideable_type,rides_total,avg_trip_duration,max_trip_duration,min_trip_duration
+member,classic_bike,1789030,12.701237542131748,1439,1
+member,electric_bike,1774327,11.052846515890257,481,1
+casual,electric_bike,1063621,14.290482230042441,480,1
+casual,classic_bike,860752,25.541441669609835,1439,1
+casual,docked_bike,76115,56.658017473559738,1440,1
