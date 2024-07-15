@@ -10,9 +10,8 @@ The data has been made available by Motivate International Inc. under this [lice
 
 Tools: Spreadsheet (Google sheet), SQL (BigQuery), Tableau
 
-Visualization: Go to my[
-](https://public.tableau.com/app/profile/jhermienpaul)[*Tableau
-Profile*](https://public.tableau.com/app/profile/srinidhi.b8847)
+Visualization: Go to my [Tableau
+Profile](https://public.tableau.com/app/profile/srinidhi.b8847)
 
 ## Characters and teams
 
