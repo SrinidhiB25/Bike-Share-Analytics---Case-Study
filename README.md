@@ -3,13 +3,10 @@
 ## Introduction: 
 This case study is part of the journey to earn a
 [Google Data Analytics Professional
-Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).In
-this case study, the steps of the data analysis process: Ask,
-Prepare,Process, Analyze, Share and Act are performed to show how casual
-riders and annual members use Cyclistic bikes differently.
+Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). In
+this case study, the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share and Act are performed to show how casual riders and annual members use Cyclistic bikes differently.
 
-The data has been made available by Motivate International Inc. under
-this [license](https://www.divvybikes.com/data-license-agreement).
+The data has been made available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement).
 
 Tools: Spreadsheet (Google sheet), SQL (BigQuery), Tableau
 
@@ -20,30 +17,19 @@ Profile*](https://public.tableau.com/app/profile/srinidhi.b8847)
 ## Characters and teams
 
 ### Cyclistic: 
-A bike-share program that features more than 5,800
-bicycles and 600 docking stations. Cyclistic sets itself apart by also
-offering reclining bikes, hand tricycles, and cargo bikes, making
-bike-share more inclusive to people with disabilities and riders who
-can’t use a standard two-wheeled bike. The majority of riders opt for
-traditional bikes; about 8% of riders use the assistive options.
-Cyclistic users are more likely to ride for leisure, but about 30% use
-the bikes to commute to work each day.
+A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options.
+Cyclistic users are more likely to ride for leisure, but about 30% use the bikes to commute to work each day.
 
 ### LilyMoreno:
-The director of marketing and manager. Moreno is
-responsible for the development of campaigns and initiatives to promote
-the bike-share program. These may include email, social media, and other
-channels.
+The director of marketing and manager. Moreno is responsible for the development of campaigns and initiatives to promote
+the bike-share program. These may include email, social media, and other channels.
 
-## 1.Ask
+## 1. Ask
 
 ### Scenario:
-The marketing team at Cyclistic, a bike-share company located in
-Chicago, has the task of devising marketing strategies making casual
-bike riders to annual members However, in order to achieve this goal,
-the analyst team must gain a clearer understanding of the differences
-between annual members and casual riders and can drive the business
-decision by analyzing the historical data of the bike riders to drive
+The marketing team at Cyclistic, a bike-share company located in Chicago, has the task of devising marketing strategies making casual
+bike riders to annual members However, in order to achieve this goal, the analyst team must gain a clearer understanding of the differences
+between annual members and casual riders and can drive the business decision by analyzing the historical data of the bike riders to drive
 insights.
 
 ### Stakeholders:
@@ -59,31 +45,22 @@ insights.
 ## 2.Prepare
 
 ### Data Sources
-For the year 2023, a total of 12 datasets have been made available.
-Every ride that Cyclistic customers have logged is detailed in each
-dataset. The personal information of the riders has been removed from
-this publicly available data.
+For the year 2023, a total of 12 datasets have been made available. Every ride that Cyclistic customers have logged is detailed in each
+dataset. The personal information of the riders has been removed from this publicly available data.
 -   The data is organized by month and year and is stored as a zip file.
 -   There are no issues with bias or credibility in this data.
 -   Data is ROCCC i-e; as follows
--   Reliable:The data is reliable and credible.
--   Original: The data has been validated by the source.
--   Comprehensive:The data has all the elements required for the data analysis process.
--   Current:The data is current as it has been constantly updated to the current month.
--   Cited:The data has been cited by the source.
+-   **Reliable:** The data is reliable and credible.
+-   **Original:** The data has been validated by the source.
+-   **Comprehensive:** The data has all the elements required for the data analysis process.
+-   **Current:** The data is current as it has been constantly updated to the current month.
+-   **Cited:** The data has been cited by the source.
 
 ### Documentation, Cleaning and Preparation of data for analysis
-In order to conduct an adequate analysis,Data integrity can be achieved
-by checking data redundancy , accuracy, verification,data validation
-using spreadsheets and would need to employ either SQL or R, as the
-total size of the dataset is too large to be handled by a simple
-spreadsheet. I chose SQL(BigQuery) because I could handle data
-manipulation, analysis on the same platform.
+In order to conduct an adequate analysis, Data integrity can be achieved by checking data redundancy, accuracy, verification, data validation using spreadsheets and would need to employ either SQL or R, as the total size of the dataset is too large to be handled by a simple spreadsheet. I chose SQL(BigQuery) because I could handle data manipulation, analysis on the same platform.
 
-Addressing licensing, privacy, security, and accessibility involves
-implementing comprehensive strategies in each of the areas to ensure
-compliance with regulations, protect user data, and provide inclusive
-access.
+Addressing licensing, privacy, security, and accessibility involves implementing comprehensive strategies in each of the areas to ensure
+compliance with regulations, protect user data, and provide inclusive access.
 
 ### Key Tasks
 -   Download data and store it appropriately.
@@ -97,19 +74,15 @@ access.
 -   The next steps are to download and prepare the data for analysis.
     Preparing data will involve observing the data and determining if
     the data needs to be combined/cleaned or organized. The data I have
-    downloaded is for 12 months: January 2023 - December 2023.
+    downloaded is for 12 months: January 2023 - December 2023. [Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 ![](Pictures/dataset.png)
 
-The files are saved in both .csv and .xlxs format. To observe the data I
-used the .xlxs files.
+The files are saved in both .csv and .xlxs format. To observe the data I used the .xlxs files.
 
-I tried performing some basic calculations to understand the range of
-the data in Google Sheet as the dataset is too large and found
-difficulty so chose the SQL in BigQuery for further calculations and
-analysis.By Google Sheet got to know few knowledge about the dataset as
+I tried performing some basic calculations to understand the range of the data in Google Sheet as the dataset is too large and found
+difficulty so chose the SQL in BigQuery for further calculations and analysis.By Google Sheet got to know few knowledge about the dataset as
 follows:
-
 -   There are 13 columns in the files.
 -   There are three types of bikes: Classic Bike, Docked Bike and electric Bike
 -   There are started at and ended at time stamps which can be used to find the duration of each trip.
@@ -125,10 +98,9 @@ using the UNION ALL query as below.
 
 Below is the query result table:
 
-![](Pictures/no.rides_per_month.png)
+![](Pictures/combinedataset.png)
 
-The combined data set has **13** columns and **5719877** rows. I saved
-the data set as a new BigQuery table “Combined\_12months\_dataset “
+The combined data set has **13** columns and **5719877** rows. I saved the data set as a new BigQuery table **Combined_12months_dataset**
 
 ## 3.Process
 
@@ -138,24 +110,21 @@ saving the final data set that will be used for the analysis.
 
 ### Guiding questions
 
- ● What tools are you choosing and why?
-       Tool choosing is SQL in BigQuery as the dataset is too large its easy
-for the calculation and analysis purpose.
+ ● **What tools are you choosing and why?**
+       Tool choosing is SQL in BigQuery as the dataset is too large its easy for the calculation and analysis purpose.
 
- ● Have you ensured your data’s integrity?
-       Yes, data is reliable by checking data validation,redundancy,accuracy.
+ ● **Have you ensured your data’s integrity?**
+       Yes, data is reliable by checking data validation, redundancy, accuracy.
 
- ● What steps have you taken to ensure that your data is clean?
+ ● **What steps have you taken to ensure that your data is clean?**
 -    Review data documentation and metadata.
--    Removing duplicate records and the blank/empty cell rows based on
-    the relevance.
+-    Removing duplicate records and the blank/empty cell rows based on the relevance.
 -    Convert data types to appropriate format.
 -    Validating data integrity.
 -    Standardize date formats, text casing, and numerical precision.
 -    Ensure documentation is clear and accessible for future reference.
 
 ### Key tasks
-
  ● Check the data for errors.
  ● Choose your tools.
  ● Transform the data so you can work with it effectively.
@@ -185,50 +154,45 @@ tripduration_minutes greater than a day or equal to zero. The query deleted 156,
 
 ![](Pictures/outputdeleting.png)
 
-![](Pictures/100002010000063100000307A96330B9E3557B5C.png)
-# ***TBD***
+![](Pictures/finaldataset.png)
 
-Some cells have null as start_station_name and end_station_name but the number of rows with null in the columns is quite significant so did not delete the rows as deleting these rows would significantly reduce
-the data set.
+Some cells have null as start_station_name and end_station_name but the number of rows with null in the columns is quite significant so did not delete the rows as deleting these rows would significantly reduce the data set.
 
 ## 4.Analyze
 
-**Explanation:** In this phase, analyze existing relationships across
-columns to identify key trend insights by extracting small data sets
-from the final table. These tables helped to understand and to make data
-driven decisions about the difference between the riding of casual
+**Explanation:** In this phase, analyze existing relationships across columns to identify key trend insights by extracting small data sets
+from the final table. These tables helped to understand and to make data driven decisions about the difference between the riding of casual
 riders vs member riders.
 
 **Key Tasks**
- ● Aggregate the data so it’s useful and accessible.
- ● Organize and format the data.
- ● Perform calculations.
- ● Identify trends and relationships
+ - Aggregate the data so it’s useful and accessible.
+ - Organize and format the data.
+ - Perform calculations.
+ - Identify trends and relationships
 
-**Step:1** Executed a query to find the ride total, average, maximum and minimum trip duration for different ride types by casual and member riders.
-
-![](Pictures/day_of_week.png)
-
-![](Pictures/avg. trip_per_ridetype.png)
-
-**Step:2** Executed a query to find the ride total, average, maximum and minimum trip duration for each month by casual and member riders.
-
-![](Pictures/10000201000004F5000002229ABE1FD279474AFB.png)
-
-![](Pictures/1000020100000505000002520F5A3F92CD1FD472.png)
-
-**Step:3** Executed a query to find the ride total, average, maximum and minimum trip duration for each day of the week by casual and member riders.
-
-![](Pictures/10000201000004E7000001C0BF560BC21616F5F3.png)
-
-![](Pictures/10000201000005EC000002A452F4781B24B774D8.png)
-
-**Step:4** Executed a query to find the ride total, average, maximum and minimum trip duration at each start station by casual and member riders.
+**Step: 1** Executed a query to find the ride total, average, maximum and minimum trip duration for different ride types by casual and member riders.
 
 ![](Pictures/avg_max_min.png)
 
-# TBD
-![](Pictures/10000201000006000000023B55C0D4BCE1FFFC2C.png)
+![](Pictures/avg_trip_per_ridetype.png)
+
+**Step: 2** Executed a query to find the ride total, average, maximum and minimum trip duration for each month by casual and member riders.
+
+![](Pictures/bymonth.png)
+
+![](Pictures/no.rides_per_month.png)
+
+**Step:3** Executed a query to find the ride total, average, maximum and minimum trip duration for each day of the week by casual and member riders.
+
+![](Pictures/day_of_week.png)
+
+![](Pictures/no.rides_per_day_of_week.png)
+
+**Step:4** Executed a query to find the ride total, average, maximum and minimum trip duration at each start station by casual and member riders.
+
+![](Pictures/station.png)
+
+![](Pictures/statout.png)
 
 **Step 5:** Execute a query to find the total number of rides and its percentage taken by each rider type, sorted in alphabetical order and the percentage rounded to two decimal places.
 
@@ -240,7 +204,8 @@ riders vs member riders.
 In this phase of data analysis, visualize key relationships and trends using Tableau. These visualizations will help the tables observed using SQL queries above, easy to understand and interpret to
 data driven analysis.
 
-**Compared number of rides between Casual vs Member riders**: The visualization below highlights that the frequency of bike usage among member riders is more compared to casual riders.
+**Compared number of rides between Casual vs Member riders**: 
+The visualization below highlights that the frequency of bike usage among member riders is more compared to casual riders.
 ![](Pictures/member_casual.png)
 
 **Compared average trip duration per ride type between casual and member riders:**
